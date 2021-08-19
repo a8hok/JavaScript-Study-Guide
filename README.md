@@ -18,8 +18,8 @@
 
 ## `Interview Question collections`
 
-[https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im](https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im)
-[https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
-[https://hemant.hashnode.dev/60-javascript-interview-questions](https://hemant.hashnode.dev/60-javascript-interview-questions)
-[https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview)
-[https://www.tutsmake.com/javascript-es6-interview-question-and-answer/](https://www.tutsmake.com/javascript-es6-interview-question-and-answer/)
+[https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im](https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im)<br/>
+[https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)<br/>
+[https://hemant.hashnode.dev/60-javascript-interview-questions](https://hemant.hashnode.dev/60-javascript-interview-questions)<br/>
+[https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview)<br/>
+[https://www.tutsmake.com/javascript-es6-interview-question-and-answer/](https://www.tutsmake.com/javascript-es6-interview-question-and-answer/)<br/>
