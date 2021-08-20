@@ -14,7 +14,7 @@
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
-    - ### Closure
+- ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
 
 
@@ -24,6 +24,7 @@
 
 - ### Promises
     - [https://towardsdev.com/promises-in-javascript-285f523c3e8d](https://towardsdev.com/promises-in-javascript-285f523c3e8d)<br/>
+    - [https://javascript.plainenglish.io/what-is-the-importance-of-using-async-await-17b95870a05f](https://javascript.plainenglish.io/what-is-the-importance-of-using-async-await-17b95870a05f)<br/>
 
 
 - ### Es6
@@ -43,8 +44,14 @@
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
 
 
-## `Javascript Interview Questions`
+## `Javascript Style Guides`
+- [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
+- [https://enlear.academy/how-to-set-up-airbnb-style-guide-82413ea6c5f2](https://enlear.academy/how-to-set-up-airbnb-style-guide-82413ea6c5f2)<br/>
 
+## `Performance/Code Optimization`
+- [https://blog.bitsrc.io/14-javascript-code-optimization-tips-for-front-end-developers-f878e4ea2314](https://blog.bitsrc.io/14-javascript-code-optimization-tips-for-front-end-developers-f878e4ea2314)<br/>
+
+## `Javascript Interview Questions`
 - [https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im](https://dev.to/capscode/500-javascript-question-answers-with-explanation-29im)<br/>
 - [https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)<br/>
 - [https://hemant.hashnode.dev/60-javascript-interview-questions](https://hemant.hashnode.dev/60-javascript-interview-questions)<br/>
@@ -53,6 +60,10 @@
 - [https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/](https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/)<br/>
 - [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
 
+## `Tips and Tricks`
+- [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
+- [https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s](https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s)<br/>
+- [https://iampalash.hashnode.dev/10-awesome-javascript-shorthands](https://iampalash.hashnode.dev/10-awesome-javascript-shorthands)<br/>
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
@@ -61,3 +72,6 @@
 
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
+- [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)<br/>
+- [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
+
