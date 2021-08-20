@@ -78,6 +78,28 @@
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
 - [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)<br/>
-- [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
+- [https://jsstartup.com/https://jsstartup.com/]()<br>
 - [https://hashnode.com/n/javascript](https://hashnode.com/n/javascript)<br/>
+- [https://javascriptweekly.com/](https://javascriptweekly.com/)<br>
+- [https://weekly.bestofjs.org/](https://weekly.bestofjs.org/)<br>
+- [http://esnextnews.com/](http://esnextnews.com/)<br>
+- [http://adripofjavascript.com/archive.html](http://adripofjavascript.com/archive.html)<br>
+- [http://jster.net/blog](http://jster.net/blog)<br>
+- [https://js.libhunt.com/newsletter](https://js.libhunt.com/newsletter)<br>
+- [https://webtoolsweekly.com/](https://webtoolsweekly.com/)<br>
+- [https://techbeacon.com/app-dev-testing/27-javascript-experts-follow-twitter](https://techbeacon.com/app-dev-testing/27-javascript-experts-follow-twitter)<br>
+- [https://gamedevjsweekly.com/](https://gamedevjsweekly.com/)<br>
+- [https://ponyfoo.com/weekly](https://ponyfoo.com/weekly)<br>
 
+## `Developers to follow`
+- [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
+- [https://umaar.com/dev-tips/](https://umaar.com/dev-tips/)<br>
+
+## `Learn Javascript`
+- [https://jstherightway.org/](https://jstherightway.org/)<br>
+- [https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112](https://code.tutsplus.com/series/learn-javascript-the-complete-guide--cms-1112)<br>
+- [https://scotch.io/courses/getting-started-with-javascript-for-web-development?ref=home-start-here](https://scotch.io/courses/getting-started-with-javascript-for-web-development?ref=home-start-here)<br>
+
+## `Javascript Books`
+- [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
+- [https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf](https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf)<br>
