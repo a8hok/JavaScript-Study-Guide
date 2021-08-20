@@ -10,6 +10,9 @@
     - [https://ui.dev/this-keyword-call-apply-bind-javascript/](https://ui.dev/this-keyword-call-apply-bind-javascript/)<br/>
     - [https://livecodestream.dev/post/understanding-this-keyword-in-javascript/](https://livecodestream.dev/post/understanding-this-keyword-in-javascript/)<br/>
 
+- ### Patterns
+    - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
+    - [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
 
 
 - ### Functions
@@ -58,12 +61,14 @@
 - [https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview](https://codelifefitness.hashnode.dev/12-common-javascript-questions-i-used-to-ask-in-interview)<br/>
 - [https://www.tutsmake.com/javascript-es6-interview-question-and-answer/](https://www.tutsmake.com/javascript-es6-interview-question-and-answer/)<br/>
 - [https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/](https://www.geeksforgeeks.org/10-most-asked-es6-interview-questions-answers-for-developers/)<br/>
-- [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
 - [https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s](https://hackernoon.com/the-clean-code-book-for-javascript-developers-a-quick-summary-m82b373s)<br/>
 - [https://iampalash.hashnode.dev/10-awesome-javascript-shorthands](https://iampalash.hashnode.dev/10-awesome-javascript-shorthands)<br/>
+- [https://medium.com/geekculture/javascript-hacks-cf8f0fecbc60](https://medium.com/geekculture/javascript-hacks-cf8f0fecbc60)<br/>
+- [https://apoorvtyagi.tech/javascript-tips-and-best-practices](https://apoorvtyagi.tech/javascript-tips-and-best-practices)<br/>
+- [https://javascript.plainenglish.io/10-tips-to-improve-readability-in-javascript-382eb287437](https://javascript.plainenglish.io/10-tips-to-improve-readability-in-javascript-382eb287437)<br>
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
@@ -74,4 +79,5 @@
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
 - [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)<br/>
 - [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
+- [https://hashnode.com/n/javascript](https://hashnode.com/n/javascript)<br/>
 
