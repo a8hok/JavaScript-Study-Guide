@@ -1,5 +1,29 @@
 # Javascript Interview preparation
 
+Table of Contents
+=================
+   * [Javascript Concepts](#javascript-concepts)
+      * [Variable, Scope, Hoisting](#variable-scope-hoisting)
+      * [this](#this)
+      * [Patterns](#patterns)
+      * [Functions](#functions)
+      * [Closure](#closure)
+      * [Currying](#currying)
+      * [Promises](#promises)
+      * [Es6](#es6)
+      * [Array](#array)
+      * [Objects](#objects)
+      * [Regex](#regex)
+   * [Javascript Style Guides](#javascript-style-guides)
+   * [Performance/Code Optimization](#performancecode-optimization)
+   * [Javascript Interview Questions](#javascript-interview-questions)
+   * [Tips and Tricks](#tips-and-tricks)
+   * [Javascript Cheatsheet](#javascript-cheatsheet)
+   * [Javascript News Letters](#javascript-news-letters)
+   * [Developers to follow](#developers-to-follow)
+   * [Learn Javascript](#learn-javascript)
+   * [Javascript Books](#javascript-books)
+
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
     - [https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/)<br/>
@@ -90,6 +114,7 @@
 - [https://techbeacon.com/app-dev-testing/27-javascript-experts-follow-twitter](https://techbeacon.com/app-dev-testing/27-javascript-experts-follow-twitter)<br>
 - [https://gamedevjsweekly.com/](https://gamedevjsweekly.com/)<br>
 - [https://ponyfoo.com/weekly](https://ponyfoo.com/weekly)<br>
+- [https://readme.md/category/javascript](https://readme.md/category/javascript)<br>
 
 ## `Developers to follow`
 - [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
