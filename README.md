@@ -2,18 +2,26 @@
 
 Table of Contents
 =================
+
+* [Javascript Interview preparation](#javascript-interview-preparation)
+* [Table of Contents](#table-of-contents)
    * [Javascript Concepts](#javascript-concepts)
       * [Variable, Scope, Hoisting](#variable-scope-hoisting)
       * [this](#this)
       * [Patterns](#patterns)
+      * [Prototype](#prototype)
       * [Functions](#functions)
       * [Closure](#closure)
+      * [Iterators](#iterators)
       * [Currying](#currying)
       * [Promises](#promises)
-      * [Es6](#es6)
+      * [Es6+](#es6)
       * [Array](#array)
       * [Objects](#objects)
+      * [String](#string)
+      * [Date and time](#date-and-time)
       * [Regex](#regex)
+      * [Error Handling](#error-handling)
    * [Javascript Style Guides](#javascript-style-guides)
    * [Performance/Code Optimization](#performancecode-optimization)
    * [Javascript Interview Questions](#javascript-interview-questions)
@@ -24,6 +32,8 @@ Table of Contents
    * [Learn Javascript](#learn-javascript)
    * [Javascript Books](#javascript-books)
    * [General](#general)
+   * [Best Practices](#best-practices)
+   * [Javascript Projects](#javascript-projects)
 
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
@@ -102,7 +112,7 @@ Table of Contents
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
     - [https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0)<br>
-    -[https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230)<br>
+    - [https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230)<br>
     - [https://javascript.plainenglish.io/copies-of-javascript-shallow-and-deep-copy-ac7f8dcd1dd0](https://javascript.plainenglish.io/copies-of-javascript-shallow-and-deep-copy-ac7f8dcd1dd0)<br>
     - [https://javascript.plainenglish.io/object-oriented-javascript-3f74e02a436f](https://javascript.plainenglish.io/object-oriented-javascript-3f74e02a436f)<br>
     - [https://cosmocode.io/how-to-implement-abstraction-in-javascript-javascript-object-oriented-programming/](https://cosmocode.io/how-to-implement-abstraction-in-javascript-javascript-object-oriented-programming/)<br>
