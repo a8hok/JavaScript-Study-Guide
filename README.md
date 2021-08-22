@@ -17,6 +17,7 @@ Table of Contents
       * [Promises](#promises)
       * [Es6+](#es6)
       * [Array](#array)
+      * [Event Loops](#event-loops)
       * [Objects](#objects)
       * [String](#string)
       * [Date and time](#date-and-time)
@@ -34,6 +35,7 @@ Table of Contents
    * [General](#general)
    * [Best Practices](#best-practices)
    * [Javascript Projects](#javascript-projects)
+   * [Youtube channels](#youtube-channels)
 
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
@@ -71,8 +73,8 @@ Table of Contents
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
     - [https://blog.youteee.codes/introduction-to-javascript-prototypes](https://blog.youteee.codes/introduction-to-javascript-prototypes)<br>
-    -[https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
-    -[]()<br>
+    - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
+    - []()<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
@@ -80,9 +82,9 @@ Table of Contents
     - [https://devdojo.com/rahulism/what-is-memoization-in-javascript](https://devdojo.com/rahulism/what-is-memoization-in-javascript)<br>
     - [https://yuricodesbot.hashnode.dev/understanding-functional-programming-in-javascript](https://yuricodesbot.hashnode.dev/understanding-functional-programming-in-javascript)<br>
     - [https://dev.to/thedailytechtalk/top-10-must-know-javascript-functions-1ipm](https://dev.to/thedailytechtalk/top-10-must-know-javascript-functions-1ipm)<br>
-    -[https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5](https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5)<br>
-    -[https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb](https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb)<br>
-    -[]()<br>
+    - [https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5](https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5)<br>
+    - [https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb](https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb)<br>
+    - []()<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
