@@ -263,7 +263,7 @@ Table of Contents
 - [https://medium.com/developers-arena/some-simple-and-amazing-javascript-tricks-292e1962b1f6](https://medium.com/developers-arena/some-simple-and-amazing-javascript-tricks-292e1962b1f6)<br>
 - [https://medium.com/javascript-in-plain-english/some-js-shortcuts-82bc2f56146e](https://medium.com/javascript-in-plain-english/some-js-shortcuts-82bc2f56146e)<br>
 - [https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/)<br>
-- []()<br>
+- [https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)<br>
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
@@ -293,7 +293,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/](https://javascript.plainenglish.io/)<br>
 - [https://learn.devkode.io/#/ecmascript/rest-parameters/guides](https://learn.devkode.io/#/ecmascript/rest-parameters/guides)<br>
 - [https://soshace.com/category/javascript/](https://soshace.com/category/javascript/)<br>
-- []()<br>
+- [https://www.ma-no.org/en/programming/javascript](https://www.ma-no.org/en/programming/javascript)<br>
 
 ## `Developers to follow`
 - [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
@@ -354,7 +354,7 @@ Table of Contents
 - [https://codelifefitness.hashnode.dev/projects-you-can-build-with-vanilla-javascript](https://codelifefitness.hashnode.dev/projects-you-can-build-with-vanilla-javascript)<br>
 - [https://annysah.hashnode.dev/7-beginner-friendly-javascript-project-ideas-ckevszz7u021dnzs19gu4eaye](https://annysah.hashnode.dev/7-beginner-friendly-javascript-project-ideas-ckevszz7u021dnzs19gu4eaye)<br>
 - [https://levelup.gitconnected.com/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-7b0a2d89db63](https://levelup.gitconnected.com/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-7b0a2d89db63)<br>
-- []()<br>
+- [https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
