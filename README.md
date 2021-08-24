@@ -84,7 +84,7 @@ Table of Contents
     - [https://dev.to/thedailytechtalk/top-10-must-know-javascript-functions-1ipm](https://dev.to/thedailytechtalk/top-10-must-know-javascript-functions-1ipm)<br>
     - [https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5](https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5)<br>
     - [https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb](https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb)<br>
-    - []()<br>
+    - [https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -186,7 +186,7 @@ Table of Contents
     - [https://favouritejome.hashnode.dev/class-prototype-and-oop-concept-explained](https://favouritejome.hashnode.dev/class-prototype-and-oop-concept-explained)<br>
     - [https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/](https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/)<br>
     - [https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0](https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0)<br>
-    - []()<br>
+    - [https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue](https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
@@ -264,13 +264,13 @@ Table of Contents
 - [https://medium.com/javascript-in-plain-english/some-js-shortcuts-82bc2f56146e](https://medium.com/javascript-in-plain-english/some-js-shortcuts-82bc2f56146e)<br>
 - [https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/)<br>
 - [https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)<br>
+- [https://github.com/neonmob/NeonMob-beta/pull/4397](https://github.com/neonmob/NeonMob-beta/pull/4397)<br>
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
 - [https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)<br/>
 - [https://ilovecoding.org/blog/js-cheatsheet](https://ilovecoding.org/blog/js-cheatsheet)<br>
 - [https://dev.to/sakhnyuk/js-array-cheatsheet-31h0](https://dev.to/sakhnyuk/js-array-cheatsheet-31h0)<br>
-- []()<br>
 - []()<br>
 
 
