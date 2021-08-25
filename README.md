@@ -30,6 +30,7 @@ Table of Contents
    * [Javascript Cheatsheet](#javascript-cheatsheet)
    * [Javascript News Letters](#javascript-news-letters)
    * [Developers to follow](#developers-to-follow)
+   * [Javascript Algorithm](#javascript-algorithm)
    * [Learn Javascript](#learn-javascript)
    * [Javascript Books](#javascript-books)
    * [General](#general)
