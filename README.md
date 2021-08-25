@@ -49,7 +49,6 @@ Table of Contents
     - [https://developer.mozilla.org/en-US/docs/Glossary/Primitive#Another_Example_Step-by-step](https://developer.mozilla.org/en-US/docs/Glossary/Primitive#Another_Example_Step-by-step)<br>
     - [https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/)<br>
     - [https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)<br>
-    - []()<br>
 
 
 - ### this
@@ -61,20 +60,18 @@ Table of Contents
     - [https://medium.com/swlh/understanding-this-in-javascript-166164e7fa2b](https://medium.com/swlh/understanding-this-in-javascript-166164e7fa2b)<br>
     - [https://dev.to/denisveleaev/6-simple-rules-to-fully-understand-this-keyword-in-javascript-1kmk](https://dev.to/denisveleaev/6-simple-rules-to-fully-understand-this-keyword-in-javascript-1kmk)<br>
     - [https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w](https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w)<br>
-    - []()<br>
+    - [https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3](https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
     - [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
     - [https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1](https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1)<br>
     - [https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e)<br>
-    - []()<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
     - [https://blog.youteee.codes/introduction-to-javascript-prototypes](https://blog.youteee.codes/introduction-to-javascript-prototypes)<br>
     - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
-    - []()<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
@@ -85,13 +82,14 @@ Table of Contents
     - [https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5](https://medium.com/javascript-in-plain-english/javascript-interview-questions-functions-5a3081c1f3f5)<br>
     - [https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb](https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb)<br>
     - [https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)<br>
+    - [https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f](https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br>
     - [https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662](https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662)<br>
     - [https://rajatexplains.hashnode.dev/understanding-closures-1](https://rajatexplains.hashnode.dev/understanding-closures-1)<br>
-    - []()<br>
+    - [https://www.freecodecamp.org/news/closures-in-javascript/](https://www.freecodecamp.org/news/closures-in-javascript/)<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
@@ -122,7 +120,9 @@ Table of Contents
     - [https://blog.rohilpinto.com/javascript-call-stack-explained](https://blog.rohilpinto.com/javascript-call-stack-explained)<br>
     - [https://dev.to/ryanameri/mastering-hard-parts-of-javascript-callbacks-i-3aj0](https://dev.to/ryanameri/mastering-hard-parts-of-javascript-callbacks-i-3aj0)<br>
     - [https://adrianmejia.com/promises-tutorial-concurrency-in-javascript-node/](https://adrianmejia.com/promises-tutorial-concurrency-in-javascript-node/)<br>
-    - []()<br>
+    - [https://dev.to/swarnaliroy94/javascript-concept-of-promise-3ijb](https://dev.to/swarnaliroy94/javascript-concept-of-promise-3ijb)<br>
+    - [https://enlear.academy/what-is-asynchronous-javascript-310426783ef1](https://enlear.academy/what-is-asynchronous-javascript-310426783ef1)<br>
+    - [https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/](https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/)<br>
 
 
 - ### Es6+
@@ -145,7 +145,6 @@ Table of Contents
     - [https://blog.skay.dev/es6-understanding-destructuring](https://blog.skay.dev/es6-understanding-destructuring)<br>
     - [https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)<br>
     - [https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58](https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58)<br>
-    - []()<br>
 
 
 - ### Array
@@ -162,7 +161,7 @@ Table of Contents
     - [https://dev.to/aashrithashiva29/possible-ways-of-iterating-arrays-in-javascript-1cgo](https://dev.to/aashrithashiva29/possible-ways-of-iterating-arrays-in-javascript-1cgo)<br>
     - [https://thenextweb.com/syndication/2020/07/02/15-useful-methods-to-get-the-most-out-of-javascript-arrays/](https://thenextweb.com/syndication/2020/07/02/15-useful-methods-to-get-the-most-out-of-javascript-arrays/)<br>
     - [https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53](https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53)<br>
-    - []()<br>
+    - [https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/](https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/)<br>
 
 
 - ### Event Loops
@@ -171,7 +170,7 @@ Table of Contents
     - [https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603](https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603)<br>
     - [https://blog.skay.dev/javascript-event-loop-explained](https://blog.skay.dev/javascript-event-loop-explained)<br>
     - [https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation](https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation)<br>
-    - []()<br>
+    - [https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22](https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
@@ -194,7 +193,6 @@ Table of Contents
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
-    - []()<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
@@ -202,7 +200,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/seriously-javascript-regex-quantifiers-in-under-10-mins-f281146bfea2](https://javascript.plainenglish.io/seriously-javascript-regex-quantifiers-in-under-10-mins-f281146bfea2)<br>
     - [https://towardsdatascience.com/an-introduction-to-regular-expressions-5dd762afc5e4](https://towardsdatascience.com/an-introduction-to-regular-expressions-5dd762afc5e4)<br>
     - [https://amara.hashnode.dev/regular-expressions-in-javascript](https://amara.hashnode.dev/regular-expressions-in-javascript)<br>
-    - []()<br>
+    - [https://fireship.io/lessons/regex-cheat-sheet-js/](https://fireship.io/lessons/regex-cheat-sheet-js/)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
@@ -215,6 +213,7 @@ Table of Contents
 - [https://blog.bitsrc.io/14-javascript-code-optimization-tips-for-front-end-developers-f878e4ea2314](https://blog.bitsrc.io/14-javascript-code-optimization-tips-for-front-end-developers-f878e4ea2314)<br/>
 - [https://blog.bitsrc.io/using-web-workers-to-speed-up-javascript-applications-5c567f209bdb](https://blog.bitsrc.io/using-web-workers-to-speed-up-javascript-applications-5c567f209bdb)<br>
 - [https://www.geeksforgeeks.org/7-tips-to-improve-javascript-performance/](https://www.geeksforgeeks.org/7-tips-to-improve-javascript-performance/)<br>
+- [https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed](https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed)<br>
 
 
 ## `Javascript Interview Questions`
@@ -234,8 +233,9 @@ Table of Contents
 - [https://dev.to/nas5w/10-javascript-quiz-questions-and-answers-to-sharpen-your-skills-255m](https://dev.to/nas5w/10-javascript-quiz-questions-and-answers-to-sharpen-your-skills-255m)<br>
 - [https://levelup.gitconnected.com/javascript-interview-questions-basic-dom-and-events-7925ce8602ef?source=email-7d5393e25aca-1600898631194-digest.reader------0-59------------------8be1a484_5a7d_41b3_8ac9_410210586401-1-f68eeeb0_1b52_418b_a7c5_14c9775bf642----](https://levelup.gitconnected.com/javascript-interview-questions-basic-dom-and-events-7925ce8602ef?source=email-7d5393e25aca-1600898631194-digest.reader------0-59------------------8be1a484_5a7d_41b3_8ac9_410210586401-1-f68eeeb0_1b52_418b_a7c5_14c9775bf642----)<br>
 - [https://hackernoon.com/10-essential-javascript-questions-zf1t3ueo](https://hackernoon.com/10-essential-javascript-questions-zf1t3ueo)<br>
-- []()<br>
-- []()<br>
+- [https://dev.to/dverybest/basic-javascript-interview-questions-3491](https://dev.to/dverybest/basic-javascript-interview-questions-3491)<br>
+- [https://medium.com/the-clever-dev/50-difficult-javascript-interview-questions-88e6e92367e7](https://medium.com/the-clever-dev/50-difficult-javascript-interview-questions-88e6e92367e7)<br>
+- [https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
@@ -271,7 +271,7 @@ Table of Contents
 - [https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09](https://medium.com/javascript-in-plain-english/a-javascript-cheatsheet-you-need-in-2020-d81b3dd89e09)<br/>
 - [https://ilovecoding.org/blog/js-cheatsheet](https://ilovecoding.org/blog/js-cheatsheet)<br>
 - [https://dev.to/sakhnyuk/js-array-cheatsheet-31h0](https://dev.to/sakhnyuk/js-array-cheatsheet-31h0)<br>
-- []()<br>
+- [https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)<br>
 
 
 ## `Javascript News Letters`
@@ -294,6 +294,8 @@ Table of Contents
 - [https://learn.devkode.io/#/ecmascript/rest-parameters/guides](https://learn.devkode.io/#/ecmascript/rest-parameters/guides)<br>
 - [https://soshace.com/category/javascript/](https://soshace.com/category/javascript/)<br>
 - [https://www.ma-no.org/en/programming/javascript](https://www.ma-no.org/en/programming/javascript)<br>
+- [https://medium.com/javascript-in-plain-english](https://medium.com/javascript-in-plain-english)<br>
+- [https://www.w3docs.com/snippets/javascript.html](https://www.w3docs.com/snippets/javascript.html)<br>
 
 ## `Developers to follow`
 - [https://hashnode.com/@iampalash](https://hashnode.com/@iampalash)<br/>
@@ -305,7 +307,12 @@ Table of Contents
 - [https://daveceddia.com/archives/](https://daveceddia.com/archives/)<br>
 - [https://www.ibrahima-ndaw.com/](https://www.ibrahima-ndaw.com/)<br>
 - [https://github.com/yogain123](https://github.com/yogain123)<br>
-- []()<br>
+- [https://dev.to/coderslang](https://dev.to/coderslang)<br>
+
+## `Javascript Algorithm`
+- [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
+- [https://dev.to/doabledanny/how-to-compare-arrays-in-javascript-efficiently-1p0](https://dev.to/doabledanny/how-to-compare-arrays-in-javascript-efficiently-1p0)<br>
+- [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 
 ## `Learn Javascript`
 - [https://jstherightway.org/](https://jstherightway.org/)<br>
@@ -318,14 +325,14 @@ Table of Contents
 - [https://medium.com/javascript-in-plain-english/guide-for-mastering-modern-javascript-skills-7d4ee42bf009](https://medium.com/javascript-in-plain-english/guide-for-mastering-modern-javascript-skills-7d4ee42bf009)<br>
 - [https://daily.dev/posts/the-7-best-resources-to-learn-javascript-as-a-beginner](https://daily.dev/posts/the-7-best-resources-to-learn-javascript-as-a-beginner)<br>
 - [https://courses.learncodeonline.in/](https://courses.learncodeonline.in/)<br>
-- []()<br>
+- [https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn](https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn)<br>
+- [https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p](https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
 - [https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf](https://exploringjs.com/impatient-js/downloads/impatient-js-preview-book.pdf)<br>
 - [https://minal-vaity95.medium.com/ultimate-javascript-cheatsheet-d21b0154d589](https://minal-vaity95.medium.com/ultimate-javascript-cheatsheet-d21b0154d589)<br>
 - [https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9](https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9)<br>
-- []()<br>
 
 ## `General`
 - [https://blog.ganeshjaiwal.dev/how-does-javascript-work](https://blog.ganeshjaiwal.dev/how-does-javascript-work)<br>
@@ -336,7 +343,8 @@ Table of Contents
 - [https://dmitripavlutin.com/javascript-null/](https://dmitripavlutin.com/javascript-null/)<br>
 - [https://seven.hashnode.dev/understanding-import-and-export-statements-in-javascript](https://seven.hashnode.dev/understanding-import-and-export-statements-in-javascript)<br>
 - [https://medium.com/@mirzaleka/exploring-javascript-ecosystem-popular-tools-frameworks-libraries-7901703ec88f](https://medium.com/@mirzaleka/exploring-javascript-ecosystem-popular-tools-frameworks-libraries-7901703ec88f)<br>
-- []()<br>
+- [https://flaviocopes.com/javascript-lexical-structure/](https://flaviocopes.com/javascript-lexical-structure/)<br>
+- [https://dev.to/bgoonz/all-of-my-articles-combined-284m](https://dev.to/bgoonz/all-of-my-articles-combined-284m)<br>
 
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
@@ -344,7 +352,6 @@ Table of Contents
 - [https://dzone.com/articles/javascript-best-practices-to-improve-code-quality](https://dzone.com/articles/javascript-best-practices-to-improve-code-quality)<br>
 - [https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)<br>
 - [https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0](https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0)<br>
-- []()<br>
 
 
 ## `Javascript Projects`
@@ -359,4 +366,3 @@ Table of Contents
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
 - [https://www.codewall.co.uk/best-javascript-youtube-channels/](https://www.codewall.co.uk/best-javascript-youtube-channels/)<br>
-- []()<br>
