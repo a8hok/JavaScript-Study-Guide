@@ -146,6 +146,7 @@ Table of Contents
     - [https://blog.skay.dev/es6-understanding-destructuring](https://blog.skay.dev/es6-understanding-destructuring)<br>
     - [https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)<br>
     - [https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58](https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58)<br>
+    - [https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator](https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator)<br>
 
 
 - ### Array
@@ -347,7 +348,7 @@ Table of Contents
 - [https://medium.com/@mirzaleka/exploring-javascript-ecosystem-popular-tools-frameworks-libraries-7901703ec88f](https://medium.com/@mirzaleka/exploring-javascript-ecosystem-popular-tools-frameworks-libraries-7901703ec88f)<br>
 - [https://flaviocopes.com/javascript-lexical-structure/](https://flaviocopes.com/javascript-lexical-structure/)<br>
 - [https://dev.to/bgoonz/all-of-my-articles-combined-284m](https://dev.to/bgoonz/all-of-my-articles-combined-284m)<br>
-
+- [https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript](https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript)<br>
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
 - [https://javascript.plainenglish.io/improve-javascript-code-quality-with-these-best-practices-ee883a124d8e](https://javascript.plainenglish.io/improve-javascript-code-quality-with-these-best-practices-ee883a124d8e)<br>
