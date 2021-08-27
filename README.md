@@ -271,6 +271,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/](https://www.freecodecamp.org/news/nine-most-common-mistakes-developers-make-in-javascript/)<br>
 - [https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)<br>
 - [https://github.com/neonmob/NeonMob-beta/pull/4397](https://github.com/neonmob/NeonMob-beta/pull/4397)<br>
+- [https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/](https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/)<br>
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
@@ -368,6 +369,8 @@ Table of Contents
 - [https://annysah.hashnode.dev/7-beginner-friendly-javascript-project-ideas-ckevszz7u021dnzs19gu4eaye](https://annysah.hashnode.dev/7-beginner-friendly-javascript-project-ideas-ckevszz7u021dnzs19gu4eaye)<br>
 - [https://levelup.gitconnected.com/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-7b0a2d89db63](https://levelup.gitconnected.com/learn-concepts-of-vanilla-javascript-while-building-a-privacy-card-game-in-5-easy-steps-7b0a2d89db63)<br>
 - [https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)<br>
+- [https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf](https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf)<br>
+- [https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
