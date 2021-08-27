@@ -84,6 +84,9 @@ Table of Contents
     - [https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb](https://dev.to/mpodlasin/functional-programming-in-js-part-i-composition-currying-lodash-and-ramda-1ohb)<br>
     - [https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript](https://mohit-codes.hashnode.dev/differences-between-arrow-function-and-regular-function-in-javascript)<br>
     - [https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f](https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f)<br>
+    - [https://blog.logrocket.com/understanding-javascript-currying/](https://blog.logrocket.com/understanding-javascript-currying/)<br>
+    - [https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d](https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d)<br>
+    - [https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/](`https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
