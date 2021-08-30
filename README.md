@@ -353,12 +353,17 @@ Table of Contents
 - [https://flaviocopes.com/javascript-lexical-structure/](https://flaviocopes.com/javascript-lexical-structure/)<br>
 - [https://dev.to/bgoonz/all-of-my-articles-combined-284m](https://dev.to/bgoonz/all-of-my-articles-combined-284m)<br>
 - [https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript](https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript)<br>
+- [https://dev.to/aritik/essential-concepts-in-js-4bbj](https://dev.to/aritik/essential-concepts-in-js-4bbj)<br>
+
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
 - [https://javascript.plainenglish.io/improve-javascript-code-quality-with-these-best-practices-ee883a124d8e](https://javascript.plainenglish.io/improve-javascript-code-quality-with-these-best-practices-ee883a124d8e)<br>
 - [https://dzone.com/articles/javascript-best-practices-to-improve-code-quality](https://dzone.com/articles/javascript-best-practices-to-improve-code-quality)<br>
 - [https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f](https://deepaksisodiya.hashnode.dev/5-best-practices-for-clean-coding-in-javascript-ckewx32f801e7ggs1ddys9m3f)<br>
 - [https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0](https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0)<br>
+- [https://betterprogramming.pub/clean-code-applied-to-javascript-part-1-9f3badd5715](https://betterprogramming.pub/clean-code-applied-to-javascript-part-1-9f3badd5715)<br>
+- [https://www.webtips.dev/5-best-practices-for-clean-javascript](https://www.webtips.dev/5-best-practices-for-clean-javascript)<br>
+- [https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b](https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b)<br>
 
 
 ## `Javascript Projects`
