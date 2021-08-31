@@ -127,6 +127,7 @@ Table of Contents
     - [https://dev.to/swarnaliroy94/javascript-concept-of-promise-3ijb](https://dev.to/swarnaliroy94/javascript-concept-of-promise-3ijb)<br>
     - [https://enlear.academy/what-is-asynchronous-javascript-310426783ef1](https://enlear.academy/what-is-asynchronous-javascript-310426783ef1)<br>
     - [https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/](https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/)<br>
+    - [https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/](https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/)<br>
 
 
 - ### Es6+
@@ -376,6 +377,8 @@ Table of Contents
 - [https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript](https://blog.kritikapattalam.com/build-a-simple-clock-using-javascript)<br>
 - [https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf](https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf)<br>
 - [https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi)<br>
+- [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
+- [https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop](https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
