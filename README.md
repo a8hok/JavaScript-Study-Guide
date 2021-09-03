@@ -87,6 +87,7 @@ Table of Contents
     - [https://blog.logrocket.com/understanding-javascript-currying/](https://blog.logrocket.com/understanding-javascript-currying/)<br>
     - [https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d](https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d)<br>
     - [https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/](`https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/)<br>
+    - [https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript](https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -207,6 +208,7 @@ Table of Contents
     - [https://towardsdatascience.com/an-introduction-to-regular-expressions-5dd762afc5e4](https://towardsdatascience.com/an-introduction-to-regular-expressions-5dd762afc5e4)<br>
     - [https://amara.hashnode.dev/regular-expressions-in-javascript](https://amara.hashnode.dev/regular-expressions-in-javascript)<br>
     - [https://fireship.io/lessons/regex-cheat-sheet-js/](https://fireship.io/lessons/regex-cheat-sheet-js/)<br>
+    - [https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
@@ -273,6 +275,8 @@ Table of Contents
 - [https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)<br>
 - [https://github.com/neonmob/NeonMob-beta/pull/4397](https://github.com/neonmob/NeonMob-beta/pull/4397)<br>
 - [https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/](https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/)<br>
+- [https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l](https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l)<br>
+
 
 ## `Javascript Cheatsheet`
 - [https://blog.rahulism.co/ultimate-javascript-cheatsheet](https://blog.rahulism.co/ultimate-javascript-cheatsheet)<br/>
