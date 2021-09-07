@@ -383,6 +383,7 @@ Table of Contents
 - [https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi](https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi)<br>
 - [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
 - [https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop](https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop)<br>
+- [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
