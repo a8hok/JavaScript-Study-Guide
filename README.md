@@ -129,6 +129,8 @@ Table of Contents
     - [https://enlear.academy/what-is-asynchronous-javascript-310426783ef1](https://enlear.academy/what-is-asynchronous-javascript-310426783ef1)<br>
     - [https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/](https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/)<br>
     - [https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/](https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/)<br>
+    - [https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)<br>
+    - [https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0](https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0)<br>
 
 
 - ### Es6+
@@ -178,6 +180,7 @@ Table of Contents
     - [https://blog.skay.dev/javascript-event-loop-explained](https://blog.skay.dev/javascript-event-loop-explained)<br>
     - [https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation](https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation)<br>
     - [https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22](https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22)<br>
+    - [https://web.dev/eventing-deepdive/](https://web.dev/eventing-deepdive/)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
@@ -222,6 +225,7 @@ Table of Contents
 - [https://blog.bitsrc.io/using-web-workers-to-speed-up-javascript-applications-5c567f209bdb](https://blog.bitsrc.io/using-web-workers-to-speed-up-javascript-applications-5c567f209bdb)<br>
 - [https://www.geeksforgeeks.org/7-tips-to-improve-javascript-performance/](https://www.geeksforgeeks.org/7-tips-to-improve-javascript-performance/)<br>
 - [https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed](https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed)<br>
+- [https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)<br>
 
 
 ## `Javascript Interview Questions`
@@ -284,6 +288,7 @@ Table of Contents
 - [https://ilovecoding.org/blog/js-cheatsheet](https://ilovecoding.org/blog/js-cheatsheet)<br>
 - [https://dev.to/sakhnyuk/js-array-cheatsheet-31h0](https://dev.to/sakhnyuk/js-array-cheatsheet-31h0)<br>
 - [https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)<br>
+- [https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2](https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2)<br>
 
 
 ## `Javascript News Letters`
@@ -339,6 +344,7 @@ Table of Contents
 - [https://courses.learncodeonline.in/](https://courses.learncodeonline.in/)<br>
 - [https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn](https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn)<br>
 - [https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p](https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p)<br>
+- [https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406](https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
