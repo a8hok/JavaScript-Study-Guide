@@ -154,6 +154,7 @@ Table of Contents
     - [https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910](https://medium.com/@etherealm/named-export-vs-default-export-in-es6-affb483a0910)<br>
     - [https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58](https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58)<br>
     - [https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator](https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator)<br>
+    - [https://devdojo.com/shreya/es6-handbook#arrow-functions](https://devdojo.com/shreya/es6-handbook#arrow-functions)<br>
 
 
 - ### Array
