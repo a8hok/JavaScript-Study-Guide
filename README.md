@@ -155,6 +155,7 @@ Table of Contents
     - [https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58](https://medium.com/javascript-in-plain-english/5-simple-tips-to-write-better-arrow-functions-a55f40f63d58)<br>
     - [https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator](https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator)<br>
     - [https://devdojo.com/shreya/es6-handbook#arrow-functions](https://devdojo.com/shreya/es6-handbook#arrow-functions)<br>
+    - [https://dev.to/justmyrealname/javascript-from-es6-to-today-c42](https://dev.to/justmyrealname/javascript-from-es6-to-today-c42)<br>
 
 
 - ### Array
@@ -216,6 +217,7 @@ Table of Contents
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
+    - [https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d](https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d)<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
@@ -326,6 +328,7 @@ Table of Contents
 - [https://www.ibrahima-ndaw.com/](https://www.ibrahima-ndaw.com/)<br>
 - [https://github.com/yogain123](https://github.com/yogain123)<br>
 - [https://dev.to/coderslang](https://dev.to/coderslang)<br>
+- [https://www.freecodecamp.org/news/author/joy/](https://www.freecodecamp.org/news/author/joy/)<br>
 
 ## `Javascript Algorithm`
 - [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
@@ -391,6 +394,7 @@ Table of Contents
 - [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
 - [https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop](https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop)<br>
 - [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
+- [https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/](https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
