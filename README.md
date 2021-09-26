@@ -68,6 +68,7 @@ Table of Contents
     - [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
     - [https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1](https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1)<br>
     - [https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e)<br>
+    - [https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie](https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
@@ -173,6 +174,8 @@ Table of Contents
     - [https://thenextweb.com/syndication/2020/07/02/15-useful-methods-to-get-the-most-out-of-javascript-arrays/](https://thenextweb.com/syndication/2020/07/02/15-useful-methods-to-get-the-most-out-of-javascript-arrays/)<br>
     - [https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53](https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53)<br>
     - [https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/](https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/)<br>
+    - [https://dev.to/insha/javascript-array-and-its-methods-432k](https://dev.to/insha/javascript-array-and-its-methods-432k)<br>
+    - []()<br>
 
 
 - ### Event Loops
@@ -283,6 +286,8 @@ Table of Contents
 - [https://github.com/neonmob/NeonMob-beta/pull/4397](https://github.com/neonmob/NeonMob-beta/pull/4397)<br>
 - [https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/](https://livecodestream.dev/post/awesome-javascript-one-liners-to-look-like-a-pro/)<br>
 - [https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l](https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l)<br>
+-[https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2](https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2)<br>
+-[]()<br>
 
 
 ## `Javascript Cheatsheet`
@@ -292,7 +297,7 @@ Table of Contents
 - [https://dev.to/sakhnyuk/js-array-cheatsheet-31h0](https://dev.to/sakhnyuk/js-array-cheatsheet-31h0)<br>
 - [https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)<br>
 - [https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2](https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2)<br>
-
+- [https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021](https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021)<br>
 
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
@@ -329,6 +334,7 @@ Table of Contents
 - [https://github.com/yogain123](https://github.com/yogain123)<br>
 - [https://dev.to/coderslang](https://dev.to/coderslang)<br>
 - [https://www.freecodecamp.org/news/author/joy/](https://www.freecodecamp.org/news/author/joy/)<br>
+- [https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)<br>
 
 ## `Javascript Algorithm`
 - [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
@@ -349,6 +355,7 @@ Table of Contents
 - [https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn](https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn)<br>
 - [https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p](https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p)<br>
 - [https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406](https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406)<br>
+- [https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/](https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
@@ -395,6 +402,12 @@ Table of Contents
 - [https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop](https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop)<br>
 - [https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma](https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma)<br>
 - [https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/](https://www.freecodecamp.org/news/learn-javascript-form-validation-by-making-a-form/)<br>
+- [https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-3aon](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-3aon)<br>
+- [https://dev.to/colocodes/my-second-vanilla-javascript-project-using-apis-promises-classes-error-handling-and-more-24p8](https://dev.to/colocodes/my-second-vanilla-javascript-project-using-apis-promises-classes-error-handling-and-more-24p8)<br>
+- [https://dev.to/haycuoilennao19/29-projects-to-help-you-practice-html-css-javascript-2021-1j88](https://dev.to/haycuoilennao19/29-projects-to-help-you-practice-html-css-javascript-2021-1j88)<br>
+- [https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0](https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0)<br>
+- [https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50io](https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50ioclear)<br>
+- []()<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
