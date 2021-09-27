@@ -74,6 +74,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
     - [https://blog.youteee.codes/introduction-to-javascript-prototypes](https://blog.youteee.codes/introduction-to-javascript-prototypes)<br>
     - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
+    - [https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714](https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714)<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
