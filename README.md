@@ -133,6 +133,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/](https://www.freecodecamp.org/news/async-await-javascript-tutorial-explained-by-making-pizza/)<br>
     - [https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)<br>
     - [https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0](https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0)<br>
+    - [https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)<br>
 
 
 - ### Es6+
@@ -387,6 +388,7 @@ Table of Contents
 - [https://betterprogramming.pub/clean-code-applied-to-javascript-part-1-9f3badd5715](https://betterprogramming.pub/clean-code-applied-to-javascript-part-1-9f3badd5715)<br>
 - [https://www.webtips.dev/5-best-practices-for-clean-javascript](https://www.webtips.dev/5-best-practices-for-clean-javascript)<br>
 - [https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b](https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b)<br>
+- [https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12](https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12)<br>
 
 
 ## `Javascript Projects`
