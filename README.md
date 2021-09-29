@@ -358,6 +358,7 @@ Table of Contents
 - [https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p](https://dev.to/tyaga001/a-simple-and-effective-way-to-learn-practice-javascript-5f3p)<br>
 - [https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406](https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406)<br>
 - [https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/](https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/)<br>
+ - [https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837](https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
