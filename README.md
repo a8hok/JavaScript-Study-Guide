@@ -134,6 +134,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/](https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/)<br>
     - [https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0](https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0)<br>
     - [https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)<br>
+    - [https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3](https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3)<br>
 
 
 - ### Es6+
@@ -177,7 +178,7 @@ Table of Contents
     - [https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53](https://dev.to/samanthaming/6-use-cases-of-spread-with-array-in-javascript-2n53)<br>
     - [https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/](https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/)<br>
     - [https://dev.to/insha/javascript-array-and-its-methods-432k](https://dev.to/insha/javascript-array-and-its-methods-432k)<br>
-    - []()<br>
+    - [https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195](https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195)<br>
 
 
 - ### Event Loops
