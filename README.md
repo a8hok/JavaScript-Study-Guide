@@ -292,6 +292,7 @@ Table of Contents
 - [https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l](https://dev.to/alexdevero/7-practices-to-create-good-javascript-variables-1a6l)<br>
 -[https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2](https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2)<br>
 -[https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0](https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0)<br>
+- [https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)<br>
 
 
 ## `Javascript Cheatsheet`
