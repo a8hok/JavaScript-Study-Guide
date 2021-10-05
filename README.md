@@ -136,6 +136,8 @@ Table of Contents
     - [https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0](https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0)<br>
     - [https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)<br>
     - [https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3](https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3)<br>
+    - [https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg](https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg)<br>
+    - [https://dev.to/santan47/promise-async-await-in-javascript-mlb](https://dev.to/santan47/promise-async-await-in-javascript-mlb)<br>
 
 
 - ### Es6+
@@ -212,6 +214,7 @@ Table of Contents
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
+    - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
