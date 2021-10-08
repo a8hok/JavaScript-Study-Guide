@@ -50,6 +50,7 @@ Table of Contents
     - [https://developer.mozilla.org/en-US/docs/Glossary/Primitive#Another_Example_Step-by-step](https://developer.mozilla.org/en-US/docs/Glossary/Primitive#Another_Example_Step-by-step)<br>
     - [https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/)<br>
     - [https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)<br>
+    - [https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript](https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript)<br>
 
 
 - ### this
