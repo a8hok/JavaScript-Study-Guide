@@ -17,7 +17,7 @@ Table of Contents
       * [Promises](#promises)
       * [Es6+](#es6)
       * [Array](#array)
-      * [Event Loops](#event-loops)
+      * [Event Loop](#event-loop)
       * [Objects](#objects)
       * [String](#string)
       * [Date and time](#date-and-time)
@@ -185,7 +185,7 @@ Table of Contents
     - [https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195](https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195)<br>
 
 
-- ### Event Loops
+- ### Event Loop
     - [https://ayushv.medium.com/event-loop-in-javascript-672c07618dc9](https://ayushv.medium.com/event-loop-in-javascript-672c07618dc9)<br>
     - [https://towardsdev.com/event-loop-in-javascript-672c07618dc9](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)<br>
     - [https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603](https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603)<br>
@@ -193,6 +193,7 @@ Table of Contents
     - [https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation](https://dmitripavlutin.com/javascript-event-delegation/?utm_campaign=a-simple-explanation-of-event-delegation)<br>
     - [https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22](https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22)<br>
     - [https://web.dev/eventing-deepdive/](https://web.dev/eventing-deepdive/)<br>
+    - [https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260](https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
@@ -297,6 +298,7 @@ Table of Contents
 -[https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2](https://codeoz.hashnode.dev/improve-your-js-skills-with-theses-tips-2)<br>
 -[https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0](https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0)<br>
 - [https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)<br>
+- [https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c](https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c)<br>
 
 
 ## `Javascript Cheatsheet`
@@ -397,6 +399,7 @@ Table of Contents
 - [https://www.webtips.dev/5-best-practices-for-clean-javascript](https://www.webtips.dev/5-best-practices-for-clean-javascript)<br>
 - [https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b](https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b)<br>
 - [https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12](https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12)<br>
+- [https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47](https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47)<br>
 
 
 ## `Javascript Projects`
