@@ -110,6 +110,7 @@ Table of Contents
     - [https://dev.to/suprabhasupi/currying-in-javascript-1k3l](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)<br/>
     - [https://daily.dev/posts/what-is-currying-in-javascript](https://daily.dev/posts/what-is-currying-in-javascript)<br>
     - [https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)<br>
+    - [https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867](https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867)<br>
 
 
 - ### Promises
