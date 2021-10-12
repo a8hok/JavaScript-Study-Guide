@@ -99,6 +99,7 @@ Table of Contents
     - [https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662](https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662)<br>
     - [https://rajatexplains.hashnode.dev/understanding-closures-1](https://rajatexplains.hashnode.dev/understanding-closures-1)<br>
     - [https://www.freecodecamp.org/news/closures-in-javascript/](https://www.freecodecamp.org/news/closures-in-javascript/)<br>
+    - [https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures](https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures)<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
@@ -227,6 +228,7 @@ Table of Contents
     - [https://amara.hashnode.dev/regular-expressions-in-javascript](https://amara.hashnode.dev/regular-expressions-in-javascript)<br>
     - [https://fireship.io/lessons/regex-cheat-sheet-js/](https://fireship.io/lessons/regex-cheat-sheet-js/)<br>
     - [https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)<br>
+    - [https://dev.to/jaspalsingh1998/regex-in-javascript-with-a-cool-project-2e6m](https://dev.to/jaspalsingh1998/regex-in-javascript-with-a-cool-project-2e6m)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
@@ -389,6 +391,7 @@ Table of Contents
 - [https://dev.to/bgoonz/all-of-my-articles-combined-284m](https://dev.to/bgoonz/all-of-my-articles-combined-284m)<br>
 - [https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript](https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript)<br>
 - [https://dev.to/aritik/essential-concepts-in-js-4bbj](https://dev.to/aritik/essential-concepts-in-js-4bbj)<br>
+- [https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/](https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/)<br>
 
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
