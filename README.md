@@ -92,6 +92,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/](`https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/)<br>
     - [https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript](https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript)<br>
     - [https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn](https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn)<br>
+    - [https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -371,6 +372,7 @@ Table of Contents
 - [https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406](https://dev.to/devcronin/level-up-with-javascript-lvl-5-1406)<br>
 - [https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/](https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/)<br>
  - [https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837](https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837)<br>
+ - [https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02](https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
