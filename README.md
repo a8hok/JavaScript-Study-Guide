@@ -167,6 +167,7 @@ Table of Contents
     - [https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator](https://blog.saeloun.com/2021/08/26/es2021-replaceall-numeric-separator)<br>
     - [https://devdojo.com/shreya/es6-handbook#arrow-functions](https://devdojo.com/shreya/es6-handbook#arrow-functions)<br>
     - [https://dev.to/justmyrealname/javascript-from-es6-to-today-c42](https://dev.to/justmyrealname/javascript-from-es6-to-today-c42)<br>
+    - [https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5](https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5)<br>
 
 
 - ### Array
