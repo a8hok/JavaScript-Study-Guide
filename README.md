@@ -89,7 +89,7 @@ Table of Contents
     - [https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f](https://dev.to/coderslang/javascript-interview-question-46-length-of-js-functions-494f)<br>
     - [https://blog.logrocket.com/understanding-javascript-currying/](https://blog.logrocket.com/understanding-javascript-currying/)<br>
     - [https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d](https://enlear.academy/replace-filter-map-sort-whatever-with-array-reduce-2bc3342f474d)<br>
-    - [https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/](`https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/)<br>
+    - [https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/](https://www.freecodecamp.org/news/javascript-array-filter-tutorial-how-to-iterate-through-elements-in-an-array/)<br>
     - [https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript](https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript)<br>
     - [https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn](https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn)<br>
     - [https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)<br>
