@@ -351,6 +351,7 @@ Table of Contents
 - [https://dev.to/coderslang](https://dev.to/coderslang)<br>
 - [https://www.freecodecamp.org/news/author/joy/](https://www.freecodecamp.org/news/author/joy/)<br>
 - [https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)<br>
+- [https://hashnode.com/@Madza](https://hashnode.com/@Madza)<br>
 
 ## `Javascript Algorithm`
 - [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
@@ -428,6 +429,7 @@ Table of Contents
 - [https://dev.to/haycuoilennao19/29-projects-to-help-you-practice-html-css-javascript-2021-1j88](https://dev.to/haycuoilennao19/29-projects-to-help-you-practice-html-css-javascript-2021-1j88)<br>
 - [https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0](https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0)<br>
 - [https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50io](https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50ioclear)<br>
+- [https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript](https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript)<br>
 - []()<br>
 
 ## `Youtube channels`
