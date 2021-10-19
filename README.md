@@ -144,6 +144,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3](https://javascript.plainenglish.io/demystifying-javascript-arrow-functions-7b2a0908a2b3)<br>
     - [https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg](https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg)<br>
     - [https://dev.to/santan47/promise-async-await-in-javascript-mlb](https://dev.to/santan47/promise-async-await-in-javascript-mlb)<br>
+    - [https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise)<br>
 
 
 - ### Es6+
