@@ -93,6 +93,7 @@ Table of Contents
     - [https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript](https://www.ma-no.org/en/programming/javascript/difference-between-arrow-and-normal-functions-in-javascript)<br>
     - [https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn](https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn)<br>
     - [https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)<br>
+    - [https://dev.to/abhishek_rath/functions-in-javascript-56if](https://dev.to/abhishek_rath/functions-in-javascript-56if)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -113,6 +114,7 @@ Table of Contents
     - [https://daily.dev/posts/what-is-currying-in-javascript](https://daily.dev/posts/what-is-currying-in-javascript)<br>
     - [https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)<br>
     - [https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867](https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867)<br>
+    - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
 
 
 - ### Promises
