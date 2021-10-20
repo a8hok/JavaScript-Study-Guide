@@ -70,6 +70,7 @@ Table of Contents
     - [https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1](https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1)<br>
     - [https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e)<br>
     - [https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie](https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie)<br>
+    - [https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6](https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
