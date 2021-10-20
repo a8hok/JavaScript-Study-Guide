@@ -95,6 +95,7 @@ Table of Contents
     - [https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn](https://dev.to/aravsanj/everything-you-need-to-know-about-javascript-functions-cmn)<br>
     - [https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)<br>
     - [https://dev.to/abhishek_rath/functions-in-javascript-56if](https://dev.to/abhishek_rath/functions-in-javascript-56if)<br>
+    - [https://dev.to/trezeguit/functional-programming-with-js-1bgd](https://dev.to/trezeguit/functional-programming-with-js-1bgd)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
