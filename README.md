@@ -71,6 +71,7 @@ Table of Contents
     - [https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca?gi=6e6506fac97e)<br>
     - [https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie](https://devdojo.com/rahulism/module-pattern-in-javascripit-oop-quickie)<br>
     - [https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6](https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6)<br>
+    - [https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript](https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
@@ -116,6 +117,8 @@ Table of Contents
     - [https://daily.dev/posts/what-is-currying-in-javascript](https://daily.dev/posts/what-is-currying-in-javascript)<br>
     - [https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)<br>
     - [https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867](https://code.tutsplus.com/tutorials/understanding-function-currying-in-javascript-and-when-to-use-it--cms-37867)<br>
+    - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
+    - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
     - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
 
 
@@ -192,6 +195,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/](https://www.freecodecamp.org/news/javascript-array-foreach-tutorial-how-to-iterate-through-elements-in-an-array-with-map/)<br>
     - [https://dev.to/insha/javascript-array-and-its-methods-432k](https://dev.to/insha/javascript-array-and-its-methods-432k)<br>
     - [https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195](https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195)<br>
+    - [https://www.sitepoint.com/javascript-for-in-loop-basics/](https://www.sitepoint.com/javascript-for-in-loop-basics/)<br>
 
 
 - ### Event Loop
