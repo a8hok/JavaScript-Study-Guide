@@ -97,6 +97,7 @@ Table of Contents
     - [https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee](https://itnext.io/write-better-javascript-function-composition-with-pipe-and-compose-93cc39ab16ee)<br>
     - [https://dev.to/abhishek_rath/functions-in-javascript-56if](https://dev.to/abhishek_rath/functions-in-javascript-56if)<br>
     - [https://dev.to/trezeguit/functional-programming-with-js-1bgd](https://dev.to/trezeguit/functional-programming-with-js-1bgd)<br>
+    - [https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074](https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
