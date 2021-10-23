@@ -385,6 +385,8 @@ Table of Contents
 - [https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/](https://css-tricks.com/comparing-methods-for-appending-and-inserting-with-javascript/)<br>
  - [https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837](https://javascript.plainenglish.io/how-javascript-works-a-visual-guide-515199eef837)<br>
  - [https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02](https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02)<br>
+ - [https://cult.honeypot.io/reads/how-to-learn-javascript-2021/](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)<br>
+ - [https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
