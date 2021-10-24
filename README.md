@@ -98,6 +98,8 @@ Table of Contents
     - [https://dev.to/abhishek_rath/functions-in-javascript-56if](https://dev.to/abhishek_rath/functions-in-javascript-56if)<br>
     - [https://dev.to/trezeguit/functional-programming-with-js-1bgd](https://dev.to/trezeguit/functional-programming-with-js-1bgd)<br>
     - [https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074](https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074)<br>
+    - [https://dev.to/j471n/some-javascript-methods-you-should-know-i15](https://dev.to/j471n/some-javascript-methods-you-should-know-i15)<br>
+    - [https://enlear.academy/pure-vs-impure-function-395df7ce6acc](https://enlear.academy/pure-vs-impure-function-395df7ce6acc)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -230,6 +232,7 @@ Table of Contents
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
+    - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
     - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
 
 - ### Regex
