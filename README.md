@@ -445,7 +445,7 @@ Table of Contents
 - [https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0](https://dev.to/pauld103/javascript-coding-projects-for-beginners-3fj0)<br>
 - [https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50io](https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50ioclear)<br>
 - [https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript](https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript)<br>
-- []()<br>
+- [https://github.com/KingsleyUbah/hacker-news-clone](https://github.com/KingsleyUbah/hacker-news-clone)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
