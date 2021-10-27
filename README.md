@@ -179,6 +179,7 @@ Table of Contents
     - [https://devdojo.com/shreya/es6-handbook#arrow-functions](https://devdojo.com/shreya/es6-handbook#arrow-functions)<br>
     - [https://dev.to/justmyrealname/javascript-from-es6-to-today-c42](https://dev.to/justmyrealname/javascript-from-es6-to-today-c42)<br>
     - [https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5](https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5)<br>
+    - [https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react](https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react)<br>
 
 
 - ### Array
@@ -317,6 +318,7 @@ Table of Contents
 -[https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0](https://dev.to/pascavld/10-javascript-tips-that-can-help-you-understand-this-programming-language-better-3fi0)<br>
 - [https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)<br>
 - [https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c](https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c)<br>
+- [https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9](https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9)<br>
 
 
 ## `Javascript Cheatsheet`
@@ -446,6 +448,8 @@ Table of Contents
 - [https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50io](https://dev.to/kunaal438/advance-features-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-50ioclear)<br>
 - [https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript](https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript)<br>
 - [https://github.com/KingsleyUbah/hacker-news-clone](https://github.com/KingsleyUbah/hacker-news-clone)<br>
+- [https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09](https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09)<br>
+- []()<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
