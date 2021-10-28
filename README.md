@@ -100,6 +100,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074](https://javascript.plainenglish.io/how-to-write-clean-javascript-code-with-functional-programming-54fd60a56074)<br>
     - [https://dev.to/j471n/some-javascript-methods-you-should-know-i15](https://dev.to/j471n/some-javascript-methods-you-should-know-i15)<br>
     - [https://enlear.academy/pure-vs-impure-function-395df7ce6acc](https://enlear.academy/pure-vs-impure-function-395df7ce6acc)<br>
+    - [https://devdojo.com/rahulism/memoization-in-javascript-shorts](https://devdojo.com/rahulism/memoization-in-javascript-shorts)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -200,6 +201,9 @@ Table of Contents
     - [https://dev.to/insha/javascript-array-and-its-methods-432k](https://dev.to/insha/javascript-array-and-its-methods-432k)<br>
     - [https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195](https://enlear.academy/how-to-write-better-javascript-code-with-foreach-and-reduce-415a1d58195)<br>
     - [https://www.sitepoint.com/javascript-for-in-loop-basics/](https://www.sitepoint.com/javascript-for-in-loop-basics/)<br>
+    - [https://javascript.plainenglish.io/lets-deduce-the-reduce-method-in-javascript-bdc828f368a2](https://javascript.plainenglish.io/lets-deduce-the-reduce-method-in-javascript-bdc828f368a2)<br>
+    - [https://dmitripavlutin.com/javascript-sparse-dense-arrays/](https://dmitripavlutin.com/javascript-sparse-dense-arrays/)<br>
+    - [https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using](https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using)<br>
 
 
 - ### Event Loop
