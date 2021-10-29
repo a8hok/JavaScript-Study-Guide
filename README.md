@@ -101,6 +101,7 @@ Table of Contents
     - [https://dev.to/j471n/some-javascript-methods-you-should-know-i15](https://dev.to/j471n/some-javascript-methods-you-should-know-i15)<br>
     - [https://enlear.academy/pure-vs-impure-function-395df7ce6acc](https://enlear.academy/pure-vs-impure-function-395df7ce6acc)<br>
     - [https://devdojo.com/rahulism/memoization-in-javascript-shorts](https://devdojo.com/rahulism/memoization-in-javascript-shorts)<br>
+    - [https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16](https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -154,6 +155,7 @@ Table of Contents
     - [https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg](https://dev.to/shadid12/how-to-use-async-await-inside-loops-in-javascript-4dlg)<br>
     - [https://dev.to/santan47/promise-async-await-in-javascript-mlb](https://dev.to/santan47/promise-async-await-in-javascript-mlb)<br>
     - [https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise)<br>
+    - [https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j](https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j)<br>
 
 
 - ### Es6+
