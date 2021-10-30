@@ -102,6 +102,7 @@ Table of Contents
     - [https://enlear.academy/pure-vs-impure-function-395df7ce6acc](https://enlear.academy/pure-vs-impure-function-395df7ce6acc)<br>
     - [https://devdojo.com/rahulism/memoization-in-javascript-shorts](https://devdojo.com/rahulism/memoization-in-javascript-shorts)<br>
     - [https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16](https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16)<br>
+    - [https://enlear.academy/javascript-function-types-8bde6a385b3e](https://enlear.academy/javascript-function-types-8bde6a385b3e)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -431,6 +432,7 @@ Table of Contents
 - [https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b](https://dev.to/learnersbucket/industry-focused-roadmap-to-be-javascript-developer-2021-1m2b)<br>
 - [https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12](https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12)<br>
 - [https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47](https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47)<br>
+- [https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices](https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices)<br>
 
 
 ## `Javascript Projects`
