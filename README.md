@@ -103,6 +103,7 @@ Table of Contents
     - [https://devdojo.com/rahulism/memoization-in-javascript-shorts](https://devdojo.com/rahulism/memoization-in-javascript-shorts)<br>
     - [https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16](https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16)<br>
     - [https://enlear.academy/javascript-function-types-8bde6a385b3e](https://enlear.academy/javascript-function-types-8bde6a385b3e)<br>
+    - [https://devdojo.com/teri/what-is-memoization-in-javascript](https://devdojo.com/teri/what-is-memoization-in-javascript)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -420,6 +421,7 @@ Table of Contents
 - [https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript](https://devdojo.com/devbookmark/an-ultimate-guide-to-logging-in-javascript)<br>
 - [https://dev.to/aritik/essential-concepts-in-js-4bbj](https://dev.to/aritik/essential-concepts-in-js-4bbj)<br>
 - [https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/](https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/)<br>
+- [https://blog.siddu.tech/7-console-log-alternatives](https://blog.siddu.tech/7-console-log-alternatives)<br>
 
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
