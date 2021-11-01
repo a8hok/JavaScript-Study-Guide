@@ -112,6 +112,7 @@ Table of Contents
     - [https://rajatexplains.hashnode.dev/understanding-closures-1](https://rajatexplains.hashnode.dev/understanding-closures-1)<br>
     - [https://www.freecodecamp.org/news/closures-in-javascript/](https://www.freecodecamp.org/news/closures-in-javascript/)<br>
     - [https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures](https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures)<br>
+    - [https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff](https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff)<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
