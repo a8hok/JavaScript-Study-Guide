@@ -159,6 +159,7 @@ Table of Contents
     - [https://dev.to/santan47/promise-async-await-in-javascript-mlb](https://dev.to/santan47/promise-async-await-in-javascript-mlb)<br>
     - [https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise)<br>
     - [https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j](https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j)<br>
+    - [https://blog.greenroots.info/common-mistakes-in-using-javascript-promises](https://blog.greenroots.info/common-mistakes-in-using-javascript-promises)<br>
 
 
 - ### Es6+
@@ -423,6 +424,8 @@ Table of Contents
 - [https://dev.to/aritik/essential-concepts-in-js-4bbj](https://dev.to/aritik/essential-concepts-in-js-4bbj)<br>
 - [https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/](https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/)<br>
 - [https://blog.siddu.tech/7-console-log-alternatives](https://blog.siddu.tech/7-console-log-alternatives)<br>
+- [https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph](https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph)<br>
+
 
 ## `Best Practices`
 - [https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)<br>
