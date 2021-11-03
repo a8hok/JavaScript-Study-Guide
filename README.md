@@ -293,6 +293,7 @@ Table of Contents
 - [https://medium.com/the-clever-dev/50-difficult-javascript-interview-questions-88e6e92367e7](https://medium.com/the-clever-dev/50-difficult-javascript-interview-questions-88e6e92367e7)<br>
 - [https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
 - [https://dev.to/macmacky/70-javascript-interview-questions-5gfi](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)<br>
+- [https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/](https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
