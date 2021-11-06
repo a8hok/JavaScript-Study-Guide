@@ -160,6 +160,7 @@ Table of Contents
     - [https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise](https://www.simplilearn.com/tutorials/javascript-tutorial/javascript-promise)<br>
     - [https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j](https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j)<br>
     - [https://blog.greenroots.info/common-mistakes-in-using-javascript-promises](https://blog.greenroots.info/common-mistakes-in-using-javascript-promises)<br>
+    - [https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16](https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16)<br>
 
 
 - ### Es6+
@@ -403,6 +404,7 @@ Table of Contents
  - [https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02](https://dev.to/tyaga001/if-i-were-to-restart-javascript-again-from-scratch-then-i-will-follow-this-roadmap-5c02)<br>
  - [https://cult.honeypot.io/reads/how-to-learn-javascript-2021/](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)<br>
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/)<br>
+ - [https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners](https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
