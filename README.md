@@ -211,6 +211,8 @@ Table of Contents
     - [https://javascript.plainenglish.io/lets-deduce-the-reduce-method-in-javascript-bdc828f368a2](https://javascript.plainenglish.io/lets-deduce-the-reduce-method-in-javascript-bdc828f368a2)<br>
     - [https://dmitripavlutin.com/javascript-sparse-dense-arrays/](https://dmitripavlutin.com/javascript-sparse-dense-arrays/)<br>
     - [https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using](https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using)<br>
+    - [https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript](https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript)<br>
+    - [https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/](https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/)<br>
 
 
 - ### Event Loop
