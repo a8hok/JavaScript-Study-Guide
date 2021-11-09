@@ -104,6 +104,7 @@ Table of Contents
     - [https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16](https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16)<br>
     - [https://enlear.academy/javascript-function-types-8bde6a385b3e](https://enlear.academy/javascript-function-types-8bde6a385b3e)<br>
     - [https://devdojo.com/teri/what-is-memoization-in-javascript](https://devdojo.com/teri/what-is-memoization-in-javascript)<br>
+    - [https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b](https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -128,6 +129,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
     - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
     - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
+    - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
 
 
 - ### Promises
@@ -161,6 +163,8 @@ Table of Contents
     - [https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j](https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j)<br>
     - [https://blog.greenroots.info/common-mistakes-in-using-javascript-promises](https://blog.greenroots.info/common-mistakes-in-using-javascript-promises)<br>
     - [https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16](https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16)<br>
+    - [https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about](https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about)<br>
+    - [https://sayitaditya.hashnode.dev/this-in-javascript-part-one](https://sayitaditya.hashnode.dev/this-in-javascript-part-one)<br>
 
 
 - ### Es6+
@@ -188,6 +192,7 @@ Table of Contents
     - [https://dev.to/justmyrealname/javascript-from-es6-to-today-c42](https://dev.to/justmyrealname/javascript-from-es6-to-today-c42)<br>
     - [https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5](https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5)<br>
     - [https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react](https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react)<br>
+    - [https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05)<br>
 
 
 - ### Array
@@ -213,6 +218,7 @@ Table of Contents
     - [https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using](https://thecodingcompany.hashnode.dev/15-useful-javascript-array-methods-you-might-not-be-using)<br>
     - [https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript](https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript)<br>
     - [https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/](https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/)<br>
+    - [https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator](https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator)<br>
 
 
 - ### Event Loop
@@ -224,6 +230,7 @@ Table of Contents
     - [https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22](https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22)<br>
     - [https://web.dev/eventing-deepdive/](https://web.dev/eventing-deepdive/)<br>
     - [https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260](https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260)<br>
+    - [https://javascript.plainenglish.io/event-loop-in-javascript-how-javascript-works-51c7bd73f07](https://javascript.plainenglish.io/event-loop-in-javascript-how-javascript-works-51c7bd73f07)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
@@ -239,6 +246,7 @@ Table of Contents
     - [https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/](https://css-tricks.com/the-flavors-of-object-oriented-programming-in-javascript/)<br>
     - [https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0](https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0)<br>
     - [https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue](https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue)<br>
+    - [https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide](https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
@@ -247,7 +255,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
     - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
-    - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
+    - [https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3](https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
@@ -430,6 +438,8 @@ Table of Contents
 - [https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/](https://blog.jetbrains.com/webstorm/2021/08/js-roundup-episode-01/)<br>
 - [https://blog.siddu.tech/7-console-log-alternatives](https://blog.siddu.tech/7-console-log-alternatives)<br>
 - [https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph](https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph)<br>
+- [https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18](https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18)<br>
+- [https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5](https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5)<br>
 
 
 ## `Best Practices`
