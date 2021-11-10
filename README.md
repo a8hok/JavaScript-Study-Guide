@@ -105,6 +105,7 @@ Table of Contents
     - [https://enlear.academy/javascript-function-types-8bde6a385b3e](https://enlear.academy/javascript-function-types-8bde6a385b3e)<br>
     - [https://devdojo.com/teri/what-is-memoization-in-javascript](https://devdojo.com/teri/what-is-memoization-in-javascript)<br>
     - [https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b](https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b)<br>
+    - [https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p](https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -247,6 +248,9 @@ Table of Contents
     - [https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0](https://blog.oshogunle.com/how-to-use-oop-in-javascript-ckemxzcw804ow8cs122ikhob0)<br>
     - [https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue](https://h.daily-dev-tips.com/javascript-optional-chaining-to-the-rescue)<br>
     - [https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide](https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide)<br>
+    - [https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk](https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk)<br>
+    - [https://suprabhasupi.hashnode.dev/object-equality-in-javascript](https://suprabhasupi.hashnode.dev/object-equality-in-javascript)<br>
+    - []()<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
@@ -256,6 +260,7 @@ Table of Contents
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
     - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
     - [https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3](https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3)<br>
+    - [https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5](https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
@@ -415,6 +420,7 @@ Table of Contents
  - [https://cult.honeypot.io/reads/how-to-learn-javascript-2021/](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)<br>
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/)<br>
  - [https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners](https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners)<br>
+ - [https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/](https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
