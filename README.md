@@ -78,6 +78,7 @@ Table of Contents
     - [https://blog.youteee.codes/introduction-to-javascript-prototypes](https://blog.youteee.codes/introduction-to-javascript-prototypes)<br>
     - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
     - [https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714](https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714)<br>
+    - [https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979](https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979)<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
@@ -106,6 +107,7 @@ Table of Contents
     - [https://devdojo.com/teri/what-is-memoization-in-javascript](https://devdojo.com/teri/what-is-memoization-in-javascript)<br>
     - [https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b](https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b)<br>
     - [https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p](https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p)<br>
+    - [https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications](https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -194,6 +196,7 @@ Table of Contents
     - [https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5](https://dev.to/thatanjan/everything-you-need-to-know-about-javascript-destructuring-30e5)<br>
     - [https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react](https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react)<br>
     - [https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05)<br>
+    - [https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1](https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1)<br>
 
 
 - ### Array
@@ -250,6 +253,7 @@ Table of Contents
     - [https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide](https://devdojo.com/rahulism/classes-in-javascript-short-yet-smart-guide)<br>
     - [https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk](https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk)<br>
     - [https://suprabhasupi.hashnode.dev/object-equality-in-javascript](https://suprabhasupi.hashnode.dev/object-equality-in-javascript)<br>
+    - [https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11](https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11)<br>
     - []()<br>
 
 - ### String
@@ -346,6 +350,7 @@ Table of Contents
 - [https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212](https://tech.groww.in/worst-javascript-practices-that-degrade-code-quality-c21e068f0212)<br>
 - [https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c](https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c)<br>
 - [https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9](https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9)<br>
+- [https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874](https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874)<br>
 
 
 ## `Javascript Cheatsheet`
@@ -484,6 +489,7 @@ Table of Contents
 - [https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript](https://daveyhert.hashnode.dev/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript)<br>
 - [https://github.com/KingsleyUbah/hacker-news-clone](https://github.com/KingsleyUbah/hacker-news-clone)<br>
 - [https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09](https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09)<br>
+- [https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html](https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html)<br>
 - []()<br>
 
 ## `Youtube channels`
