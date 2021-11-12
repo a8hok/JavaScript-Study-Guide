@@ -27,7 +27,7 @@ Table of Contents
    * [Performance/Code Optimization](#performancecode-optimization)
    * [Javascript Interview Questions](#javascript-interview-questions)
    * [Tips and Tricks](#tips-and-tricks)
-   * [Javascript Cheatsheet](#javascript-cheatsheet)
+   * [Javascript Cheaetsheet](#javascript-cheatsheet)
    * [Javascript News Letters](#javascript-news-letters)
    * [Developers to follow](#developers-to-follow)
    * [Javascript Algorithm](#javascript-algorithm)
@@ -451,6 +451,7 @@ Table of Contents
 - [https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph](https://hashnode.com/post/fundamentals-of-javascript-for-complete-beginners-ckvh6uduj06kupus117db5uph)<br>
 - [https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18](https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18)<br>
 - [https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5](https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5)<br>
+- [https://snipcart.com/blog/javascript-module-bundler](https://snipcart.com/blog/javascript-module-bundler)<br>
 
 
 ## `Best Practices`
