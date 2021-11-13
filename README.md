@@ -168,6 +168,7 @@ Table of Contents
     - [https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16](https://itnext.io/the-evolution-of-asynchronous-patterns-in-javascript-64efc8938b16)<br>
     - [https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about](https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about)<br>
     - [https://sayitaditya.hashnode.dev/this-in-javascript-part-one](https://sayitaditya.hashnode.dev/this-in-javascript-part-one)<br>
+    - [https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please](https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please)<br>
 
 
 - ### Es6+
