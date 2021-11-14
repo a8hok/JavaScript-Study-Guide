@@ -133,6 +133,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
     - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
     - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
+    - [https://devdojo.com/rahulism/currying-in-js-shorts](https://devdojo.com/rahulism/currying-in-js-shorts)<br>
 
 
 - ### Promises
