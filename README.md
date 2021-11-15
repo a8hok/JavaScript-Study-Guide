@@ -108,6 +108,7 @@ Table of Contents
     - [https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b](https://dev.to/rajshreevats/functions-in-js-before-learning-react-472b)<br>
     - [https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p](https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p)<br>
     - [https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications](https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications)<br>
+    - [https://rehansattar.dev/functional-programming-introduction](https://rehansattar.dev/functional-programming-introduction)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
