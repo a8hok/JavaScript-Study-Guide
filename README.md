@@ -27,7 +27,7 @@ Table of Contents
    * [Performance/Code Optimization](#performancecode-optimization)
    * [Javascript Interview Questions](#javascript-interview-questions)
    * [Tips and Tricks](#tips-and-tricks)
-   * [Javascript Cheaetsheet](#javascript-cheatsheet)
+   * [Javascript Cheatsheet](#javascript-cheatsheet)
    * [Javascript News Letters](#javascript-news-letters)
    * [Developers to follow](#developers-to-follow)
    * [Javascript Algorithm](#javascript-algorithm)
@@ -364,6 +364,7 @@ Table of Contents
 - [https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4](https://dev.to/anmolraj/javascript-cheatsheet-for-beginners-to-advance-4en4)<br>
 - [https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2](https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2)<br>
 - [https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021](https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021)<br>
+- [https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665](https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665)<br>
 
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
