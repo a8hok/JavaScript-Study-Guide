@@ -118,6 +118,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/closures-in-javascript/](https://www.freecodecamp.org/news/closures-in-javascript/)<br>
     - [https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures](https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures)<br>
     - [https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff](https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff)<br>
+    - [https://levelup.gitconnected.com/javascript-closures-eb6961375bbd](https://levelup.gitconnected.com/javascript-closures-eb6961375bbd)<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
@@ -135,6 +136,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/](https://www.freecodecamp.org/news/how-to-use-currying-and-composition-in-javascript/)<br>
     - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
     - [https://devdojo.com/rahulism/currying-in-js-shorts](https://devdojo.com/rahulism/currying-in-js-shorts)<br>
+    - [https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3](https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3)<br>
 
 
 - ### Promises
@@ -456,6 +458,7 @@ Table of Contents
 - [https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18](https://blog.bitsrc.io/best-practices-for-using-comments-in-javascript-4c4cd8619c18)<br>
 - [https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5](https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5)<br>
 - [https://snipcart.com/blog/javascript-module-bundler](https://snipcart.com/blog/javascript-module-bundler)<br>
+- [https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e](https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e)<br>
 
 
 ## `Best Practices`
