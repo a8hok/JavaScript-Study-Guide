@@ -51,6 +51,7 @@ Table of Contents
     - [https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/2020-07-25-understanding-variables-scope-and-hoisting-in-javascript/)<br>
     - [https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)<br>
     - [https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript](https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript)<br>
+    - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)<br>
 
 
 - ### this
@@ -173,6 +174,9 @@ Table of Contents
     - [https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about](https://devdojo.com/rahulism/javascript-promises-all-you-need-to-know-about)<br>
     - [https://sayitaditya.hashnode.dev/this-in-javascript-part-one](https://sayitaditya.hashnode.dev/this-in-javascript-part-one)<br>
     - [https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please](https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please)<br>
+    - [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
+    - [https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e](https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e)<br>
+    - []()<br>
 
 
 - ### Es6+
@@ -228,6 +232,8 @@ Table of Contents
     - [https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript](https://www.ma-no.org/en/programming/javascript/how-to-reverse-an-array-in-javascript)<br>
     - [https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/](https://www.freecodecamp.org/news/javascript-destructuring-and-spread-operator-explained/)<br>
     - [https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator](https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator)<br>
+    - [https://dmitripavlutin.com/remove-object-property-javascript/](https://dmitripavlutin.com/remove-object-property-javascript/)<br>
+    - [https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1](https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1)<br>
 
 
 - ### Event Loop
@@ -459,6 +465,10 @@ Table of Contents
 - [https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5](https://dev.to/snickdx/how-well-do-you-know-dom-javascript-3fl5)<br>
 - [https://snipcart.com/blog/javascript-module-bundler](https://snipcart.com/blog/javascript-module-bundler)<br>
 - [https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e](https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e)<br>
+- [https://dev.to/vudodov/javascript-memory-architecture-and-lifecycle-ae9](https://dev.to/vudodov/javascript-memory-architecture-and-lifecycle-ae9)<br>
+- [https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6](https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6)<br>
+- [https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83](https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83)<br>
+- []()<br>
 
 
 ## `Best Practices`
