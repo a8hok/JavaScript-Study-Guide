@@ -234,6 +234,7 @@ Table of Contents
     - [https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator](https://devdojo.com/nisargkapkar/eli5-javascript-the-spread-operator)<br>
     - [https://dmitripavlutin.com/remove-object-property-javascript/](https://dmitripavlutin.com/remove-object-property-javascript/)<br>
     - [https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1](https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1)<br>
+    - [https://devdojo.com/rahulism/map-in-js-shorts](https://devdojo.com/rahulism/map-in-js-shorts)<br>
 
 
 - ### Event Loop
