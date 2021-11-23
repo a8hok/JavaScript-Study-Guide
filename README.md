@@ -120,6 +120,9 @@ Table of Contents
     - [https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures](https://toaderdaniel.hashnode.dev/javascript-scopes-and-closures)<br>
     - [https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff](https://javascript.plainenglish.io/closure-in-javascript-3f291eeb8dff)<br>
     - [https://levelup.gitconnected.com/javascript-closures-eb6961375bbd](https://levelup.gitconnected.com/javascript-closures-eb6961375bbd)<br>
+    - [https://javascript.plainenglish.io/how-to-use-javascript-closures-in-5-minutes-a28deddd3920](https://javascript.plainenglish.io/how-to-use-javascript-closures-in-5-minutes-a28deddd3920)<br>
+    - [https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true](https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true)<br>
+    - []()<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
@@ -176,6 +179,8 @@ Table of Contents
     - [https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please](https://blog.greenroots.info/javascript-async-and-await-in-plain-english-please)<br>
     - [https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/](https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/)<br>
     - [https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e](https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e)<br>
+    - [https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue](https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue)<br>
+    - [https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests](https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests)<br>
     - []()<br>
 
 
@@ -235,6 +240,9 @@ Table of Contents
     - [https://dmitripavlutin.com/remove-object-property-javascript/](https://dmitripavlutin.com/remove-object-property-javascript/)<br>
     - [https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1](https://javascript.plainenglish.io/what-are-javascript-arrays-20a45a108ad1)<br>
     - [https://devdojo.com/rahulism/map-in-js-shorts](https://devdojo.com/rahulism/map-in-js-shorts)<br>
+    - [https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five](https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five)<br>
+    - [https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes](https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes)<br>
+    - []()<br>
 
 
 - ### Event Loop
