@@ -275,6 +275,7 @@ Table of Contents
     - [https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk](https://dev.to/jrmatanda/master-objects-in-js-part-1-41hk)<br>
     - [https://suprabhasupi.hashnode.dev/object-equality-in-javascript](https://suprabhasupi.hashnode.dev/object-equality-in-javascript)<br>
     - [https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11](https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11)<br>
+    - [https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples](https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples)<br>
     - []()<br>
 
 - ### String
