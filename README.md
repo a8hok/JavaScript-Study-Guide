@@ -52,6 +52,7 @@ Table of Contents
     - [https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)<br>
     - [https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript](https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript)<br>
     - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)<br>
+    - [https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase](https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase)<br>
 
 
 - ### this
