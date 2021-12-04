@@ -53,6 +53,7 @@ Table of Contents
     - [https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript](https://devdojo.com/imkarthikeyans/quick-guide-to-closures-in-javascript)<br>
     - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)<br>
     - [https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase](https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase)<br>
+    - [https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type](https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type)<br>
 
 
 - ### this
