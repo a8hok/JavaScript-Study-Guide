@@ -338,6 +338,8 @@ Table of Contents
 - [https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://javascript.plainenglish.io/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
 - [https://dev.to/macmacky/70-javascript-interview-questions-5gfi](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)<br>
 - [https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/](https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/)<br>
+- [https://www.edureka.co/blog/interview-questions/javascript-interview-questions/](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)<br>
+
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
