@@ -76,6 +76,7 @@ Table of Contents
     - [https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6](https://evinsellin.medium.com/chaotic-javascript-patterns-1025a8f077e6)<br>
     - [https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript](https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript)<br>
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)<br>
+    - [https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript](https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
