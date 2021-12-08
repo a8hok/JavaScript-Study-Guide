@@ -54,6 +54,8 @@ Table of Contents
     - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript/)<br>
     - [https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase](https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase)<br>
     - [https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type](https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type)<br>
+    - [https://dev.to/jpomykala/number-formatting-in-javascript-1mc](https://dev.to/jpomykala/number-formatting-in-javascript-1mc)<br>
+    - []()<br>
 
 
 - ### this
@@ -246,6 +248,7 @@ Table of Contents
     - [https://devdojo.com/rahulism/map-in-js-shorts](https://devdojo.com/rahulism/map-in-js-shorts)<br>
     - [https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five](https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five)<br>
     - [https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes](https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes)<br>
+    - [https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci](https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci)<br>
     - []()<br>
 
 
