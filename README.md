@@ -217,6 +217,8 @@ Table of Contents
     - [https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react](https://faheemkhan97.hashnode.dev/es6-a-guide-you-must-go-through-before-learning-react)<br>
     - [https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05)<br>
     - [https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1](https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1)<br>
+    - [https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/](https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/)<br>
+    - []()<br>
 
 
 - ### Array
@@ -488,6 +490,7 @@ Table of Contents
 - [https://dev.to/vudodov/javascript-memory-architecture-and-lifecycle-ae9](https://dev.to/vudodov/javascript-memory-architecture-and-lifecycle-ae9)<br>
 - [https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6](https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6)<br>
 - [https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83](https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83)<br>
+- [https://www.freecodecamp.org/news/javascript-modules-beginners-guide/](https://www.freecodecamp.org/news/javascript-modules-beginners-guide/)<br>
 - []()<br>
 
 
