@@ -116,6 +116,8 @@ Table of Contents
     - [https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p](https://dev.to/bamartindev/higher-order-functions-functional-composition-c7p)<br>
     - [https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications](https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications)<br>
     - [https://rehansattar.dev/functional-programming-introduction](https://rehansattar.dev/functional-programming-introduction)<br>
+    - [https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript)<br>
+    - []()<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
@@ -383,6 +385,8 @@ Table of Contents
 - [https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c](https://javascript.plainenglish.io/another-17-life-saving-javascript-one-liners-8c335bf73d2c)<br>
 - [https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9](https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9)<br>
 - [https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874](https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874)<br>
+- [https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p](https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p)<br>
+- []()<br>
 
 
 ## `Javascript Cheatsheet`
