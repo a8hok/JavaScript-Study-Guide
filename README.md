@@ -149,6 +149,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81](https://javascript.plainenglish.io/javascript-currying-practical-example-512cf1099e81)<br>
     - [https://devdojo.com/rahulism/currying-in-js-shorts](https://devdojo.com/rahulism/currying-in-js-shorts)<br>
     - [https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3](https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3)<br>
+    - []()<br>
 
 
 - ### Promises
