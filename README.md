@@ -347,6 +347,7 @@ Table of Contents
 - [https://dev.to/macmacky/70-javascript-interview-questions-5gfi](https://dev.to/macmacky/70-javascript-interview-questions-5gfi)<br>
 - [https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/](https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/)<br>
 - [https://www.edureka.co/blog/interview-questions/javascript-interview-questions/](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)<br>
+- [https://www.telerik.com/blogs/how-to-prepare-javascript-interview](https://www.telerik.com/blogs/how-to-prepare-javascript-interview)<br>
 
 
 ## `Tips and Tricks`
