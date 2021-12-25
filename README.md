@@ -130,6 +130,7 @@ Table of Contents
     - [https://levelup.gitconnected.com/javascript-closures-eb6961375bbd](https://levelup.gitconnected.com/javascript-closures-eb6961375bbd)<br>
     - [https://javascript.plainenglish.io/how-to-use-javascript-closures-in-5-minutes-a28deddd3920](https://javascript.plainenglish.io/how-to-use-javascript-closures-in-5-minutes-a28deddd3920)<br>
     - [https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true](https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true)<br>
+    - [https://flaviocopes.com/javascript-closures/](https://flaviocopes.com/javascript-closures/)<br>
     - []()<br>
 
 - ### Iterators
