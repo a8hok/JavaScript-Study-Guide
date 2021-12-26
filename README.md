@@ -537,6 +537,7 @@ Table of Contents
 - [https://github.com/KingsleyUbah/hacker-news-clone](https://github.com/KingsleyUbah/hacker-news-clone)<br>
 - [https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09](https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09)<br>
 - [https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html](https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html)<br>
+- [https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/](https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/)<br>
 - []()<br>
 
 ## `Youtube channels`
