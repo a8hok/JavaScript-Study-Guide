@@ -497,6 +497,7 @@ Table of Contents
 - [https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6](https://blog.bitsrc.io/javascript-sanitizer-api-the-modern-way-to-safe-dom-manipulation-828d5ea7dca6)<br>
 - [https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83](https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83)<br>
 - [https://www.freecodecamp.org/news/javascript-modules-beginners-guide/](https://www.freecodecamp.org/news/javascript-modules-beginners-guide/)<br>
+- [https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32](https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32)<br>
 - []()<br>
 
 
