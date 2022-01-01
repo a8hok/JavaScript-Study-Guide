@@ -221,6 +221,7 @@ Table of Contents
     - [https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-following-my-own-learning-4e05)<br>
     - [https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1](https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1)<br>
     - [https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/](https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/)<br>
+    - [https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021](https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021)<br>
     - []()<br>
 
 
