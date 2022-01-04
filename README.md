@@ -55,6 +55,8 @@ Table of Contents
     - [https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase](https://peculiar-erhis.hashnode.dev/global-variables-the-potential-landmine-lurking-in-your-javascript-codebase)<br>
     - [https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type](https://devdojo.com/rahulism/symbol-in-javascript-a-primitive-data-type)<br>
     - [https://dev.to/jpomykala/number-formatting-in-javascript-1mc](https://dev.to/jpomykala/number-formatting-in-javascript-1mc)<br>
+    - [https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b](https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b)<br>
+    - [https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4](https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4)<br>
     - []()<br>
 
 
@@ -79,6 +81,7 @@ Table of Contents
     - [https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript](https://devdojo.com/rahulism/decorators-and-object-creation-pattern-in-javascript)<br>
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)<br>
     - [https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript](https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript)<br>
+    - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
@@ -255,6 +258,7 @@ Table of Contents
     - [https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five](https://sumudusiriwardana.hashnode.dev/javascript-arrays-explain-like-im-five)<br>
     - [https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes](https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes)<br>
     - [https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci](https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci)<br>
+    - [https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions)<br>
     - []()<br>
 
 
@@ -392,6 +396,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9](https://javascript.plainenglish.io/the-javascript-nobody-told-you-about-ac1bf4f56eb9)<br>
 - [https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874](https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874)<br>
 - [https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p](https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p)<br>
+- [https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53](https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53)<br>
 - []()<br>
 
 
@@ -502,6 +507,8 @@ Table of Contents
 - [https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83](https://dev.to/devcronin/level-up-boost-your-javascript-skills-lvl-3-4m83)<br>
 - [https://www.freecodecamp.org/news/javascript-modules-beginners-guide/](https://www.freecodecamp.org/news/javascript-modules-beginners-guide/)<br>
 - [https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32](https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32)<br>
+- [https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02](https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02)<br>
+- [https://www.telerik.com/blogs/understanding-execution-context-javascript](https://www.telerik.com/blogs/understanding-execution-context-javascript)<br>
 - []()<br>
 
 
