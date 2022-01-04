@@ -288,6 +288,7 @@ Table of Contents
     - [https://suprabhasupi.hashnode.dev/object-equality-in-javascript](https://suprabhasupi.hashnode.dev/object-equality-in-javascript)<br>
     - [https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11](https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11)<br>
     - [https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples](https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples)<br>
+    - [https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)<br>
     - []()<br>
 
 - ### String
