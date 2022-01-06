@@ -89,6 +89,8 @@ Table of Contents
     - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
     - [https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714](https://bytecodepandit.medium.com/prototype-inheritance-in-javascript-866933b86714)<br>
     - [https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979](https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979)<br>
+    - [https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1](https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1)<br>
+    - []()<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
