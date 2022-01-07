@@ -57,6 +57,7 @@ Table of Contents
     - [https://dev.to/jpomykala/number-formatting-in-javascript-1mc](https://dev.to/jpomykala/number-formatting-in-javascript-1mc)<br>
     - [https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b](https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b)<br>
     - [https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4](https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4)<br>
+    - [https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2](https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2)<br>
     - []()<br>
 
 
