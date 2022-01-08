@@ -58,6 +58,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b](https://javascript.plainenglish.io/difference-between-let-var-in-javascript-2497ec45641b)<br>
     - [https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4](https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4)<br>
     - [https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2](https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2)<br>
+    - [https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921](https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921)<br>
     - []()<br>
 
 
