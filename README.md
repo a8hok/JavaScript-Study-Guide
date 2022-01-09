@@ -361,6 +361,8 @@ Table of Contents
 - [https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/](https://engineeringinterviewquestions.com/javascript-interview-questions-and-answers/)<br>
 - [https://www.edureka.co/blog/interview-questions/javascript-interview-questions/](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)<br>
 - [https://www.telerik.com/blogs/how-to-prepare-javascript-interview](https://www.telerik.com/blogs/how-to-prepare-javascript-interview)<br>
+- [https://www.softwaretestinghelp.com/javascript-interview-questions/](https://www.softwaretestinghelp.com/javascript-interview-questions/)<br>
+- []()<br>
 
 
 ## `Tips and Tricks`
