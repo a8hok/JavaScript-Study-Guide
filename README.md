@@ -362,6 +362,7 @@ Table of Contents
 - [https://www.edureka.co/blog/interview-questions/javascript-interview-questions/](https://www.edureka.co/blog/interview-questions/javascript-interview-questions/)<br>
 - [https://www.telerik.com/blogs/how-to-prepare-javascript-interview](https://www.telerik.com/blogs/how-to-prepare-javascript-interview)<br>
 - [https://www.softwaretestinghelp.com/javascript-interview-questions/](https://www.softwaretestinghelp.com/javascript-interview-questions/)<br>
+- [https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e](https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e)<br>
 - []()<br>
 
 
