@@ -84,6 +84,8 @@ Table of Contents
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l)<br>
     - [https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript](https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript)<br>
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657)<br>
+    - [https://github.com/leonardomso/33-js-concepts#31-design-patterns](https://github.com/leonardomso/33-js-concepts#31-design-patterns)<br>
+    - []()<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
