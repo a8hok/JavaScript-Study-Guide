@@ -365,6 +365,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/how-to-prepare-javascript-interview](https://www.telerik.com/blogs/how-to-prepare-javascript-interview)<br>
 - [https://www.softwaretestinghelp.com/javascript-interview-questions/](https://www.softwaretestinghelp.com/javascript-interview-questions/)<br>
 - [https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e](https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e)<br>
+- [https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)<br>
 - []()<br>
 
 
