@@ -59,6 +59,7 @@ Table of Contents
     - [https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4](https://zahab.tech/learn-javascript-part1#ckxpjc4k0002te3s19v7b56i4)<br>
     - [https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2](https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2)<br>
     - [https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921](https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921)<br>
+    - [https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)<br>
     - []()<br>
 
 
@@ -85,6 +86,7 @@ Table of Contents
     - [https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript](https://www.thisdot.co/blog/clean-up-your-code-with-design-patterns-in-javascript)<br>
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657)<br>
     - [https://github.com/leonardomso/33-js-concepts#31-design-patterns](https://github.com/leonardomso/33-js-concepts#31-design-patterns)<br>
+    - [https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)<br>
     - []()<br>
 
 - ### Prototype
@@ -265,6 +267,7 @@ Table of Contents
     - [https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes](https://harshsinghatz.hashnode.dev/map-filter-and-reduce-in-javascript-under-5-minutes)<br>
     - [https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci](https://dev.to/mahamatmans/array-cheatsheet-javascript-3mci)<br>
     - [https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions)<br>
+    - [https://www.javascripttutorial.net/javascript-array-sort/](https://www.javascripttutorial.net/javascript-array-sort/)<br>
     - []()<br>
 
 
