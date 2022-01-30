@@ -128,6 +128,7 @@ Table of Contents
     - [https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications](https://brayanarrieta.hashnode.dev/why-is-javascript-debounce-important-for-our-web-applications)<br>
     - [https://rehansattar.dev/functional-programming-introduction](https://rehansattar.dev/functional-programming-introduction)<br>
     - [https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript)<br>
+    - [https://blog.greenroots.info/higher-order-functions-in-javascript](https://blog.greenroots.info/higher-order-functions-in-javascript)<br>
     - []()<br>
 
 - ### Closure
@@ -201,6 +202,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e](https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e)<br>
     - [https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue](https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue)<br>
     - [https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests](https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests)<br>
+    - [https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f](https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f)<br>
     - []()<br>
 
 
@@ -233,6 +235,8 @@ Table of Contents
     - [https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1](https://levelup.gitconnected.com/top-5-javascript-es12-features-you-should-start-using-now-b16a8b5353b1)<br>
     - [https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/](https://www.positronx.io/javascript-ecmascript-quick-sort-algorithm-tutorial/)<br>
     - [https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021](https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021)<br>
+    - [https://dev.to/wordssaysalot/es6-way-of-coding-javascript-2kl2](https://dev.to/wordssaysalot/es6-way-of-coding-javascript-2kl2)<br>
+    - [https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript](https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript)<br>
     - []()<br>
 
 
@@ -302,6 +306,7 @@ Table of Contents
     - [https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11](https://dev.to/antoomartini/differences-between-object-freeze-and-object-seal-in-javascript-n11)<br>
     - [https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples](https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples)<br>
     - [https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)<br>
+    - [https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js](https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js)<br>
     - []()<br>
 
 - ### String
@@ -488,6 +493,8 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-a-little-faster/)<br>
  - [https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners](https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners)<br>
  - [https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/](https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/)<br>
+ - [https://dev.to/ikamran/ultimate-list-of-javascript-learning-resource-free-3kef](https://dev.to/ikamran/ultimate-list-of-javascript-learning-resource-free-3kef)<br>
+ - []()<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
@@ -564,6 +571,7 @@ Table of Contents
 - [https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09](https://enlear.academy/create-a-simple-movie-app-in-vanilla-javascript-5811bad69e09)<br>
 - [https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html](https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html)<br>
 - [https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/](https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/)<br>
+- [https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer](https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer)<br>
 - []()<br>
 
 ## `Youtube channels`
