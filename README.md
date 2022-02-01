@@ -494,6 +494,7 @@ Table of Contents
  - [https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners](https://ajibolasegun.hashnode.dev/fundamentals-of-javascript-for-complete-beginners)<br>
  - [https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/](https://blog.logrocket.com/storing-retrieving-javascript-objects-localstorage/)<br>
  - [https://dev.to/ikamran/ultimate-list-of-javascript-learning-resource-free-3kef](https://dev.to/ikamran/ultimate-list-of-javascript-learning-resource-free-3kef)<br>
+ - [https://javascript.plainenglish.io/javascript-roadmap-to-becoming-a-100000k-year-developer-78cf3ec3d466](https://javascript.plainenglish.io/javascript-roadmap-to-becoming-a-100000k-year-developer-78cf3ec3d466)<br>
  - []()<br>
 
 ## `Javascript Books`
