@@ -60,6 +60,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2](https://javascript.plainenglish.io/a-javascript-crash-course-data-types-var-let-and-const-a8f4322284b2)<br>
     - [https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921](https://javascript.plainenglish.io/hoisting-in-javascript-a0320bb42921)<br>
     - [https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)<br>
+    - [https://www.syncfusion.com/blogs/post/10-javascript-naming-conventions-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/10-javascript-naming-conventions-every-developer-should-know.aspx)<br>
     - []()<br>
 
 
