@@ -37,6 +37,7 @@ Table of Contents
    * [Best Practices](#best-practices)
    * [Javascript Projects](#javascript-projects)
    * [Youtube channels](#youtube-channels)
+   * [Javascipt vs Typescript](#javascipt-vs-typescript)
 
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
@@ -88,6 +89,7 @@ Table of Contents
     - [https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657](https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l?ck_subscriber_id=1519802657)<br>
     - [https://github.com/leonardomso/33-js-concepts#31-design-patterns](https://github.com/leonardomso/33-js-concepts#31-design-patterns)<br>
     - [https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)<br>
+    - [https://hackernoon.com/9-javascript-design-patters-you-will-love](https://hackernoon.com/9-javascript-design-patters-you-will-love)<br>
     - []()<br>
 
 - ### Prototype
@@ -204,6 +206,7 @@ Table of Contents
     - [https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue](https://devdojo.com/imkarthikeyans/javascript-call-stack-event-loop-and-callback-queue)<br>
     - [https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests](https://afunni.hashnode.dev/a-meeting-with-asynchronous-javascript-promises-and-fetch-requests)<br>
     - [https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f](https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f)<br>
+    - [https://javascript.plainenglish.io/what-is-javascript-promise-7b5e03d06bdf](https://javascript.plainenglish.io/what-is-javascript-promise-7b5e03d06bdf)<br>
     - []()<br>
 
 
@@ -375,6 +378,7 @@ Table of Contents
 - [https://www.softwaretestinghelp.com/javascript-interview-questions/](https://www.softwaretestinghelp.com/javascript-interview-questions/)<br>
 - [https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e](https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e)<br>
 - [https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)<br>
+- [https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j](https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j)<br>
 - []()<br>
 
 
