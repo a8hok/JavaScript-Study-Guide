@@ -132,6 +132,7 @@ Table of Contents
     - [https://rehansattar.dev/functional-programming-introduction](https://rehansattar.dev/functional-programming-introduction)<br>
     - [https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript](https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript)<br>
     - [https://blog.greenroots.info/higher-order-functions-in-javascript](https://blog.greenroots.info/higher-order-functions-in-javascript)<br>
+    - [https://www.syncfusion.com/blogs/post/pure-and-impure-functions-in-javascript-a-complete-guide.aspx](https://www.syncfusion.com/blogs/post/pure-and-impure-functions-in-javascript-a-complete-guide.aspx)<br>
     - []()<br>
 
 - ### Closure
@@ -241,6 +242,7 @@ Table of Contents
     - [https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021](https://p42.ai/blog/2021-12-31/es2022-preview-10-exciting-javascript-language-features-from-2021)<br>
     - [https://dev.to/wordssaysalot/es6-way-of-coding-javascript-2kl2](https://dev.to/wordssaysalot/es6-way-of-coding-javascript-2kl2)<br>
     - [https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript](https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript)<br>
+    - [https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript#ckxpje048002xe3s15ruw3t80](https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript#ckxpje048002xe3s15ruw3t80)<br>
     - []()<br>
 
 
@@ -338,6 +340,8 @@ Table of Contents
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
     - [https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d](https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d)<br>
+    - [https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9](https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9)<br>
+    - []()<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
@@ -379,6 +383,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e](https://javascript.plainenglish.io/6-interview-questions-that-combine-promise-and-settimeout-34c430fc297e)<br>
 - [https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)<br>
 - [https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j](https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j)<br>
+- [https://snipcart.com/blog/javascript-practice-exercises](https://snipcart.com/blog/javascript-practice-exercises)<br>
 - []()<br>
 
 
@@ -420,6 +425,8 @@ Table of Contents
 - [https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874](https://blog.bitsrc.io/writing-clean-code-in-javascript-dd584bbe1874)<br>
 - [https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p](https://dev.to/perenstrom/four-tricky-javascript-concepts-in-one-line-of-code-3i3p)<br>
 - [https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53](https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53)<br>
+- [https://dev.to/martinkr/series/15146](https://dev.to/martinkr/series/15146)<br>
+- [https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e](https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e)<br>
 - []()<br>
 
 
@@ -470,6 +477,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/author/joy/](https://www.freecodecamp.org/news/author/joy/)<br>
 - [https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)<br>
 - [https://hashnode.com/@Madza](https://hashnode.com/@Madza)<br>
+- [https://kittygiraudel.com/blog/](https://kittygiraudel.com/blog/)<br>
 
 ## `Javascript Algorithm`
 - [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
@@ -536,6 +544,7 @@ Table of Contents
 - [https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32](https://blog.devgenius.io/how-javascript-works-behind-the-scenes-88c546173f32)<br>
 - [https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02](https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02)<br>
 - [https://www.telerik.com/blogs/understanding-execution-context-javascript](https://www.telerik.com/blogs/understanding-execution-context-javascript)<br>
+- [https://hackernoon.com/50-shortcut-links-for-developers-productivity](https://hackernoon.com/50-shortcut-links-for-developers-productivity)<br>
 - []()<br>
 
 
@@ -578,6 +587,7 @@ Table of Contents
 - [https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html](https://www.foolishdeveloper.com/2021/10/coin-flip-game-using-javascript.html)<br>
 - [https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/](https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/)<br>
 - [https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer](https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer)<br>
+- [https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas](https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas)<br>
 - []()<br>
 
 ## `Youtube channels`
