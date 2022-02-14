@@ -384,6 +384,7 @@ Table of Contents
 - [https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)<br>
 - [https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j](https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j)<br>
 - [https://snipcart.com/blog/javascript-practice-exercises](https://snipcart.com/blog/javascript-practice-exercises)<br>
+- [https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/](https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/)<br>
 - []()<br>
 
 
