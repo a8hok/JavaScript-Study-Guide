@@ -590,6 +590,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/](https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/)<br>
 - [https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer](https://devdojo.com/arpit/github-repos-to-become-better-javascript-developer)<br>
 - [https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas](https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas)<br>
+- [https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/](https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/)<br>
 - []()<br>
 
 ## `Youtube channels`
