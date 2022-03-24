@@ -385,7 +385,7 @@ Table of Contents
 - [https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j](https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j)<br>
 - [https://snipcart.com/blog/javascript-practice-exercises](https://snipcart.com/blog/javascript-practice-exercises)<br>
 - [https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/](https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/)<br>
-- []()<br>
+- [https://blog.bitsrc.io/javascript-interview-question-what-are-iterables-and-iterators-5773ff3409f7](https://blog.bitsrc.io/javascript-interview-question-what-are-iterables-and-iterators-5773ff3409f7)<br>
 
 
 ## `Tips and Tricks`
