@@ -63,6 +63,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)<br>
     - [https://www.syncfusion.com/blogs/post/10-javascript-naming-conventions-every-developer-should-know.aspx](https://www.syncfusion.com/blogs/post/10-javascript-naming-conventions-every-developer-should-know.aspx)<br>
     - [https://javascript.plainenglish.io/why-is-javascripts-parseint-0-0000005-5-eb9e2432f1b0](https://javascript.plainenglish.io/why-is-javascripts-parseint-0-0000005-5-eb9e2432f1b0)<br>
+    - [https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643](https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643)
 
 
 - ### this
