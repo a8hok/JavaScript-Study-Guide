@@ -429,7 +429,7 @@ Table of Contents
 - [https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53](https://towardsdev.com/javascript-the-hard-parts-part-1-80b45aa8ce53)<br>
 - [https://dev.to/martinkr/series/15146](https://dev.to/martinkr/series/15146)<br>
 - [https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e](https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e)<br>
-- []()<br>
+- [https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5](https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5)<br>
 
 
 ## `Javascript Cheatsheet`
