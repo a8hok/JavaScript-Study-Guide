@@ -519,6 +519,7 @@ Table of Contents
 - [https://minal-vaity95.medium.com/ultimate-javascript-cheatsheet-d21b0154d589](https://minal-vaity95.medium.com/ultimate-javascript-cheatsheet-d21b0154d589)<br>
 - [https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9](https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9)<br>
 - [https://jsbooks.revolunet.com/](https://jsbooks.revolunet.com/)<br>
+- [https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true)<br>
 
 ## `General`
 - [https://blog.ganeshjaiwal.dev/how-does-javascript-work](https://blog.ganeshjaiwal.dev/how-does-javascript-work)<br>
