@@ -91,7 +91,7 @@ Table of Contents
     - [https://github.com/leonardomso/33-js-concepts#31-design-patterns](https://github.com/leonardomso/33-js-concepts#31-design-patterns)<br>
     - [https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)<br>
     - [https://hackernoon.com/9-javascript-design-patters-you-will-love](https://hackernoon.com/9-javascript-design-patters-you-will-love)<br>
-    - []()<br>
+    - [https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f](https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
