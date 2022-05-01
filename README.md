@@ -342,7 +342,7 @@ Table of Contents
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
     - [https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d](https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d)<br>
     - [https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9](https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9)<br>
-    - []()<br>
+    - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
