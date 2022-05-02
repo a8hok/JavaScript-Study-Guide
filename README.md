@@ -595,6 +595,7 @@ Table of Contents
 - [https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas](https://devdojo.com/rahulism/13-unique-and-fun-apis-project-ideas)<br>
 - [https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/](https://blog.logrocket.com/how-to-build-file-upload-service-vanilla-javascript/)<br>
 - [https://github.com/Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)<br>
+- [https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
