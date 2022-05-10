@@ -314,7 +314,7 @@ Table of Contents
     - [https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples](https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples)<br>
     - [https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)<br>
     - [https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js](https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js)<br>
-    - []()<br>
+    - [https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
