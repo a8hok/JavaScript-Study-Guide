@@ -76,6 +76,7 @@ Table of Contents
     - [https://dev.to/denisveleaev/6-simple-rules-to-fully-understand-this-keyword-in-javascript-1kmk](https://dev.to/denisveleaev/6-simple-rules-to-fully-understand-this-keyword-in-javascript-1kmk)<br>
     - [https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w](https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w)<br>
     - [https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3](https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3)<br>
+    - [https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript](https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
