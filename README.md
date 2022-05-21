@@ -150,6 +150,7 @@ Table of Contents
     - [https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true](https://dev.to/elijahtrillionz/learn-javascript-closures-in-7-mins-324n?signin=true)<br>
     - [https://flaviocopes.com/javascript-closures/](https://flaviocopes.com/javascript-closures/)<br>
     - [https://www.freecodecamp.org/news/javascript-closures-explained-with-example/](https://www.freecodecamp.org/news/javascript-closures-explained-with-example/)<br>
+    - [https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)<br>
 
 - ### Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
