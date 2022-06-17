@@ -518,6 +518,7 @@ Table of Contents
  - [https://javascript.plainenglish.io/javascript-roadmap-to-becoming-a-100000k-year-developer-78cf3ec3d466](https://javascript.plainenglish.io/javascript-roadmap-to-becoming-a-100000k-year-developer-78cf3ec3d466)<br>
  - [https://rajatgupta.net/local-storage-and-session-storage-javascript](https://rajatgupta.net/local-storage-and-session-storage-javascript)<br>
  - [https://dev.to/p42/level-up-your-javascript-with-these-60-quick-fixes-for-vs-code-5390](https://dev.to/p42/level-up-your-javascript-with-these-60-quick-fixes-for-vs-code-5390)<br>
+ - [https://blog.tapan.app/javascript-a-single-threaded-non-blocking-synchronous-concurrent-language-part-1](https://blog.tapan.app/javascript-a-single-threaded-non-blocking-synchronous-concurrent-language-part-1)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
