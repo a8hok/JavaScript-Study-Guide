@@ -94,6 +94,7 @@ Table of Contents
     - [https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction](https://hemdan.hashnode.dev/javascript-patterns-ch1-introduction)<br>
     - [https://hackernoon.com/9-javascript-design-patters-you-will-love](https://hackernoon.com/9-javascript-design-patters-you-will-love)<br>
     - [https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f](https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f)<br>
+    - [https://www.freecodecamp.org/news/javascript-design-patterns-explained/](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
