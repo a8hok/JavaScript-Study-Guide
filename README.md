@@ -216,6 +216,7 @@ Table of Contents
     - [https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f](https://blog.bitsrc.io/5-common-mistakes-in-using-promises-bfcc4d62657f)<br>
     - [https://javascript.plainenglish.io/what-is-javascript-promise-7b5e03d06bdf](https://javascript.plainenglish.io/what-is-javascript-promise-7b5e03d06bdf)<br>
     - [https://www.freecodecamp.org/news/asynchronous-javascript-explained/](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)<br>
+    - []()<br>
 
 
 - ### Es6+
