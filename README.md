@@ -496,6 +496,7 @@ Table of Contents
 - [https://dev.to/doabledanny/how-to-compare-arrays-in-javascript-efficiently-1p0](https://dev.to/doabledanny/how-to-compare-arrays-in-javascript-efficiently-1p0)<br>
 - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 - [https://dev.to/deleteman123/practical-big-o-notation-for-javascript-developers-2lhn](https://dev.to/deleteman123/practical-big-o-notation-for-javascript-developers-2lhn)<br>
+- [https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)<br>
 
 ## `Learn Javascript`
 - [https://jstherightway.org/](https://jstherightway.org/)<br>
