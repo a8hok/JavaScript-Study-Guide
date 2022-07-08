@@ -139,6 +139,7 @@ Table of Contents
     - [https://blog.greenroots.info/higher-order-functions-in-javascript](https://blog.greenroots.info/higher-order-functions-in-javascript)<br>
     - [https://www.syncfusion.com/blogs/post/pure-and-impure-functions-in-javascript-a-complete-guide.aspx](https://www.syncfusion.com/blogs/post/pure-and-impure-functions-in-javascript-a-complete-guide.aspx)<br>
     - [https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8](https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8)<br>
+    - [https://www.syncfusion.com/blogs/post/javascript-higher-order-functions-a-complete-guide.aspx](https://www.syncfusion.com/blogs/post/javascript-higher-order-functions-a-complete-guide.aspx)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
