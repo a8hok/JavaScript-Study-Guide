@@ -440,7 +440,8 @@ Table of Contents
 - [https://dev.to/martinkr/series/15146](https://dev.to/martinkr/series/15146)<br>
 - [https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e](https://dev.to/codewithahsan/8-techniques-to-write-cleaner-javascript-code-369e)<br>
 - [https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5](https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5)<br>
-- [https://blog.logrocket.com/how-detect-dead-code-frontend-project/](https://blog.logrocket.com/how-detect-dead-code-frontend-project/)
+- [https://blog.logrocket.com/how-detect-dead-code-frontend-project/](https://blog.logrocket.com/how-detect-dead-code-frontend-project/)<br>
+- [https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431](https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431) <br>
 
 
 ## `Javascript Cheatsheet`
