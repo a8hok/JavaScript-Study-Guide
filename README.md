@@ -618,3 +618,4 @@ Table of Contents
 - [https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5](https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5)<br>
 - [https://blog.logrocket.com/16-useful-typescript-javascript-shorthands-know/](https://blog.logrocket.com/16-useful-typescript-javascript-shorthands-know/)<br>
 - [https://www.sitepoint.com/premium/books/typescript-4-design-patterns-and-best-practices/read/1/l3wpx4d2/](https://www.sitepoint.com/premium/books/typescript-4-design-patterns-and-best-practices/read/1/l3wpx4d2/)<br>
+- [https://dev.to/nickytonline/learning-resources-for-typescript-4g1n](https://dev.to/nickytonline/learning-resources-for-typescript-4g1n)<br>
