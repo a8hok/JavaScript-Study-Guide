@@ -65,6 +65,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/why-is-javascripts-parseint-0-0000005-5-eb9e2432f1b0](https://javascript.plainenglish.io/why-is-javascripts-parseint-0-0000005-5-eb9e2432f1b0)<br>
     - [https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643](https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643)<br>
     - [https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c](https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c)<br>
+    - [https://iamclement.hashnode.dev/javascript-operator](https://iamclement.hashnode.dev/javascript-operator)<br>
 
 
 - ### this
