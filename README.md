@@ -443,6 +443,7 @@ Table of Contents
 - [https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5](https://blog.bitsrc.io/9-javascript-console-tips-that-will-improve-your-debugging-skills-1899e37469d5)<br>
 - [https://blog.logrocket.com/how-detect-dead-code-frontend-project/](https://blog.logrocket.com/how-detect-dead-code-frontend-project/)<br>
 - [https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431](https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431) <br>
+- [https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78](https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78)<br>
 
 
 ## `Javascript Cheatsheet`
