@@ -400,6 +400,7 @@ Table of Contents
 - [https://snipcart.com/blog/javascript-practice-exercises](https://snipcart.com/blog/javascript-practice-exercises)<br>
 - [https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/](https://cult.honeypot.io/reads/ultimate-guide-to-hire-javascript-developers/)<br>
 - [https://blog.bitsrc.io/javascript-interview-question-what-are-iterables-and-iterators-5773ff3409f7](https://blog.bitsrc.io/javascript-interview-question-what-are-iterables-and-iterators-5773ff3409f7)<br>
+- [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
 
 
 ## `Tips and Tricks`
