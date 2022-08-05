@@ -348,6 +348,7 @@ Table of Contents
     - [https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c](https://blog.bitsrc.io/threats-of-using-regular-expressions-in-javascript-28ddccf5224c)<br>
     - [https://dev.to/jaspalsingh1998/regex-in-javascript-with-a-cool-project-2e6m](https://dev.to/jaspalsingh1998/regex-in-javascript-with-a-cool-project-2e6m)<br>
     - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
+    - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
