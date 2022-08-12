@@ -302,6 +302,7 @@ Table of Contents
     - [https://web.dev/eventing-deepdive/](https://web.dev/eventing-deepdive/)<br>
     - [https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260](https://bytecodepandit.medium.com/5-min-to-understand-event-loop-in-javascript-ead521e88260)<br>
     - [https://javascript.plainenglish.io/event-loop-in-javascript-how-javascript-works-51c7bd73f07](https://javascript.plainenglish.io/event-loop-in-javascript-how-javascript-works-51c7bd73f07)<br>
+    - [https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
