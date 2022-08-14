@@ -66,6 +66,7 @@ Table of Contents
     - [https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643](https://bytecodepandit.medium.com/scopes-in-javascript-89d1f8b00643)<br>
     - [https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c](https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c)<br>
     - [https://iamclement.hashnode.dev/javascript-operator](https://iamclement.hashnode.dev/javascript-operator)<br>
+    - [https://blog.openreplay.com/javascript-type-conversions-explained](https://blog.openreplay.com/javascript-type-conversions-explained)<br>
 
 
 - ### this
