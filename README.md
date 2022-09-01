@@ -450,6 +450,7 @@ Table of Contents
 - [https://blog.logrocket.com/how-detect-dead-code-frontend-project/](https://blog.logrocket.com/how-detect-dead-code-frontend-project/)<br>
 - [https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431](https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431) <br>
 - [https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78](https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78)<br>
+- [https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time](https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time)<br>
 
 
 ## `Javascript Cheatsheet`
