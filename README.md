@@ -536,6 +536,7 @@ Table of Contents
  - [https://dev.to/p42/level-up-your-javascript-with-these-60-quick-fixes-for-vs-code-5390](https://dev.to/p42/level-up-your-javascript-with-these-60-quick-fixes-for-vs-code-5390)<br>
  - [https://blog.tapan.app/javascript-a-single-threaded-non-blocking-synchronous-concurrent-language-part-1](https://blog.tapan.app/javascript-a-single-threaded-non-blocking-synchronous-concurrent-language-part-1)<br>
  - [https://tanishka.hashnode.dev/javascript-fundamentals-part-1](https://tanishka.hashnode.dev/javascript-fundamentals-part-1)<br>
+ - [https://javascript.plainenglish.io/basic-javascript-mistakes-and-best-practices-aa97ffc0e553(https://javascript.plainenglish.io/basic-javascript-mistakes-and-best-practices-aa97ffc0e553)<br/>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
