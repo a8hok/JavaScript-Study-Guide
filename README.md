@@ -575,7 +575,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02](https://javascript.plainenglish.io/all-you-need-to-get-started-with-javascript-dom-d8c5dae38f02)<br>
 - [https://www.telerik.com/blogs/understanding-execution-context-javascript](https://www.telerik.com/blogs/understanding-execution-context-javascript)<br>
 - [https://hackernoon.com/50-shortcut-links-for-developers-productivity](https://hackernoon.com/50-shortcut-links-for-developers-productivity)<br>
-- []()<br>
+- [https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx](https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx)<br>
 
 
 ## `Best Practices`
