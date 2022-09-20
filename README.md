@@ -452,6 +452,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431](https://javascript.plainenglish.io/5-javascript-concepts-to-make-you-an-excellent-front-end-developer-994676aa2431) <br>
 - [https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78](https://intspirit.medium.com/top-of-js-topics-mostly-failed-by-developers-53397f13eb78)<br>
 - [https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time](https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time)<br>
+- [https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439](https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439)<br/>
 
 
 ## `Javascript Cheatsheet`
