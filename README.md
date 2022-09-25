@@ -329,6 +329,7 @@ Table of Contents
     - [https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js](https://devdojo.com/rahulism/shallow-copy-and-deep-copy-in-js)<br>
     - [https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/](https://www.freecodecamp.org/news/object-oriented-javascript-for-beginners/)<br>
     - [https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/](https://www.freecodecamp.org/news/understand-call-apply-and-bind-in-javascript-with-examples/)<br>
+    - [https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e](https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
