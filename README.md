@@ -455,6 +455,7 @@ Table of Contents
 - [https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time](https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time)<br>
 - [https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439](https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439)<br/>
 - [https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp)<br/>
+- [https://blog.openreplay.com/javascript-seo-best-practices/](https://blog.openreplay.com/javascript-seo-best-practices/)<br>
 
 
 ## `Javascript Cheatsheet`
