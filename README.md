@@ -98,6 +98,7 @@ Table of Contents
     - [https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f](https://levelup.gitconnected.com/whats-hof-in-javascript-9fb68a9c3f6f)<br>
     - [https://www.freecodecamp.org/news/javascript-design-patterns-explained/](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)<br>
     - [https://blog.upperdine.dev/patterns-that-every-developer-should-know](https://blog.upperdine.dev/patterns-that-every-developer-should-know)<br>
+    - [https://javascriptpatterns.vercel.app/patterns](https://javascriptpatterns.vercel.app/patterns)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
