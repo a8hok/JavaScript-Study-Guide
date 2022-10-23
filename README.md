@@ -108,6 +108,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979](https://javascript.plainenglish.io/javascript-prototypes-in-plain-english-305781fbd979)<br>
     - [https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1](https://levelup.gitconnected.com/javascripts-proto-vs-prototype-a21ec7f25bc1)<br>
     - [https://medium.com/@farazahmad0516/basic-javascript-javascript-for-beginners-part-1-1bbaff7b3124(https://medium.com/@farazahmad0516/basic-javascript-javascript-for-beginners-part-1-1bbaff7b3124)<br>
+    - [https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)<br>
 
 - ### Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
