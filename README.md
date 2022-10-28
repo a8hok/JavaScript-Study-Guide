@@ -633,6 +633,10 @@ Table of Contents
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
 - [https://www.codewall.co.uk/best-javascript-youtube-channels/](https://www.codewall.co.uk/best-javascript-youtube-channels/)<br>
+- [https://www.youtube.com/watch?v=lI1ae4REbFM](https://www.youtube.com/watch?v=lI1ae4REbFM)<br>
+- [https://www.youtube.com/watch?v=DqaTKBU9TZk](https://www.youtube.com/watch?v=DqaTKBU9TZk)<br>
+- [https://www.youtube.com/watch?v=q7rnaVD_Wjc](https://www.youtube.com/watch?v=q7rnaVD_Wjc)<br>
+- [https://www.youtube.com/watch?v=XIOLqoPHCJ4](https://www.youtube.com/watch?v=XIOLqoPHCJ4)<br>
 
 ## `Javascipt vs Typescript`
 - [https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5](https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5)<br>
