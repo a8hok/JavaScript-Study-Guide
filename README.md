@@ -67,6 +67,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c](https://javascript.plainenglish.io/javascript-concepts-every-programmer-should-know-d04731fe7a7c)<br>
     - [https://iamclement.hashnode.dev/javascript-operator](https://iamclement.hashnode.dev/javascript-operator)<br>
     - [https://blog.openreplay.com/javascript-type-conversions-explained](https://blog.openreplay.com/javascript-type-conversions-explained)<br>
+    - [https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)<br>
 
 
 - ### this
