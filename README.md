@@ -555,6 +555,7 @@ Table of Contents
 - [https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9](https://blog.bitsrc.io/9-free-javascript-books-that-are-well-worth-reading-7cf6b0a20da9)<br>
 - [https://jsbooks.revolunet.com/](https://jsbooks.revolunet.com/)<br>
 - [https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true)<br>
+- [https://www.sitepoint.com/best-javascript-books-for-beginners/?utm_source=rss](https://www.sitepoint.com/best-javascript-books-for-beginners/?utm_source=rss)<br>
 
 ## `General`
 - [https://blog.ganeshjaiwal.dev/how-does-javascript-work](https://blog.ganeshjaiwal.dev/how-does-javascript-work)<br>
