@@ -310,6 +310,7 @@ Table of Contents
     - [https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)<br>
     - [https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time](https://devdojo.com/posandu/16-javascript-snippets-to-save-your-time)<br>
     - [https://www.freecodecamp.org/news/event-bubbling-in-javascript/](https://www.freecodecamp.org/news/event-bubbling-in-javascript/)<br>
+    - [https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
