@@ -635,6 +635,7 @@ Table of Contents
 - [https://github.com/Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)<br>
 - [https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript](https://blog.openreplay.com/building-a-mobile-app-using-html-css-and-javascript)<br>
 - [https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/](https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/)<br>
+- [https://mdjunaidap.notion.site/mdjunaidap/Learn-JavaScript-for-Free-31dfa430f4b54eaba33f493ebb964611](https://mdjunaidap.notion.site/mdjunaidap/Learn-JavaScript-for-Free-31dfa430f4b54eaba33f493ebb964611)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
