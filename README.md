@@ -550,6 +550,7 @@ Table of Contents
  - [https://tanishka.hashnode.dev/javascript-fundamentals-part-1](https://tanishka.hashnode.dev/javascript-fundamentals-part-1)<br>
  - [https://javascript.plainenglish.io/basic-javascript-mistakes-and-best-practices-aa97ffc0e553(https://javascript.plainenglish.io/basic-javascript-mistakes-and-best-practices-aa97ffc0e553)<br/>
  - [https://vercel.com/guides/nextjs-prisma-postgres](https://vercel.com/guides/nextjs-prisma-postgres)<br>
+ - [https://www.freecodecamp.org/news/how-to-learn-javascript-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-faster/)<br/>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
