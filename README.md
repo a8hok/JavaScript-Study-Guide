@@ -81,6 +81,7 @@ Table of Contents
     - [https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w](https://medium.com/free-code-camp/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56#.53op90a6w)<br>
     - [https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3](https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3)<br>
     - [https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript](https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript)<br>
+    - [https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a](https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a)<br/>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
