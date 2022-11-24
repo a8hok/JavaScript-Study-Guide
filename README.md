@@ -68,6 +68,7 @@ Table of Contents
     - [https://iamclement.hashnode.dev/javascript-operator](https://iamclement.hashnode.dev/javascript-operator)<br>
     - [https://blog.openreplay.com/javascript-type-conversions-explained](https://blog.openreplay.com/javascript-type-conversions-explained)<br>
     - [https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)<br>
+    - [https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx](https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx)<br>
 
 
 - ### this
