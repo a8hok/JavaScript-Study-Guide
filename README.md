@@ -655,3 +655,4 @@ Table of Contents
 - [https://www.sitepoint.com/premium/books/typescript-4-design-patterns-and-best-practices/read/1/l3wpx4d2/](https://www.sitepoint.com/premium/books/typescript-4-design-patterns-and-best-practices/read/1/l3wpx4d2/)<br>
 - [https://dev.to/nickytonline/learning-resources-for-typescript-4g1n](https://dev.to/nickytonline/learning-resources-for-typescript-4g1n)<br>
 - [https://www.totaltypescript.com/tutorials](https://www.totaltypescript.com/tutorials)<br>
+- [https://dev.to/jurooravec/7-tips-for-reverse-engineering-minified-typescript-javascript-4p64](https://dev.to/jurooravec/7-tips-for-reverse-engineering-minified-typescript-javascript-4p64)<br>
