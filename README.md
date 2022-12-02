@@ -343,7 +343,7 @@ Table of Contents
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
     - [https://dmitripavlutin.com/javascript-string-trim/](https://dmitripavlutin.com/javascript-string-trim/)<br>
-    - []()<br>
+    - [https://www.freecodecamp.org/news/efficient-string-building-in-javascript/](https://www.freecodecamp.org/news/efficient-string-building-in-javascript/)<br>
 
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
