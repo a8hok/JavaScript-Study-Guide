@@ -344,7 +344,7 @@ Table of Contents
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
     - [https://dmitripavlutin.com/javascript-string-trim/](https://dmitripavlutin.com/javascript-string-trim/)<br>
     - [https://www.freecodecamp.org/news/efficient-string-building-in-javascript/](https://www.freecodecamp.org/news/efficient-string-building-in-javascript/)<br>
-
+    - [https://www.freecodecamp.org/news/javascript-string-to-boolean/](https://www.freecodecamp.org/news/javascript-string-to-boolean/)<br>
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
