@@ -69,6 +69,7 @@ Table of Contents
     - [https://blog.openreplay.com/javascript-type-conversions-explained](https://blog.openreplay.com/javascript-type-conversions-explained)<br>
     - [https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)<br>
     - [https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx](https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx)<br>
+    - [https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/](https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/)<br>
 
 
 - ### this
