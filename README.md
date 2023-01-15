@@ -642,6 +642,7 @@ Table of Contents
 - [https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/](https://blog.openreplay.com/four-useful-built-in-javascript-web-apis/)<br>
 - [https://mdjunaidap.notion.site/mdjunaidap/Learn-JavaScript-for-Free-31dfa430f4b54eaba33f493ebb964611](https://mdjunaidap.notion.site/mdjunaidap/Learn-JavaScript-for-Free-31dfa430f4b54eaba33f493ebb964611)<br>
 - [https://moralis.io/web3-programming-how-to-learn-web3-programming/](https://moralis.io/web3-programming-how-to-learn-web3-programming/)<br>
+- [https://www.honeybadger.io/blog/javascript-reddit-api/](https://www.honeybadger.io/blog/javascript-reddit-api/)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
