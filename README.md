@@ -467,6 +467,7 @@ Table of Contents
 - [https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439](https://medium.com/@dreamy-player/40-killer-javascript-one-liners-fc76edaf8439)<br/>
 - [https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp)<br/>
 - [https://blog.openreplay.com/javascript-seo-best-practices/](https://blog.openreplay.com/javascript-seo-best-practices/)<br>
+- [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
 
 
 ## `Javascript Cheatsheet`
