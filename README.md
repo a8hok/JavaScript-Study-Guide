@@ -149,6 +149,7 @@ Table of Contents
     - [https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8](https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8)<br>
     - [https://www.syncfusion.com/blogs/post/javascript-higher-order-functions-a-complete-guide.aspx](https://www.syncfusion.com/blogs/post/javascript-higher-order-functions-a-complete-guide.aspx)<br>
     - [https://hackernoon.com/understanding-first-class-and-higher-order-functions?source=rss](https://hackernoon.com/understanding-first-class-and-higher-order-functions?source=rss)<br>
+    - [https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954](https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
