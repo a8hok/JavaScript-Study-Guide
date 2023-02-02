@@ -230,6 +230,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/asynchronous-javascript-explained/](https://www.freecodecamp.org/news/asynchronous-javascript-explained/)<br>
     - [https://dev.to/klc/understanding-javascript-promises-1hp1](https://dev.to/klc/understanding-javascript-promises-1hp1)<br>
     - [https://dev.to/veronikasimic_56/the-ultimate-guide-to-asnyc-javascript-3lg5](https://dev.to/veronikasimic_56/the-ultimate-guide-to-asnyc-javascript-3lg5)<br>
+    - [https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)<br>
 
 
 - ### Es6+
