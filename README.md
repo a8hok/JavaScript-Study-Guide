@@ -84,6 +84,7 @@ Table of Contents
     - [https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3](https://enlear.academy/this-keyword-in-javascript-8979fa01f4a3)<br>
     - [https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript](https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript)<br>
     - [https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a](https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a)<br/>
+    - [https://www.freecodecamp.org/news/the-this-keyword-in-javascript/](https://www.freecodecamp.org/news/the-this-keyword-in-javascript/)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
