@@ -602,6 +602,7 @@ Table of Contents
 - [https://www.telerik.com/blogs/understanding-execution-context-javascript](https://www.telerik.com/blogs/understanding-execution-context-javascript)<br>
 - [https://hackernoon.com/50-shortcut-links-for-developers-productivity](https://hackernoon.com/50-shortcut-links-for-developers-productivity)<br>
 - [https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx](https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx)<br>
+- [https://blog.openreplay.com/the-ultimate-guide-to-localstorage-in-javascript/](https://blog.openreplay.com/the-ultimate-guide-to-localstorage-in-javascript/)<br>
 
 
 ## `Best Practices`
