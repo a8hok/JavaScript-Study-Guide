@@ -269,6 +269,7 @@ Table of Contents
     - [https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript#ckxpje048002xe3s15ruw3t80](https://wordssaysalot.hashnode.dev/es6-way-of-coding-javascript#ckxpje048002xe3s15ruw3t80)<br>
     - [https://www.30secondsofcode.org/articles/s/js-async-defer](https://www.30secondsofcode.org/articles/s/js-async-defer)<br>
     - [https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c](https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c)<br>
+    - [https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)<br>
 
 
 - ### Array
