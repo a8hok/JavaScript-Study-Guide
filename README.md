@@ -359,7 +359,8 @@ Table of Contents
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
     - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
     - [https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3](https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3)<br>
-    - [https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5](https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5)<br>
+    - [https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5](https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5)<br>  
+    - [https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/](https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
