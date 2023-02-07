@@ -566,6 +566,7 @@ Table of Contents
  - [https://vercel.com/guides/nextjs-prisma-postgres](https://vercel.com/guides/nextjs-prisma-postgres)<br>
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-faster/)<br/>
  - [https://tech.groww.in/introduction-to-javascript-380354c527e2](https://tech.groww.in/introduction-to-javascript-380354c527e2) <br>
+ - [https://code.tutsplus.com/tutorials/managing-cookies-in-javascript--cms-93787](https://code.tutsplus.com/tutorials/managing-cookies-in-javascript--cms-93787)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
