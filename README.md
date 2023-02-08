@@ -659,6 +659,7 @@ Table of Contents
 - [https://www.honeybadger.io/blog/javascript-reddit-api/](https://www.honeybadger.io/blog/javascript-reddit-api/)<br>
 - [https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/](https://www.freecodecamp.org/news/integrate-paypal-into-html-css-js-product-pages/)<br>
 - [https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/](https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/)<br>
+- [https://www.honeybadger.io/blog/javascript-reddit-api/](https://www.honeybadger.io/blog/javascript-reddit-api/)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
