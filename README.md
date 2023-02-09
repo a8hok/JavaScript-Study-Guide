@@ -322,6 +322,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/event-bubbling-in-javascript/](https://www.freecodecamp.org/news/event-bubbling-in-javascript/)<br>
     - [https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62](https://dev.to/nodedoctors/an-animated-guide-to-nodejs-event-loop-3g62)<br>
     - [https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)<br>
+    - [https://mathiasbynens.be/notes/shapes-ics](https://mathiasbynens.be/notes/shapes-ics)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
