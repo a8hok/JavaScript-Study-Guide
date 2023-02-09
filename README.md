@@ -351,6 +351,7 @@ Table of Contents
     - [https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e](https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e)<br>
     - [https://www.builder.io/blog/structured-clone](https://www.builder.io/blog/structured-clone)<br>
     - [https://www.freecodecamp.org/news/objects-in-javascript/](https://www.freecodecamp.org/news/objects-in-javascript/)<br>
+    - [https://www.freecodecamp.org/news/object-oriented-programming-javascript/](https://www.freecodecamp.org/news/object-oriented-programming-javascript/)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
