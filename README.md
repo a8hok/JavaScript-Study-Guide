@@ -677,3 +677,6 @@ Table of Contents
 - [https://dev.to/nickytonline/learning-resources-for-typescript-4g1n](https://dev.to/nickytonline/learning-resources-for-typescript-4g1n)<br>
 - [https://www.totaltypescript.com/tutorials](https://www.totaltypescript.com/tutorials)<br>
 - [https://dev.to/jurooravec/7-tips-for-reverse-engineering-minified-typescript-javascript-4p64](https://dev.to/jurooravec/7-tips-for-reverse-engineering-minified-typescript-javascript-4p64)<br>
+
+## JS tools
+- [https://www.robinwieruch.de/vite-eslint/](https://www.robinwieruch.de/vite-eslint/)<br>
