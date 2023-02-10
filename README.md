@@ -572,6 +572,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-faster/](https://www.freecodecamp.org/news/how-to-learn-javascript-faster/)<br/>
  - [https://tech.groww.in/introduction-to-javascript-380354c527e2](https://tech.groww.in/introduction-to-javascript-380354c527e2) <br>
  - [https://code.tutsplus.com/tutorials/managing-cookies-in-javascript--cms-93787](https://code.tutsplus.com/tutorials/managing-cookies-in-javascript--cms-93787)<br>
+ - [https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/](https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
