@@ -271,6 +271,7 @@ Table of Contents
     - [https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c](https://medium.com/@bluetch/javascript-es6-es7-es8-es9-es10-es11-and-es12-519d8be7d48c)<br>
     - [https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)<br>
     - [https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe](https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe)<br>
+    - [https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9](https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9)<br>
 
 
 - ### Array
