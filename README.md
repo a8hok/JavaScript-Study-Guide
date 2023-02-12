@@ -485,6 +485,7 @@ Table of Contents
 - [https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp](https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-54hp)<br/>
 - [https://blog.openreplay.com/javascript-seo-best-practices/](https://blog.openreplay.com/javascript-seo-best-practices/)<br>
 - [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
+- [https://antfu.me/posts/break-lines-in-js](https://antfu.me/posts/break-lines-in-js)<br>
 
 
 ## `Javascript Cheatsheet`
