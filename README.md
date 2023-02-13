@@ -388,6 +388,8 @@ Table of Contents
     - [https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9](https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9)<br>
     - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
     - [https://bhaktee.hashnode.dev/types-of-errors-in-javascript](https://bhaktee.hashnode.dev/types-of-errors-in-javascript)<br>
+    - [https://www.sitepoint.com/javascript-error-handling/?utm_source=newsletter&utm_medium=email&utm_campaign=the_ultimate_guide_to_javascript_error_handling&utm_term=2023-02-07]
+    - (https://www.sitepoint.com/javascript-error-handling/?utm_source=newsletter&utm_medium=email&utm_campaign=the_ultimate_guide_to_javascript_error_handling&utm_term=2023-02-07)<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
