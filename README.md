@@ -488,6 +488,7 @@ Table of Contents
 - [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
 - [https://antfu.me/posts/break-lines-in-js](https://antfu.me/posts/break-lines-in-js)<br>
 - [https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)<br>
+- [https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)<br>
 
 
 ## `Javascript Cheatsheet`
