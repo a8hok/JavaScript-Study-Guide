@@ -638,6 +638,7 @@ Table of Contents
 - [https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12](https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12)<br>
 - [https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47](https://dev.to/didof/penetration-and-security-in-javascript-probing-double-getter-p47)<br>
 - [https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices](https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices)<br>
+- [https://blog.openreplay.com/how-to-use-client-and-server-side-web-workers/](https://blog.openreplay.com/how-to-use-client-and-server-side-web-workers/)<br>
 
 
 ## `Javascript Projects`
