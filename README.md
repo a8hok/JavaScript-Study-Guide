@@ -234,6 +234,7 @@ Table of Contents
     - [https://dev.to/veronikasimic_56/the-ultimate-guide-to-asnyc-javascript-3lg5](https://dev.to/veronikasimic_56/the-ultimate-guide-to-asnyc-javascript-3lg5)<br>
     - [https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript/)<br>
     - [https://betterprogramming.pub/understanding-the-javascript-call-stack-through-illustrations-66156222ff86](https://betterprogramming.pub/understanding-the-javascript-call-stack-through-illustrations-66156222ff86)<br>
+    - [https://www.freecodecamp.org/news/asynchronism-in-javascript/](https://www.freecodecamp.org/news/asynchronism-in-javascript/)<br>
 
 
 - ### Es6+
