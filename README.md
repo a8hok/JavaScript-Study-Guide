@@ -405,6 +405,7 @@ Table of Contents
 - [https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed](https://blog.bitsrc.io/measuring-performance-of-different-javascript-loop-types-c0e9b1d193ed)<br>
 - [https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)<br>
 - [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
+- [https://www.builder.io/blog/monomorphic-javascript](https://www.builder.io/blog/monomorphic-javascript)<br>
 
 
 ## `Javascript Interview Questions`
