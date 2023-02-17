@@ -442,6 +442,7 @@ Table of Contents
 - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
 - [https://javascript.works-hub.com/learn/top-80-javascript-interview-questions-javascript-works-f5b5f?utm_source=social&utm_medium=social&utm_content=romina2709](https://javascript.works-hub.com/learn/top-80-javascript-interview-questions-javascript-works-f5b5f?utm_source=social&utm_medium=social&utm_content=romina2709)<br>
 - [https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b](https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b)<br>
+- [https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
