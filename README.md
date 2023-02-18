@@ -685,6 +685,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/](https://www.freecodecamp.org/news/improve-your-javascript-skills-by-coding-a-card-game/)<br>
 - [https://www.honeybadger.io/blog/javascript-reddit-api/](https://www.honeybadger.io/blog/javascript-reddit-api/)<br>
 - [https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/](https://www.freecodecamp.org/news/create-an-animated-physics-game-with-javascript/)<br>
+- [https://www.paulsblog.dev/how-to-build-a-video-player-in-vanilla-javascript-and-html5/](https://www.paulsblog.dev/how-to-build-a-video-player-in-vanilla-javascript-and-html5/)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
