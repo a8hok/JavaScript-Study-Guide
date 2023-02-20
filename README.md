@@ -705,3 +705,6 @@ Table of Contents
 
 ## JS tools
 - [https://www.robinwieruch.de/vite-eslint/](https://www.robinwieruch.de/vite-eslint/)<br>
+
+## JS api
+- [https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)<br>
