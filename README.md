@@ -237,6 +237,7 @@ Table of Contents
     - [https://betterprogramming.pub/understanding-the-javascript-call-stack-through-illustrations-66156222ff86](https://betterprogramming.pub/understanding-the-javascript-call-stack-through-illustrations-66156222ff86)<br>
     - [https://www.freecodecamp.org/news/asynchronism-in-javascript/](https://www.freecodecamp.org/news/asynchronism-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/asynchronous-javascript/](https://www.freecodecamp.org/news/asynchronous-javascript/)<br>
+    - [https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)<br>
 
 
 - ### Es6+
