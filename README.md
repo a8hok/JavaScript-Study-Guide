@@ -106,6 +106,7 @@ Table of Contents
     - [https://blog.upperdine.dev/patterns-that-every-developer-should-know](https://blog.upperdine.dev/patterns-that-every-developer-should-know)<br>
     - [https://javascriptpatterns.vercel.app/patterns](https://javascriptpatterns.vercel.app/patterns)<br>
     - [https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e](https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e)<br>
+    - [https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io](https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io)<br>
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
