@@ -634,6 +634,7 @@ Table of Contents
 - [https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx](https://www.syncfusion.com/blogs/post/javascript-api-mocking-techniques.aspx)<br>
 - [https://blog.openreplay.com/the-ultimate-guide-to-localstorage-in-javascript/](https://blog.openreplay.com/the-ultimate-guide-to-localstorage-in-javascript/)<br>
 - [https://medium.com/mindful-engineering/what-how-and-why-javascript-engine-b75b45a23a81](https://medium.com/mindful-engineering/what-how-and-why-javascript-engine-b75b45a23a81)<br>
+- [https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)<br>
 
 
 ## `Best Practices`
