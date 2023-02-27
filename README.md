@@ -38,6 +38,8 @@ Table of Contents
    * [Javascript Projects](#javascript-projects)
    * [Youtube channels](#youtube-channels)
    * [Javascipt vs Typescript](#javascipt-vs-typescript)
+   * [JS tools](#js-tools)
+   * [JS api](#js-api)
 
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
