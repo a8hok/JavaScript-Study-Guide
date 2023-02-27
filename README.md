@@ -2,8 +2,6 @@
 
 Table of Contents
 =================
-
-* [Table of Contents](#table-of-contents)
    * [Javascript Concepts](#javascript-concepts)
       * [Variable, Scope, Hoisting](#variable-scope-hoisting)
       * [this](#this)
