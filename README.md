@@ -3,7 +3,6 @@
 Table of Contents
 =================
 
-* [Javascript Interview preparation](#javascript-interview-preparation)
 * [Table of Contents](#table-of-contents)
    * [Javascript Concepts](#javascript-concepts)
       * [Variable, Scope, Hoisting](#variable-scope-hoisting)
