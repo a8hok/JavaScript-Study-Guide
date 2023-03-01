@@ -70,6 +70,7 @@ Table of Contents
     - [https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx](https://www.syncfusion.com/blogs/post/null-vs-undefined-in-javascript.aspx)<br>
     - [https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/](https://www.freecodecamp.org/news/javascript-type-checking-how-to-check-type-in-js-with-typeof/)<br>
     - [https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/)<br>
+    - [https://www.freecodecamp.org/news/javascript-modules/](https://www.freecodecamp.org/news/javascript-modules/)<br>
 
 
 - ### this
