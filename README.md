@@ -72,6 +72,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/](https://www.freecodecamp.org/news/loose-vs-strict-equality-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/javascript-modules/](https://www.freecodecamp.org/news/javascript-modules/)<br>
     - [https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/](https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/)<br>
+    - [https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce](https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce)<br>
 
 
 - ### this
