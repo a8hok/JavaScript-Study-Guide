@@ -404,6 +404,7 @@ Table of Contents
     - (https://www.sitepoint.com/javascript-error-handling/?utm_source=newsletter&utm_medium=email&utm_campaign=the_ultimate_guide_to_javascript_error_handling&utm_term=2023-02-07)<br>
     - [https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5](https://dev.to/iayeshasahar/debugging-javascript-like-a-pro-tools-and-techniques-for-finding-and-fixing-bugs-2lf5)<br>
     - [https://www.syncfusion.com/blogs/post/handling-http-errors-javascript.aspx](https://www.syncfusion.com/blogs/post/handling-http-errors-javascript.aspx)<br>
+    - [https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/](https://www.freecodecamp.org/news/circular-reference-in-javascript-explained/)<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
