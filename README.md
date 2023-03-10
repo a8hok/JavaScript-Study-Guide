@@ -379,6 +379,7 @@ Table of Contents
     - [https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3](https://dev.to/javascriptacademy/create-a-digital-clock-using-javascript-12d3)<br>
     - [https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5](https://enlear.academy/how-to-create-an-analog-clock-with-javascript-css-d03c273abef5)<br>  
     - [https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/](https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/)<br>
+    - [https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
