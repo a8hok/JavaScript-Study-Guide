@@ -457,6 +457,7 @@ Table of Contents
 - [https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b](https://medium.com/vanguards-of-code/lodash-is-dead-long-live-radash-d9d52abf428b)<br>
 - [https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399](https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399)<br>
 - [https://basescripts.com/100-javascript-questions-and-solutions-pdf-guide-quiz-test-your-knowledge-of-javascript](https://basescripts.com/100-javascript-questions-and-solutions-pdf-guide-quiz-test-your-knowledge-of-javascript)<br>
+- [https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a](https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
