@@ -366,6 +366,7 @@ Table of Contents
     - [https://www.smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/](https://www.smashingmagazine.com/2023/02/discovering-primitive-objects-javascript-part1/)<br>
     - [https://www.builder.io/blog/structured-clone](https://www.builder.io/blog/structured-clone)<br>
     - [https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)<br>
+    - [https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
