@@ -512,6 +512,7 @@ Table of Contents
 - [https://antfu.me/posts/break-lines-in-js](https://antfu.me/posts/break-lines-in-js)<br>
 - [https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4](https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4)<br>
 - [https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)<br>
+- [https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)<br>
 
 
 ## `Javascript Cheatsheet`
