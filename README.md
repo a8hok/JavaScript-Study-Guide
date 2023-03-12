@@ -395,6 +395,7 @@ Table of Contents
     - [https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6](https://dev.to/coderpad/the-complete-guide-to-regular-expressions-regex-1m6)<br>
     - [https://www.freecodecamp.org/news/what-does-d-mean-in-regex/](https://www.freecodecamp.org/news/what-does-d-mean-in-regex/)<br>
     - [https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/](https://www.freecodecamp.org/news/javascript-replace-how-to-replace-a-string-or-substring-in-js/)<br>
+    - [https://thenewstack.io/magic-regexp-a-javascript-package-for-regular-expressions/](https://thenewstack.io/magic-regexp-a-javascript-package-for-regular-expressions/)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
