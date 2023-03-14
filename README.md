@@ -111,6 +111,7 @@ Table of Contents
     - [https://javascriptpatterns.vercel.app/patterns](https://javascriptpatterns.vercel.app/patterns)<br>
     - [https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e](https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e)<br>
     - [https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io](https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io)<br>
+    
 
 - ### Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
@@ -612,6 +613,7 @@ Table of Contents
  - [https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/](https://www.freecodecamp.org/news/fall-through-in-javascript-switch-statements/)<br>
  - [https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)<br>
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)<br>
+ - [https://hackernoon.com/32-awesome-javascript-snippets-one-liners-you-should-use-in-2023?source=rss](https://hackernoon.com/32-awesome-javascript-snippets-one-liners-you-should-use-in-2023?source=rss)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
