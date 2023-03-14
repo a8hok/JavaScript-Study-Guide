@@ -74,6 +74,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/](https://www.freecodecamp.org/news/how-to-use-the-ternary-operator-in-javascript/)<br>
     - [https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce](https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce)<br>
     - [https://blog.sahilchandravanshi.com/javascript-data-types-guide](https://blog.sahilchandravanshi.com/javascript-data-types-guide)<br>
+    - [https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/](https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/)<br>
 
 
 - ### this
