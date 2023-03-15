@@ -320,6 +320,7 @@ Table of Contents
     - [https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years?ck_subscriber_id=1519802657#array-functions)<br>
     - [https://www.javascripttutorial.net/javascript-array-sort/](https://www.javascripttutorial.net/javascript-array-sort/)<br>
     - [https://www.honeybadger.io/blog/javascript-sets-and-maps/](https://www.honeybadger.io/blog/javascript-sets-and-maps/)<br>
+    - [https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/](https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/)<br>
 
 
 - ### Event Loop
