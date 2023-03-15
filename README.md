@@ -658,6 +658,7 @@ Table of Contents
 - [https://medium.com/mindful-engineering/what-how-and-why-javascript-engine-b75b45a23a81](https://medium.com/mindful-engineering/what-how-and-why-javascript-engine-b75b45a23a81)<br>
 - [https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)<br>
 - [https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas](https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas)<br>
+- [https://dev.to/this-is-learning/do-you-know-javascript-1g0b](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)<br>
 
 
 ## `Best Practices`
