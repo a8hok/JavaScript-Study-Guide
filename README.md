@@ -372,6 +372,7 @@ Table of Contents
     - [https://www.builder.io/blog/structured-clone](https://www.builder.io/blog/structured-clone)<br>
     - [https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5](https://dev.to/fullstackjo/javascript-tutorial-series-date-object-gb5)<br>
     - [https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc](https://dev.to/dostonnabotov/10-helpful-javascript-utility-functions-35oc)<br>
+    - [https://sayhitosumit.medium.com/object-oriented-programming-oop-in-javascript-a264c4342d1c](https://sayhitosumit.medium.com/object-oriented-programming-oop-in-javascript-a264c4342d1c)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
