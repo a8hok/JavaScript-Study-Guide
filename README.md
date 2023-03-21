@@ -90,6 +90,7 @@ Table of Contents
     - [https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript](https://blog.tusharcodes.tech/5-rules-to-master-this-in-javascript)<br>
     - [https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a](https://medium.com/@rifat.kazak/what-is-this-keyword-in-javascript-967d0633930a)<br/>
     - [https://www.freecodecamp.org/news/the-this-keyword-in-javascript/](https://www.freecodecamp.org/news/the-this-keyword-in-javascript/)<br>
+    - [https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
