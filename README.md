@@ -75,6 +75,7 @@ Table of Contents
     - [https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce](https://towardsdev.com/call-bind-and-apply-in-javascript-6ce72418c8ce)<br>
     - [https://blog.sahilchandravanshi.com/javascript-data-types-guide](https://blog.sahilchandravanshi.com/javascript-data-types-guide)<br>
     - [https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/](https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/)<br>
+    - [https://blog.openreplay.com/15-devtool-secrets-for-javascript-developers/](https://blog.openreplay.com/15-devtool-secrets-for-javascript-developers/)<br>
 
 
 - ### this
