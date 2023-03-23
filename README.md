@@ -249,6 +249,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/asynchronous-javascript/](https://www.freecodecamp.org/news/asynchronous-javascript/)<br>
     - [https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj](https://dev.to/codeofrelevancy/all-about-promises-in-javascript-39lj)<br>
     - [https://www.builder.io/blog/avoiding-async-await-footguns](https://www.builder.io/blog/avoiding-async-await-footguns)<br>
+    - [https://nerdleveltech.com/understand-the-asynchronous-javascript-callbacks-promises-and-async-await/](https://nerdleveltech.com/understand-the-asynchronous-javascript-callbacks-promises-and-async-await/)<br>
 
 
 - ### Es6+
