@@ -76,6 +76,7 @@ Table of Contents
     - [https://blog.sahilchandravanshi.com/javascript-data-types-guide](https://blog.sahilchandravanshi.com/javascript-data-types-guide)<br>
     - [https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/](https://blog.openreplay.com/mastering-javascript-optional-chaining-and-nullish-coalescing/)<br>
     - [https://blog.openreplay.com/15-devtool-secrets-for-javascript-developers/](https://blog.openreplay.com/15-devtool-secrets-for-javascript-developers/)<br>
+    - [https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/](https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/)<br>
 
 
 - ### this
