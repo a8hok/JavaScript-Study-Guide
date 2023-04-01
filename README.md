@@ -115,6 +115,7 @@ Table of Contents
     - [https://javascriptpatterns.vercel.app/patterns](https://javascriptpatterns.vercel.app/patterns)<br>
     - [https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e](https://itnext.io/implement-prototype-pattern-in-javascript-9cf57092912e)<br>
     - [https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io](https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io)<br>
+    - [https://www.paulsblog.dev/patterns-and-best-practices-in-javascript-dealing-with-callback-functions/](https://www.paulsblog.dev/patterns-and-best-practices-in-javascript-dealing-with-callback-functions/)<br>
     
 
 - ### Prototype
