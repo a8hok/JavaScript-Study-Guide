@@ -164,6 +164,7 @@ Table of Contents
     - [https://hackernoon.com/understanding-first-class-and-higher-order-functions?source=rss](https://hackernoon.com/understanding-first-class-and-higher-order-functions?source=rss)<br>
     - [https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954](https://itnext.io/javascript-memory-management-how-to-avoid-common-memory-leaks-and-improve-performance-c018dbbca954)<br>
     - [https://sayhitosumit.medium.com/essential-concepts-in-functional-programming-with-javascript-3317f6ba9582](https://sayhitosumit.medium.com/essential-concepts-in-functional-programming-with-javascript-3317f6ba9582)<br>
+    - [https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
