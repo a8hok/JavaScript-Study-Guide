@@ -532,6 +532,7 @@ Table of Contents
 - [https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5](https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5)<br>
 - [https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)<br>
 - [https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172](https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172)<br>
+- [https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/](https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/)<br>
 
 
 ## `Javascript Cheatsheet`
