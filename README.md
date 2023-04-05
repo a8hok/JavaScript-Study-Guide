@@ -671,6 +671,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)<br>
 - [https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas](https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas)<br>
 - [https://dev.to/this-is-learning/do-you-know-javascript-1g0b](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)<br>
+- [https://www.30secondsofcode.org/articles/s/js-proxy-introduction/](https://www.30secondsofcode.org/articles/s/js-proxy-introduction/)<br>
 
 
 ## `Best Practices`
