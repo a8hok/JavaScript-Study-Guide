@@ -688,6 +688,7 @@ Table of Contents
 - [https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices](https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices)<br>
 - [https://blog.openreplay.com/how-to-use-client-and-server-side-web-workers/](https://blog.openreplay.com/how-to-use-client-and-server-side-web-workers/)<br>
 - [https://blog.javascripttoday.com/blog/sorting-algorithms-with-javascript/](https://blog.javascripttoday.com/blog/sorting-algorithms-with-javascript/)<br>
+- [https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005](https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005)<br>
 
 
 ## `Javascript Projects`
