@@ -733,6 +733,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/](https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/)<br>
 - [https://hackernoon.com/how-to-upload-files-with-javascript?source=rss](https://hackernoon.com/how-to-upload-files-with-javascript?source=rss)<br>
 - [https://devhoangkien.com/memoization-code-performance-8ee64e1978b3](https://devhoangkien.com/memoization-code-performance-8ee64e1978b3)<br>
+- [https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/](https://www.freecodecamp.org/news/web-scraping-in-javascript-with-puppeteer/)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
