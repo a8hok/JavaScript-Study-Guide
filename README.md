@@ -294,6 +294,7 @@ Table of Contents
     - [https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn](https://dev.to/naubit/5-advanced-es6-features-every-javascript-developer-should-master-3mkn)<br>
     - [https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe](https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe)<br>
     - [https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9](https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9)<br>
+    - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
 
 
 - ### Array
