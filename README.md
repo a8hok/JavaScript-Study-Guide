@@ -330,6 +330,7 @@ Table of Contents
     - [https://www.javascripttutorial.net/javascript-array-sort/](https://www.javascripttutorial.net/javascript-array-sort/)<br>
     - [https://www.honeybadger.io/blog/javascript-sets-and-maps/](https://www.honeybadger.io/blog/javascript-sets-and-maps/)<br>
     - [https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/](https://www.freecodecamp.org/news/how-to-sort-javascript-array-accurately/)<br>
+    - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
 
 
 - ### Event Loop
