@@ -442,6 +442,7 @@ Table of Contents
 - [https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061](https://blog.bitsrc.io/9-best-practices-for-optimizing-frontend-loading-time-763211621061)<br>
 - [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
 - [https://www.builder.io/blog/monomorphic-javascript](https://www.builder.io/blog/monomorphic-javascript)<br>
+- [https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/](https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/)<br>
 
 
 ## `Javascript Interview Questions`
