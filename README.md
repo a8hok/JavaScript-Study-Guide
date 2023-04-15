@@ -389,6 +389,7 @@ Table of Contents
     - [https://sayhitosumit.medium.com/object-oriented-programming-oop-in-javascript-a264c4342d1c](https://sayhitosumit.medium.com/object-oriented-programming-oop-in-javascript-a264c4342d1c)<br>
     - [https://blog.openreplay.com/a-beginners-guide-to-oop-in-javascript/](https://blog.openreplay.com/a-beginners-guide-to-oop-in-javascript/)<br>
     - [https://dev.to/amplication/javascript-objects-157e](https://dev.to/amplication/javascript-objects-157e)<br>
+    - [https://www.honeybadger.io/blog/javascript-destructuring/](https://www.honeybadger.io/blog/javascript-destructuring/)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
