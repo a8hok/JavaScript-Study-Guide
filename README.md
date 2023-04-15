@@ -539,6 +539,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)<br>
 - [https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172](https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172)<br>
 - [https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/](https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/)<br>
+- [https://blog.greenroots.info/advanced-javascript-console-logging-for-developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)<br>
 
 
 ## `Javascript Cheatsheet`
