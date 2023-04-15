@@ -117,6 +117,7 @@ Table of Contents
     - [https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io](https://dev.to/jukilo_lokiju/the-bridge-design-pattern-in-javascript-59io)<br>
     - [https://www.paulsblog.dev/patterns-and-best-practices-in-javascript-dealing-with-callback-functions/](https://www.paulsblog.dev/patterns-and-best-practices-in-javascript-dealing-with-callback-functions/)<br>
     - [https://www.syncfusion.com/blogs/post/solid-principles-in-javascript.aspx](https://www.syncfusion.com/blogs/post/solid-principles-in-javascript.aspx)<br>
+    - [https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)<br>
     
 
 - ### Prototype
