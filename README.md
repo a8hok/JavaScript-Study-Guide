@@ -446,6 +446,7 @@ Table of Contents
 - [https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss](https://hackernoon.com/optimizing-performance-with-throttling-in-javascript?source=rss)<br>
 - [https://www.builder.io/blog/monomorphic-javascript](https://www.builder.io/blog/monomorphic-javascript)<br>
 - [https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/](https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/)<br>
+- [https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)<br>
 
 
 ## `Javascript Interview Questions`
