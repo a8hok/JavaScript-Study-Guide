@@ -546,6 +546,7 @@ Table of Contents
 - [https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172](https://towardsdev.com/using-chatgpt-to-optimize-your-code-93ffd1edc172)<br>
 - [https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/](https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/)<br>
 - [https://blog.greenroots.info/advanced-javascript-console-logging-for-developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)<br>
+- [https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9](https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9)<br>
 
 
 ## `Javascript Cheatsheet`
