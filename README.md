@@ -298,6 +298,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe](https://javascript.plainenglish.io/7-es6-javascript-tricks-to-make-you-a-better-programmer-372cf45328fe)<br>
     - [https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9](https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9)<br>
     - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
+    - [https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/](https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/)<br>
 
 
 - ### Array
