@@ -490,6 +490,7 @@ Table of Contents
 - [https://basescripts.com/100-javascript-questions-and-solutions-pdf-guide-quiz-test-your-knowledge-of-javascript](https://basescripts.com/100-javascript-questions-and-solutions-pdf-guide-quiz-test-your-knowledge-of-javascript)<br>
 - [https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a](https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a)<br>
 - [https://intspirit.medium.com/the-most-failed-javascript-interview-questions-849664e5bee](https://intspirit.medium.com/the-most-failed-javascript-interview-questions-849664e5bee)<br>
+- [https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/](https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
