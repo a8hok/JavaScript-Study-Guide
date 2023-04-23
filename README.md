@@ -451,6 +451,7 @@ Table of Contents
 - [https://www.builder.io/blog/monomorphic-javascript](https://www.builder.io/blog/monomorphic-javascript)<br>
 - [https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/](https://blog.javascripttoday.com/blog/deep-dive-proxies-in-javascript/)<br>
 - [https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)<br>
+- [https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f](https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f)<br>
 
 
 ## `Javascript Interview Questions`
