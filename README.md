@@ -301,6 +301,7 @@ Table of Contents
     - [https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9](https://towardsdatascience.com/a-step-by-step-guide-to-develop-a-map-based-application-part-ii-6d3fa7dbd8b9)<br>
     - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
     - [https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/](https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/)<br>
+    - [https://www.showwcase.com/show/34770/ecmascript-2023-es14-four-new-features](https://www.showwcase.com/show/34770/ecmascript-2023-es14-four-new-features)<br>
 
 
 - ### Array
