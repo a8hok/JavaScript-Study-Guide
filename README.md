@@ -172,6 +172,7 @@ Table of Contents
     - [https://sayhitosumit.medium.com/essential-concepts-in-functional-programming-with-javascript-3317f6ba9582](https://sayhitosumit.medium.com/essential-concepts-in-functional-programming-with-javascript-3317f6ba9582)<br>
     - [https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)<br>
     - [https://code.tutsplus.com/tutorials/learn-functional-programming-in-javascript--cms-106709](https://code.tutsplus.com/tutorials/learn-functional-programming-in-javascript--cms-106709)<br>
+    - [https://www.freecodecamp.org/news/function-declaration-vs-function-expression/](https://www.freecodecamp.org/news/function-declaration-vs-function-expression/)<br>
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
