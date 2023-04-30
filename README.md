@@ -79,6 +79,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/](https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/)<br>
     - [https://dev.to/this-is-learning/10-more-javascript-challenges-3812](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)<br>
     - [https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)<br>
+    - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/)<br>
 
 
 - ### this
