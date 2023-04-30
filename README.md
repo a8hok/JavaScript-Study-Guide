@@ -696,6 +696,7 @@ Table of Contents
 - [https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas](https://www.30secondsofcode.org/articles/s/the-case-for-javascript-trailing-commas)<br>
 - [https://dev.to/this-is-learning/do-you-know-javascript-1g0b](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)<br>
 - [https://www.30secondsofcode.org/articles/s/js-proxy-introduction/](https://www.30secondsofcode.org/articles/s/js-proxy-introduction/)<br>
+- [https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss](https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss)<br>
 
 
 ## `Best Practices`
