@@ -80,6 +80,7 @@ Table of Contents
     - [https://dev.to/this-is-learning/10-more-javascript-challenges-3812](https://dev.to/this-is-learning/10-more-javascript-challenges-3812)<br>
     - [https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia](https://dev.to/documatic/5-code-refactoring-techniques-to-improve-your-code-2lia)<br>
     - [https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/](https://www.freecodecamp.org/news/what-is-hoisting-in-javascript-3/)<br>
+    - [https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9](https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9)<br>
 
 
 - ### this
