@@ -196,6 +196,7 @@ Table of Contents
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
     - [https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)<br>
     - [https://blog.openreplay.com/deep-dive-into-javascript-s-iterators-iterables-and-generators](https://blog.openreplay.com/deep-dive-into-javascript-s-iterators-iterables-and-generators)<br>
+    - [https://designtechworld.medium.com/generators-in-javascript-explained-6855a307e371](https://designtechworld.medium.com/generators-in-javascript-explained-6855a307e371)<br>
 
 
 - ### Currying
