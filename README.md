@@ -265,6 +265,7 @@ Table of Contents
     - [https://nerdleveltech.com/understand-the-asynchronous-javascript-callbacks-promises-and-async-await/](https://nerdleveltech.com/understand-the-asynchronous-javascript-callbacks-promises-and-async-await/)<br>
     - [https://code.tutsplus.com/tutorials/understanding-promise-in-javascript--cms-106732](https://code.tutsplus.com/tutorials/understanding-promise-in-javascript--cms-106732)<br>
     - [https://dev.to/kalyan-jyoti/all-about-javascript-promises-154e](https://dev.to/kalyan-jyoti/all-about-javascript-promises-154e)<br>
+    - [https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670](https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670)<br>
 
 
 - ### Es6+
