@@ -311,6 +311,7 @@ Table of Contents
     - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
     - [https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/](https://nerdleveltech.com/ecmascript-es6-a-comprehensive-guide-to-modern-javascript/)<br>
     - [https://www.showwcase.com/show/34770/ecmascript-2023-es14-four-new-features](https://www.showwcase.com/show/34770/ecmascript-2023-es14-four-new-features)<br>
+    - [https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/](https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/)<br>
 
 
 - ### Array
