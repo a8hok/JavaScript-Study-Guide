@@ -441,6 +441,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/](https://www.freecodecamp.org/news/what-is-punct-in-regex-how-to-match-all-punctuation-marks-in-regular-expressions/)<br>
     - [https://www.paulsblog.dev/manipulate-strings-with-regular-expression-in-javascript/](https://www.paulsblog.dev/manipulate-strings-with-regular-expression-in-javascript/)<br>
     - [https://www.honeybadger.io/blog/javascript-regular-expressions/](https://www.honeybadger.io/blog/javascript-regular-expressions/)<br>
+    - [https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/](https://www.freecodecamp.org/news/how-to-write-a-regular-expression-for-a-url/)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
