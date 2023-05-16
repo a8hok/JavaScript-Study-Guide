@@ -710,6 +710,7 @@ Table of Contents
 - [https://dev.to/this-is-learning/do-you-know-javascript-1g0b](https://dev.to/this-is-learning/do-you-know-javascript-1g0b)<br>
 - [https://www.30secondsofcode.org/articles/s/js-proxy-introduction/](https://www.30secondsofcode.org/articles/s/js-proxy-introduction/)<br>
 - [https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss](https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss)<br>
+- [https://javascript.plainenglish.io/must-know-javascript-api-clipboard-api-22ac0861e27b](https://javascript.plainenglish.io/must-know-javascript-api-clipboard-api-22ac0861e27b)<br>
 
 
 ## `Best Practices`
