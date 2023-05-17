@@ -472,6 +472,7 @@ Table of Contents
 - [https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07](https://blog.bitsrc.io/javascript-optimization-techniques-for-faster-website-load-times-an-in-depth-guide-cd2985194a07)<br>
 - [https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f](https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f)<br>
 - [https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)<br>
+- []()<br>
 
 
 ## `Javascript Interview Questions`
@@ -571,6 +572,7 @@ Table of Contents
 - [https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/](https://www.paulsblog.dev/advanced-javascript-concepts-to-write-high-quality-code-that-scales/)<br>
 - [https://blog.greenroots.info/advanced-javascript-console-logging-for-developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)<br>
 - [https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9](https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9)<br>
+- [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)<br>
 
 
 ## `Javascript Cheatsheet`
