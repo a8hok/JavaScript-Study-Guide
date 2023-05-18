@@ -272,6 +272,7 @@ Table of Contents
     - [https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670](https://coinsbench.com/promises-and-callbacks-in-javascript-d299d5aee670)<br>
     - [https://blog.ossph.org/understading-javascript-promises-and-async-await/](https://blog.ossph.org/understading-javascript-promises-and-async-await/)<br>
     - [https://compile7.org/decompile/callback-vs-promises-vs-async-await/](https://compile7.org/decompile/callback-vs-promises-vs-async-await/)<br>
+    - [https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/](https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/)<br>
 
 
 - ### Es6+
