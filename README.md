@@ -84,6 +84,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/what-is-the-nullish-coalescing-operator-in-javascript-and-how-is-it-useful/](https://www.freecodecamp.org/news/what-is-the-nullish-coalescing-operator-in-javascript-and-how-is-it-useful/)<br>
     - [https://medium.com/@shahamisha012/javascript-operator-part-1-b0b81d887072](https://medium.com/@shahamisha012/javascript-operator-part-1-b0b81d887072)<br>
     - [https://blog.openreplay.com/step-by-step--url-validation-in-javascript/](https://blog.openreplay.com/step-by-step--url-validation-in-javascript/)<br>
+    - [https://javascript.plainenglish.io/must-know-javascript-api-fetch-api-11846c9a3b07](https://javascript.plainenglish.io/must-know-javascript-api-fetch-api-11846c9a3b07)<br>
 
 
 - ### this
