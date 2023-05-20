@@ -180,6 +180,8 @@ Table of Contents
     - [https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57](https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57)<br>
     - [https://code.tutsplus.com/tutorials/learn-functional-programming-in-javascript--cms-106709](https://code.tutsplus.com/tutorials/learn-functional-programming-in-javascript--cms-106709)<br>
     - [https://www.freecodecamp.org/news/function-declaration-vs-function-expression/](https://www.freecodecamp.org/news/function-declaration-vs-function-expression/)<br>
+    - [https://blog.ossph.org/exploring-functional-programming-in-javascript/](https://blog.ossph.org/exploring-functional-programming-in-javascript/)<br>
+   
 
 - ### Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
