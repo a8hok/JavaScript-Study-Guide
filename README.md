@@ -361,6 +361,7 @@ Table of Contents
     - [https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785](https://code.tutsplus.com/articles/how-to-use-callback-functions-in-javascript-es6--cms-106785)<br>
     - [https://blog.javascripttoday.com/blog/effective-javascript-10-javascript-concepts-you-should-know/](https://blog.javascripttoday.com/blog/effective-javascript-10-javascript-concepts-you-should-know/)<br>
     - [https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/](https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/)<br>
+    - [https://designtechworld.medium.com/the-difference-between-indexof-and-findindex-in-javascript-a2035639dce5](https://designtechworld.medium.com/the-difference-between-indexof-and-findindex-in-javascript-a2035639dce5)<br>
 
 
 - ### Event Loop
