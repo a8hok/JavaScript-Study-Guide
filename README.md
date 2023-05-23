@@ -814,3 +814,4 @@ Table of Contents
 
 ## JS api
 - [https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)<br>
+- [https://javascript.plainenglish.io/must-know-javascript-api-performance-api-85f7b8306b90](https://javascript.plainenglish.io/must-know-javascript-api-performance-api-85f7b8306b90)<br>
