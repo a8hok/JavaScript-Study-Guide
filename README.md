@@ -182,6 +182,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/function-declaration-vs-function-expression/](https://www.freecodecamp.org/news/function-declaration-vs-function-expression/)<br>
     - [https://blog.ossph.org/exploring-functional-programming-in-javascript/](https://blog.ossph.org/exploring-functional-programming-in-javascript/)<br>
     - [https://www.c-sharpcorner.com/article/what-is-pure-and-impure-function-in-javascript/](https://www.c-sharpcorner.com/article/what-is-pure-and-impure-function-in-javascript/)<br>
+    - [https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/](https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/)<br>
    
 
 - ### Closure
