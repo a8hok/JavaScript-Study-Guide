@@ -324,6 +324,7 @@ Table of Contents
     - [https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/](https://thenewstack.io/the-new-javascript-features-coming-in-ecmascript-2023/)<br>
     - [https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)<br>
     - [https://github.com/sudheerj/ECMAScript-features](https://github.com/sudheerj/ECMAScript-features)<br>
+    - [https://dev.to/jasmin/what-is-new-in-es2023-4bcm](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)<br>
 
 
 - ### Array
