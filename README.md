@@ -366,6 +366,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/](https://www.freecodecamp.org/news/insert-into-javascript-array-at-specific-index/)<br>
     - [https://designtechworld.medium.com/the-difference-between-indexof-and-findindex-in-javascript-a2035639dce5](https://designtechworld.medium.com/the-difference-between-indexof-and-findindex-in-javascript-a2035639dce5)<br>
     - [https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/](https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/)<br>
+    - [https://www.telerik.com/blogs/different-approach-understanding-array-reduce](https://www.telerik.com/blogs/different-approach-understanding-array-reduce)<br>
 
 
 - ### Event Loop
