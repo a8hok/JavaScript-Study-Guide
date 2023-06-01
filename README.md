@@ -798,6 +798,7 @@ Table of Contents
 - [https://github.com/anshul7sh/JavaScript30](https://github.com/anshul7sh/JavaScript30)<br>
 - [https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/](https://www.freecodecamp.org/news/build-a-beginner-friendly-javascript-application/)<br>
 - [https://www.sitepoint.com/javascript-chatgpt-plugin/?utm_source=rss](https://www.sitepoint.com/javascript-chatgpt-plugin/?utm_source=rss)<br>
+- [https://morioh.com/p/81c8b8971bc9?f=5c21fb01c16e2556b555ab32](https://morioh.com/p/81c8b8971bc9?f=5c21fb01c16e2556b555ab32)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
