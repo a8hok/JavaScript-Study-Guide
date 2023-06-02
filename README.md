@@ -85,6 +85,7 @@ Table of Contents
     - [https://medium.com/@shahamisha012/javascript-operator-part-1-b0b81d887072](https://medium.com/@shahamisha012/javascript-operator-part-1-b0b81d887072)<br>
     - [https://blog.openreplay.com/step-by-step--url-validation-in-javascript/](https://blog.openreplay.com/step-by-step--url-validation-in-javascript/)<br>
     - [https://javascript.plainenglish.io/must-know-javascript-api-fetch-api-11846c9a3b07](https://javascript.plainenglish.io/must-know-javascript-api-fetch-api-11846c9a3b07)<br>
+    - [https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d](https://coinsbench.com/javascript-ideas-every-web-developer-should-understand-34e633a35d7d)<br>
 
 
 - ### this
