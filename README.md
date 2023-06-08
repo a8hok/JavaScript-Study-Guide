@@ -425,6 +425,7 @@ Table of Contents
     - [https://dev.to/amplication/javascript-objects-157e](https://dev.to/amplication/javascript-objects-157e)<br>
     - [https://www.honeybadger.io/blog/javascript-destructuring/](https://www.honeybadger.io/blog/javascript-destructuring/)<br>
     - [https://dev.to/samr/javascript-object-10-2c9g](https://dev.to/samr/javascript-object-10-2c9g)<br>
+    - [https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss](https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
