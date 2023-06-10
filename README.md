@@ -371,6 +371,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/](https://www.freecodecamp.org/news/how-to-clone-an-array-in-javascript-1d3183468f6a/)<br>
     - [https://www.telerik.com/blogs/different-approach-understanding-array-reduce](https://www.telerik.com/blogs/different-approach-understanding-array-reduce)<br>
     - [https://www.c-sharpcorner.com/article/javascript-array-methods-cheat-sheet/](https://www.c-sharpcorner.com/article/javascript-array-methods-cheat-sheet/)<br>
+    - [https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/](https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/)<br>
     - [https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/](https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/)<br>
 
 
