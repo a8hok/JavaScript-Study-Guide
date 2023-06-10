@@ -373,6 +373,7 @@ Table of Contents
     - [https://www.c-sharpcorner.com/article/javascript-array-methods-cheat-sheet/](https://www.c-sharpcorner.com/article/javascript-array-methods-cheat-sheet/)<br>
     - [https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/](https://christianheilmann.com/2023/06/06/new-array-methods-in-javascript-bring-immutability/)<br>
     - [https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/](https://www.freecodecamp.org/news/how-to-shuffle-an-array-of-items-using-javascript-or-typescript/)<br>
+    - [https://claritydev.net/blog/removing-duplicates-with-map-in-javascript](https://claritydev.net/blog/removing-duplicates-with-map-in-javascript)<br>
 
 
 - ### Event Loop
