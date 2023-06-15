@@ -600,6 +600,7 @@ Table of Contents
 - [https://blog.greenroots.info/advanced-javascript-console-logging-for-developers](https://blog.greenroots.info/advanced-javascript-console-logging-for-developers)<br>
 - [https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9](https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9)<br>
 - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)<br>
+- [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
 
 
 ## `Javascript Cheatsheet`
