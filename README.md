@@ -393,6 +393,7 @@ Table of Contents
     - [https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi](https://dev.to/rammcodes/i-created-an-animation-in-5-hours-to-understand-the-event-loop-in-javascript-1idi)<br>
     - [https://mathiasbynens.be/notes/shapes-ics](https://mathiasbynens.be/notes/shapes-ics)<br>
     - [https://awstip.com/an-event-driven-architecture-e7d186ab33d4](https://awstip.com/an-event-driven-architecture-e7d186ab33d4)<br>
+    - [https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243](https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
