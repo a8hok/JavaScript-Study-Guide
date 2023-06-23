@@ -811,6 +811,7 @@ Table of Contents
 - [https://www.sitepoint.com/javascript-chatgpt-plugin/?utm_source=rss](https://www.sitepoint.com/javascript-chatgpt-plugin/?utm_source=rss)<br>
 - [https://morioh.com/p/81c8b8971bc9?f=5c21fb01c16e2556b555ab32](https://morioh.com/p/81c8b8971bc9?f=5c21fb01c16e2556b555ab32)<br>
 - [https://hashnode.knulst.de/how-to-build-a-video-player-in-vanilla-javascript-and-html5](https://hashnode.knulst.de/how-to-build-a-video-player-in-vanilla-javascript-and-html5)<br>
+- [https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f](https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
