@@ -502,6 +502,7 @@ Table of Contents
 - [https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f](https://itnext.io/mastering-reactjs-optimization-d75b0af09a2f)<br>
 - [https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)<br>
 - [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
+- [https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)<br>
 
 
 ## `Javascript Interview Questions`
