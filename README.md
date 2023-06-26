@@ -447,6 +447,7 @@ Table of Contents
     - [https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/](https://www.developer.com/languages/javascript/javascript-string-methods-trimming-padding-extracting/)<br>
     - [https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/](https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/)<br>
     - [https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates](https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates)<br>
+    - [https://blog.openreplay.com/what-is-better--datefns-or-moment/](https://blog.openreplay.com/what-is-better--datefns-or-moment/)<br>
 
 - ### Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
