@@ -438,6 +438,7 @@ Table of Contents
     - [https://dmitripavlutin.com/javascript-string-trim/](https://dmitripavlutin.com/javascript-string-trim/)<br>
     - [https://www.freecodecamp.org/news/efficient-string-building-in-javascript/](https://www.freecodecamp.org/news/efficient-string-building-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/javascript-string-to-boolean/](https://www.freecodecamp.org/news/javascript-string-to-boolean/)<br>
+
 - ### Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
@@ -604,6 +605,7 @@ Table of Contents
 - [https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9](https://blog.bitsrc.io/7-modern-and-powerful-javascript-features-you-didnt-know-about-bcbde94506a9)<br>
 - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)<br>
 - [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
+- [https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
 
 
 ## `Javascript Cheatsheet`
