@@ -105,6 +105,7 @@ Table of Contents
     - [https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1](https://dev.to/this-is-learning/mastering-javascripts-this-keyword-using-bind-17m1)<br>
     - [https://medium.com/@rahul.jindal./this-keyword-in-javascript-8c07488685a8](https://medium.com/@rahul.jindal./this-keyword-in-javascript-8c07488685a8)<br>
     - [https://designtechworld.medium.com/what-is-this-in-javascript-1579b1eda845](https://designtechworld.medium.com/what-is-this-in-javascript-1579b1eda845)<br>
+    - [https://ui.dev/this-keyword-call-apply-bind-javascript](https://ui.dev/this-keyword-call-apply-bind-javascript)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
