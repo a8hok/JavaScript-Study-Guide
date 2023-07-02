@@ -283,6 +283,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/](https://www.freecodecamp.org/news/javascript-asynchronous-operations-in-the-browser/)<br>
     - [https://caglayanyanikoglu.medium.com/a-journey-to-the-center-of-javascript-episode-5-async-js-event-loop-92b7023143f1](https://caglayanyanikoglu.medium.com/a-journey-to-the-center-of-javascript-episode-5-async-js-event-loop-92b7023143f1)<br>
     - [https://dev.to/sanketcode67/asynchronous-javascript-297d](https://dev.to/sanketcode67/asynchronous-javascript-297d)<br>
+    - [https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/](https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/)<br>
 
 
 - ### Es6+
