@@ -398,6 +398,7 @@ Table of Contents
     - [https://awstip.com/an-event-driven-architecture-e7d186ab33d4](https://awstip.com/an-event-driven-architecture-e7d186ab33d4)<br>
     - [https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243](https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243)<br>
     - [https://code.tutsplus.com/phases-of-javascript-events--cms-107255t](https://code.tutsplus.com/phases-of-javascript-events--cms-107255t)<br>
+    - [https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss](https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss)<br>
 
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
