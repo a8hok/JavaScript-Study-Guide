@@ -437,6 +437,7 @@ Table of Contents
     - [https://www.honeybadger.io/blog/javascript-destructuring/](https://www.honeybadger.io/blog/javascript-destructuring/)<br>
     - [https://dev.to/samr/javascript-object-10-2c9g](https://dev.to/samr/javascript-object-10-2c9g)<br>
     - [https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss](https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss)<br>
+    - [https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb](https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
