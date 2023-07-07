@@ -714,6 +714,7 @@ Table of Contents
 - [https://jsbooks.revolunet.com/](https://jsbooks.revolunet.com/)<br>
 - [https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id?signin=true)<br>
 - [https://www.sitepoint.com/best-javascript-books-for-beginners/?utm_source=rss](https://www.sitepoint.com/best-javascript-books-for-beginners/?utm_source=rss)<br>
+- [https://www.freecodecamp.org/news/learn-javascript-for-beginners/](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)<br>
 
 ## `General`
 - [https://blog.ganeshjaiwal.dev/how-does-javascript-work](https://blog.ganeshjaiwal.dev/how-does-javascript-work)<br>
