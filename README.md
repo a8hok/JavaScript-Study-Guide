@@ -400,6 +400,7 @@ Table of Contents
     - [https://code.tutsplus.com/phases-of-javascript-events--cms-107255t](https://code.tutsplus.com/phases-of-javascript-events--cms-107255t)<br>
     - [https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss](https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss)<br>
 
+
 - ### Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
     - [https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0)<br>
@@ -438,6 +439,7 @@ Table of Contents
     - [https://dev.to/samr/javascript-object-10-2c9g](https://dev.to/samr/javascript-object-10-2c9g)<br>
     - [https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss](https://www.sitepoint.com/shallow-vs-deep-copying-in-javascript/?utm_source=rss)<br>
     - [https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb](https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb)<br>
+    - [https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/](https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
