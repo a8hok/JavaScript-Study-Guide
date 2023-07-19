@@ -553,6 +553,7 @@ Table of Contents
 - [https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a](https://medium.com/@fullstacktips/20-javascript-interview-questions-with-code-answers-dd9fb28f3f5a)<br>
 - [https://intspirit.medium.com/the-most-failed-javascript-interview-questions-849664e5bee](https://intspirit.medium.com/the-most-failed-javascript-interview-questions-849664e5bee)<br>
 - [https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/](https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/)<br>
+- [https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
