@@ -480,6 +480,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/](https://www.freecodecamp.org/news/how-to-use-regular-expressions-in-yaml-file/)<br>
     - [https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/](https://www.freecodecamp.org/news/regex-for-date-formats-what-is-the-regular-expression-for-matching-dates/)<br>
     - [https://blog.ossph.org/wth-is-regular-expressions-and-how-to-use-it-in-javascript/](https://blog.ossph.org/wth-is-regular-expressions-and-how-to-use-it-in-javascript/)<br>
+    - [https://www.developer.com/languages/javascript/javascript-regexp-basics/](https://www.developer.com/languages/javascript/javascript-regexp-basics/)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
