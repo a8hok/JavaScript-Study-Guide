@@ -758,6 +758,7 @@ Table of Contents
 - [https://www.30secondsofcode.org/articles/s/js-proxy-introduction/](https://www.30secondsofcode.org/articles/s/js-proxy-introduction/)<br>
 - [https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss](https://hackernoon.com/a-guide-on-using-the-cookie-store-api?source=rss)<br>
 - [https://javascript.plainenglish.io/must-know-javascript-api-clipboard-api-22ac0861e27b](https://javascript.plainenglish.io/must-know-javascript-api-clipboard-api-22ac0861e27b)<br>
+- [https://www.kirupa.com/html5/stacks_in_javascript.htm](https://www.kirupa.com/html5/stacks_in_javascript.htm)<br>
 
 
 ## `Best Practices`
