@@ -331,6 +331,7 @@ Table of Contents
     - [https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd](https://web3usecase.co/es6-imports-vs-commonjs-imports-8e9b66aa04bd)<br>
     - [https://github.com/sudheerj/ECMAScript-features](https://github.com/sudheerj/ECMAScript-features)<br>
     - [https://dev.to/jasmin/what-is-new-in-es2023-4bcm](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)<br>
+    - [https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/](https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/)<br>
 
 
 - ### Array
