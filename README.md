@@ -285,6 +285,7 @@ Table of Contents
     - [https://dev.to/sanketcode67/asynchronous-javascript-297d](https://dev.to/sanketcode67/asynchronous-javascript-297d)<br>
     - [https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/](https://www.freecodecamp.org/news/how-to-use-promise-allsettled-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/guide-to-javascript-promises/](https://www.freecodecamp.org/news/guide-to-javascript-promises/)<br>
+    - [https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)<br>
 
 
 - ### Es6+
