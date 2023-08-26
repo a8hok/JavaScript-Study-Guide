@@ -623,6 +623,7 @@ Table of Contents
 - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)<br>
 - [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
 - [https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
+- [https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)<br>
 
 
 ## `Javascript Cheatsheet`
