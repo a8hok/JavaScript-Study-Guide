@@ -789,6 +789,7 @@ Table of Contents
 - [https://blog.javascripttoday.com/blog/sorting-algorithms-with-javascript/](https://blog.javascripttoday.com/blog/sorting-algorithms-with-javascript/)<br>
 - [https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005](https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005)<br>
 - [https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/](https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/)<br>
+- [https://jscodechallenges.vercel.app/challenges/primitives](https://jscodechallenges.vercel.app/challenges/primitives)<br>
 
 
 ## `Javascript Projects`
