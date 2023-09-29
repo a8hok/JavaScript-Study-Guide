@@ -108,6 +108,7 @@ Table of Contents
     - [https://medium.com/@rahul.jindal./this-keyword-in-javascript-8c07488685a8](https://medium.com/@rahul.jindal./this-keyword-in-javascript-8c07488685a8)<br>
     - [https://designtechworld.medium.com/what-is-this-in-javascript-1579b1eda845](https://designtechworld.medium.com/what-is-this-in-javascript-1579b1eda845)<br>
     - [https://ui.dev/this-keyword-call-apply-bind-javascript](https://ui.dev/this-keyword-call-apply-bind-javascript)<br>
+    - [https://javascript.plainenglish.io/how-to-create-a-polyfill-for-call-apply-and-bind-917ae110edc3](https://javascript.plainenglish.io/how-to-create-a-polyfill-for-call-apply-and-bind-917ae110edc3)<br>
 
 - ### Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
