@@ -89,6 +89,7 @@ Table of Contents
     - [https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-2/](https://nerdleveltech.com/the-complete-guide-to-becoming-a-web-developer-part-2/)<br>
     - [https://medium.com/@younusraza909/understanding-hoisting-in-javascript-c41b9ad2ccdf](https://medium.com/@younusraza909/understanding-hoisting-in-javascript-c41b9ad2ccdf)<br>
     - [https://pinta.land/posts/js-value-vs-reference/](https://pinta.land/posts/js-value-vs-reference/)<br>
+    - [https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/](https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/)<br>
 
 
 - ### this
