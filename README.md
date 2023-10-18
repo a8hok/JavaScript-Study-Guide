@@ -725,6 +725,7 @@ Table of Contents
  - [https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j](https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j)<br>
  - [https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/](https://www.freecodecamp.org/news/how-to-learn-javascript-effectively/)<br>
  - [https://hackernoon.com/32-awesome-javascript-snippets-one-liners-you-should-use-in-2023?source=rss](https://hackernoon.com/32-awesome-javascript-snippets-one-liners-you-should-use-in-2023?source=rss)<br>
+ - [https://www.javacodegeeks.com/2023/10/javascript-fundamentals-2023-a-complete-learning-journey.html?ref=dailydev#google_vignette](https://www.javacodegeeks.com/2023/10/javascript-fundamentals-2023-a-complete-learning-journey.html?ref=dailydev#google_vignette)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
