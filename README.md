@@ -409,6 +409,7 @@ Table of Contents
     - [https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243](https://code.tutsplus.com/articles/types-of-events-in-javascript-common-keyboard-and-mouse-events--cms-107243)<br>
     - [https://code.tutsplus.com/phases-of-javascript-events--cms-107255t](https://code.tutsplus.com/phases-of-javascript-events--cms-107255t)<br>
     - [https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss](https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss)<br>
+    - [https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev)<br>
 
 
 - ### Objects
