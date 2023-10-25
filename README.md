@@ -739,6 +739,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/learn-javascript-for-beginners/](https://www.freecodecamp.org/news/learn-javascript-for-beginners/)<br>
 - [https://www.freecodecamp.org/news/javascript-array-handbook/](https://www.freecodecamp.org/news/javascript-array-handbook/)<br>
 - [https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj](https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj)<br>
+ -[https://github.com/aluismoya/EbookFoundation-free-programming-books](https://github.com/aluismoya/EbookFoundation-free-programming-books)<br>
 
 ## `General`
 - [https://blog.ganeshjaiwal.dev/how-does-javascript-work](https://blog.ganeshjaiwal.dev/how-does-javascript-work)<br>
