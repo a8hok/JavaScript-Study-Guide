@@ -90,6 +90,7 @@ Table of Contents
     - [https://medium.com/@younusraza909/understanding-hoisting-in-javascript-c41b9ad2ccdf](https://medium.com/@younusraza909/understanding-hoisting-in-javascript-c41b9ad2ccdf)<br>
     - [https://pinta.land/posts/js-value-vs-reference/](https://pinta.land/posts/js-value-vs-reference/)<br>
     - [https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/](https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/)<br>
+    - [https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev)<br>
 
 
 - ### this
