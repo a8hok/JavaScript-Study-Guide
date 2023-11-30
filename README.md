@@ -294,6 +294,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/guide-to-javascript-promises/](https://www.freecodecamp.org/news/guide-to-javascript-promises/)<br>
     - [https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/](https://www.freecodecamp.org/news/javascript-promises-async-await-and-promise-methods/)<br>
     - [https://towardsdev.com/asynchronous-javascript-948779ddec97](https://towardsdev.com/asynchronous-javascript-948779ddec97)<br>
+    - [https://www.freecodecamp.org/news/javascript-promise-object-explained/?ref=dailydev](https://www.freecodecamp.org/news/javascript-promise-object-explained/?ref=dailydev)<br>
 
 
 - ### Es6+
