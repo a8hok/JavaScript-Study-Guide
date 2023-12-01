@@ -454,6 +454,7 @@ Table of Contents
     - [https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb](https://medium.com/@rickmint/javascript-and-the-illusion-of-everything-as-an-object-d80a7d596fbb)<br>
     - [https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/](https://www.freecodecamp.org/news/why-are-two-similar-objects-not-equal-in-javascript/)<br>
     - [https://medium.com/version-1/cloning-an-object-in-javascript-shallow-copy-vs-deep-copy-fa8acd6681e9#:~:text=There%20are%20two%20ways%20to,of%20the%20object%20are%20copied.](https://medium.com/version-1/cloning-an-object-in-javascript-shallow-copy-vs-deep-copy-fa8acd6681e9#:~:text=There%20are%20two%20ways%20to,of%20the%20object%20are%20copied.)<br>
+    - [https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98?ref=dailydev](https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98?ref=dailydev)<br>
 
 - ### String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
