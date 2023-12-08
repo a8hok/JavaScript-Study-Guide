@@ -136,6 +136,7 @@ Table of Contents
     - [https://www.syncfusion.com/blogs/post/solid-principles-in-javascript.aspx](https://www.syncfusion.com/blogs/post/solid-principles-in-javascript.aspx)<br>
     - [https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i](https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i)<br>
     - [https://frontendmasters.com/blog/vanilla-javascript-reactivity/](https://frontendmasters.com/blog/vanilla-javascript-reactivity/)<br>
+    - [https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64?ref=dailydev](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64?ref=dailydev)<br>
     
 
 - ### Prototype
