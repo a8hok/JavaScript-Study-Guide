@@ -890,3 +890,4 @@ Table of Contents
 
 ## JS DOM
 - [https://www.freecodecamp.org/news/javascript-document-object-model-explained/](https://www.freecodecamp.org/news/javascript-document-object-model-explained/)<br>
+- [https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)<br>
