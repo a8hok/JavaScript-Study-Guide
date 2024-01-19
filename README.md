@@ -195,6 +195,7 @@ Table of Contents
     - [https://www.c-sharpcorner.com/article/what-is-pure-and-impure-function-in-javascript/](https://www.c-sharpcorner.com/article/what-is-pure-and-impure-function-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/](https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/)<br>
     - [https://www.freecodecamp.org/news/javascript-functions-and-scope/](https://www.freecodecamp.org/news/javascript-functions-and-scope/)<br>
+    - [https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/)<br>
    
 
 - ### Closure
