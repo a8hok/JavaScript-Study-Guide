@@ -699,6 +699,7 @@ Table of Contents
 - [https://github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)<br>
 - [https://dev.to/deleteman123/practical-big-o-notation-for-javascript-developers-2lhn](https://dev.to/deleteman123/practical-big-o-notation-for-javascript-developers-2lhn)<br>
 - [https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/](https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/)<br>
+- [https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/?ref=dailydev](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/?ref=dailydev)<br>
 
 ## `Learn Javascript`
 - [https://jstherightway.org/](https://jstherightway.org/)<br>
