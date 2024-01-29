@@ -346,6 +346,7 @@ Table of Contents
     - [https://github.com/sudheerj/ECMAScript-features](https://github.com/sudheerj/ECMAScript-features)<br>
     - [https://dev.to/jasmin/what-is-new-in-es2023-4bcm](https://dev.to/jasmin/what-is-new-in-es2023-4bcm)<br>
     - [https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/](https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/)<br>
+    - [https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev)<br>
 
 
 - ### Array
