@@ -91,6 +91,7 @@ Table of Contents
     - [https://pinta.land/posts/js-value-vs-reference/](https://pinta.land/posts/js-value-vs-reference/)<br>
     - [https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/](https://stackabuse.com/storing-objects-in-localstorage-sessionstorage/)<br>
     - [https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/](https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/)<br>
 
 
 - ### this
