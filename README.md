@@ -37,6 +37,7 @@ Table of Contents
    * [Javascipt vs Typescript](#javascipt-vs-typescript)
    * [JS tools](#js-tools)
    * [JS api](#js-api)
+   * [JS DOM](#js-dom)
 
 ## `Javascript Concepts`
 - ### Variable, Scope, Hoisting
