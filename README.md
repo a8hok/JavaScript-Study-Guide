@@ -698,6 +698,7 @@ Table of Contents
 - [https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)<br>
 - [https://hashnode.com/@Madza](https://hashnode.com/@Madza)<br>
 - [https://kittygiraudel.com/blog/](https://kittygiraudel.com/blog/)<br>
+- [https://github.com/bittu1040/JavaScript-Coding-and-Notes/tree/master/JS-Topics](https://github.com/bittu1040/JavaScript-Coding-and-Notes/tree/master/JS-Topics)<br>
 
 ## `Javascript Algorithm`
 - [https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t](https://hackernoon.com/algorithms-and-data-structures-implemented-in-es6-javascript-h41w342t)<br>
