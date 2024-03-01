@@ -509,6 +509,7 @@ Table of Contents
     - [https://www.developer.com/languages/javascript/javascript-regexp-basics/](https://www.developer.com/languages/javascript/javascript-regexp-basics/)<br>
     - [https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/](https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/)<br>
     - [https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/](https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/)<br>
+    - [https://www.freecodecamp.org/news/regex-in-javascript/?ref=dailydev](https://www.freecodecamp.org/news/regex-in-javascript/?ref=dailydev)<br>
 
 - ### Error Handling
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
