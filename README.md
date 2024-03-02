@@ -3,43 +3,43 @@
 Table of Contents
 =================
 
-    * [Variable, Scope, Hoisting](#variable-scope-hoisting)
-    * [this](#this)
-    * [Patterns](#patterns)
-    * [Prototype](#prototype)
-    * [Functions](#functions)
-    * [Closure](#closure)
-    * [Iterators](#iterators)
-    * [Currying](#currying)
-    * [Promises](#promises)
-    * [Es6+](#es6)
-    * [Array](#array)
-    * [Event Loop](#event-loop)
-    * [Objects](#objects)
-    * [String](#string)
-    * [Date and time](#date-and-time)
-    * [Regex](#regex)
-    * [Error Handling](#error-handling)
-    * [Javascript Style Guides](#javascript-style-guides)
-    * [Performance/Code Optimization](#performancecode-optimization)
-    * [Javascript Interview Questions](#javascript-interview-questions)
-    * [Tips and Tricks](#tips-and-tricks)
-    * [Javascript Cheatsheet](#javascript-cheatsheet)
-    * [Javascript News Letters](#javascript-news-letters)
-    * [Developers to follow](#developers-to-follow)
-    * [Javascript Algorithm](#javascript-algorithm)
-    * [Learn Javascript](#learn-javascript)
-    * [Javascript Books](#javascript-books)
-    * [General](#general)
-    * [Best Practices](#best-practices)
-    * [Javascript Projects](#javascript-projects)
-    * [Youtube channels](#youtube-channels)
-    * [Javascipt vs Typescript](#javascipt-vs-typescript)
-    * [JS tools](#js-tools)
-    * [JS api](#js-api)
-    * [JS DOM](#js-dom)
+- [Variable, Scope, Hoisting](#variable--scope--hoisting)
+- [this](#this)
+- [Patterns](#patterns)
+- [Prototype](#prototype)
+- [Functions](#functions)
+- [Closure](#closure)
+- [Iterators](#iterators)
+- [Currying](#currying)
+- [Promises](#promises)
+- [Es6+](#es6-)
+- [Array](#array)
+- [Event Loop](#event-loop)
+- [Objects](#objects)
+- [String](#string)
+- [Date and time](#date-and-time)
+- [Regex](#regex)
+- [`Error Handling`](#-error-handling-)
+- [`Javascript Style Guides`](#-javascript-style-guides-)
+- [`Performance/Code Optimization`](#-performance-code-optimization-)
+- [`Javascript Interview Questions`](#-javascript-interview-questions-)
+- [`Tips and Tricks`](#-tips-and-tricks-)
+- [`Javascript Cheatsheet`](#-javascript-cheatsheet-)
+- [`Javascript News Letters`](#-javascript-news-letters-)
+- [`Developers to follow`](#-developers-to-follow-)
+- [`Javascript Algorithm`](#-javascript-algorithm-)
+- [`Learn Javascript`](#-learn-javascript-)
+- [`Javascript Books`](#-javascript-books-)
+- [`General`](#-general-)
+- [`Best Practices`](#-best-practices-)
+- [`Javascript Projects`](#-javascript-projects-)
+- [`Youtube channels`](#-youtube-channels-)
+- [`Javascipt vs Typescript`](#-javascipt-vs-typescript-)
+- [JS tools](#js-tools)
+- [JS api](#js-api)
+- [JS DOM](#js-dom)
 
-- ### Variable, Scope, Hoisting
+- ## Variable, Scope, Hoisting
     - [https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/)<br/>
     - [https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/](https://www.freecodecamp.org/news/javascript-lexical-scope-tutorial/)<br/>
     - [https://slashism.com/variable-scope-in-javascript](https://slashism.com/variable-scope-in-javascript)<br>
@@ -95,7 +95,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev](https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev)<br>
 
 
-- ### this
+- ## this
     - [https://ui.dev/this-keyword-call-apply-bind-javascript/](https://ui.dev/this-keyword-call-apply-bind-javascript/)<br/>
     - [https://livecodestream.dev/post/understanding-this-keyword-in-javascript/](https://livecodestream.dev/post/understanding-this-keyword-in-javascript/)<br/>
     - [https://dev.to/polymathsomnath/master-this-in-javascript-1bk](https://dev.to/polymathsomnath/master-this-in-javascript-1bk)<br>
@@ -114,7 +114,7 @@ Table of Contents
     - [https://ui.dev/this-keyword-call-apply-bind-javascript](https://ui.dev/this-keyword-call-apply-bind-javascript)<br>
     - [https://javascript.plainenglish.io/how-to-create-a-polyfill-for-call-apply-and-bind-917ae110edc3](https://javascript.plainenglish.io/how-to-create-a-polyfill-for-call-apply-and-bind-917ae110edc3)<br>
 
-- ### Patterns
+- ## Patterns
     - [https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials](https://hemdan.hashnode.dev/javascript-patterns-ch2-or-part-1-essentials)<br>
     - [https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8](https://medium.com/swlh/js-interview-help-prototype-class-es6-iife-scope-closures-module-pattern-fd67c68aacb8)<br/>
     - [https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1](https://medium.com/javascript-in-plain-english/basic-middleware-pattern-in-javascript-ef8756a75cb1)<br>
@@ -142,7 +142,7 @@ Table of Contents
     - [https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)<br>
     
 
-- ### Prototype
+- ## Prototype
     - [https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4](https://javascript.plainenglish.io/prototype-this-stranger-7a444098cdd4)<br>
     - [https://blog.youteee.codes/introduction-to-javascript-prototypes](https://blog.youteee.codes/introduction-to-javascript-prototypes)<br>
     - [https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)<br>
@@ -153,7 +153,7 @@ Table of Contents
     - [https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5](https://dev.to/smpnjn/javascript-shallow-copy-what-is-a-shallow-copy-1pc5)<br>
     - [https://web3usecase.co/prototypes-in-javascript-d1c437f1a811](https://web3usecase.co/prototypes-in-javascript-d1c437f1a811)<br>
 
-- ### Functions
+- ## Functions
     - [https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37](https://blog.bitsrc.io/understanding-javascript-iifes-like-a-boss-b84b39663a37)<br/>
     - [https://api.daily.dev/r/Wxk7uYQ2p](https://api.daily.dev/r/Wxk7uYQ2p)<br >
     - [https://devdojo.com/rahulism/what-is-memoization-in-javascript](https://devdojo.com/rahulism/what-is-memoization-in-javascript)<br>
@@ -200,7 +200,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/)<br>
    
 
-- ### Closure
+- ## Closure
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br/>
     - [https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5](https://medium.com/geekculture/understanding-the-core-concept-of-javascript-closure-49e3517e49a5)<br>
     - [https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662](https://medium.com/javascript-in-plain-english/closures-and-lexical-scoping-in-javascript-9ebe8d353662)<br>
@@ -216,14 +216,14 @@ Table of Contents
     - [https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)<br>
     - [https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1](https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1)<br>
 
-- ### Iterators
+- ## Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
     - [https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)<br>
     - [https://blog.openreplay.com/deep-dive-into-javascript-s-iterators-iterables-and-generators](https://blog.openreplay.com/deep-dive-into-javascript-s-iterators-iterables-and-generators)<br>
     - [https://designtechworld.medium.com/generators-in-javascript-explained-6855a307e371](https://designtechworld.medium.com/generators-in-javascript-explained-6855a307e371)<br>
 
 
-- ### Currying
+- ## Currying
     - [https://dev.to/kozlovzxc/js-interview-in-2-minutes-currying-2hko](https://dev.to/kozlovzxc/js-interview-in-2-minutes-currying-2hko)<br/>
     - [https://dev.to/suprabhasupi/currying-in-javascript-1k3l](https://dev.to/suprabhasupi/currying-in-javascript-1k3l)<br/>
     - [https://daily.dev/posts/what-is-currying-in-javascript](https://daily.dev/posts/what-is-currying-in-javascript)<br>
@@ -237,7 +237,7 @@ Table of Contents
     - [https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3](https://javascript.plainenglish.io/enhance-react-onclick-handlers-with-currying-9c3c9ca82df3)<br>
 
 
-- ### Promises
+- ## Promises
     - [https://towardsdev.com/promises-in-javascript-285f523c3e8d](https://towardsdev.com/promises-in-javascript-285f523c3e8d)<br/>
     - [https://javascript.plainenglish.io/what-is-the-importance-of-using-async-await-17b95870a05f](https://javascript.plainenglish.io/what-is-the-importance-of-using-async-await-17b95870a05f)<br/>
     - [https://dmitripavlutin.com/what-is-javascript-promise/](https://dmitripavlutin.com/what-is-javascript-promise/)<br>
@@ -304,7 +304,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev)<br>
 
 
-- ### Es6+
+- ## Es6+
     - [https://madzadev.medium.com/24-modern-es6-code-snippets-to-solve-practical-js-problems-3609f301859e](https://madzadev.medium.com/24-modern-es6-code-snippets-to-solve-practical-js-problems-3609f301859e)<br/>
     - [https://ponyfoo.com/articles/es6](https://ponyfoo.com/articles/es6)<br/>
     - [https://mezgitci9.medium.com/java-script-es6-f6f4219847dd](https://mezgitci9.medium.com/java-script-es6-f6f4219847dd)<br>
@@ -353,7 +353,7 @@ Table of Contents
     - [https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev](https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev)<br>
 
 
-- ### Array
+- ## Array
     - [https://www.freecodecamp.org/news/array-map-tutorial/](https://www.freecodecamp.org/news/array-map-tutorial/)<br/>
     - [https://dev.to/antoomartini/4-ways-to-convert-a-string-to-an-array-in-javascript-i97](https://dev.to/antoomartini/4-ways-to-convert-a-string-to-an-array-in-javascript-i97)<br/>
     - [https://www.freecodecamp.org/news/the-javascript-array-handbook/](https://www.freecodecamp.org/news/the-javascript-array-handbook/)<br>
@@ -400,7 +400,7 @@ Table of Contents
     - [https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss](https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss)<br>
 
 
-- ### Event Loop
+- ## Event Loop
     - [https://ayushv.medium.com/event-loop-in-javascript-672c07618dc9](https://ayushv.medium.com/event-loop-in-javascript-672c07618dc9)<br>
     - [https://towardsdev.com/event-loop-in-javascript-672c07618dc9](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)<br>
     - [https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603](https://medium.com/@ricardoreis_22930/event-loop-javascript-4376600e5603)<br>
@@ -423,7 +423,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev)<br>
 
 
-- ### Objects
+- ## Objects
     - [https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/](https://livecodestream.dev/post/everything-you-should-know-about-javascript-dictionaries/)<br/>
     - [https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230?gi=6355f0d7bfa0)<br>
     - [https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230](https://towardsdev.com/object-oriented-programming-oop-in-javascript-b7f2bbde1230)<br>
@@ -466,13 +466,13 @@ Table of Contents
     - [https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98?ref=dailydev](https://dev.to/alexmercedcoder/oop-design-patterns-in-javascript-3i98?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/?ref=dailydev](https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/?ref=dailydev)<br>
 
-- ### String
+- ## String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
     - [https://dmitripavlutin.com/javascript-string-trim/](https://dmitripavlutin.com/javascript-string-trim/)<br>
     - [https://www.freecodecamp.org/news/efficient-string-building-in-javascript/](https://www.freecodecamp.org/news/efficient-string-building-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/javascript-string-to-boolean/](https://www.freecodecamp.org/news/javascript-string-to-boolean/)<br>
 
-- ### Date and time
+- ## Date and time
     - [https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/](https://www.freecodecamp.org/news/how-to-build-a-chess-clock-with-javascript-and-setinterval/)<br>
     - [https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd](https://dev.to/debs_obrien/formatting-a-date-in-javascript-ebd)<br>
     - [https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453](https://blog.bitsrc.io/how-to-handle-time-zones-in-javascript-b135a7931453)<br>
@@ -483,7 +483,7 @@ Table of Contents
     - [https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates](https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates)<br>
     - [https://blog.openreplay.com/what-is-better--datefns-or-moment/](https://blog.openreplay.com/what-is-better--datefns-or-moment/)<br>
 
-- ### Regex
+- ## Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
     - [https://dev.to/shreyazz/regex-101-2m7m](https://dev.to/shreyazz/regex-101-2m7m)<br>
     - [https://javascript.plainenglish.io/seriously-javascript-regex-quantifiers-in-under-10-mins-f281146bfea2](https://javascript.plainenglish.io/seriously-javascript-regex-quantifiers-in-under-10-mins-f281146bfea2)<br>
@@ -510,7 +510,7 @@ Table of Contents
     - [https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/](https://blog.openreplay.com/five-practical-use-cases-for-regular-expressions/)<br>
     - [https://www.freecodecamp.org/news/regex-in-javascript/?ref=dailydev](https://www.freecodecamp.org/news/regex-in-javascript/?ref=dailydev)<br>
 
-- ### Error Handling
+- ## `Error Handling`
     - [https://sruthicodes.hashnode.dev/all-about-errors-in-javascript](https://sruthicodes.hashnode.dev/all-about-errors-in-javascript)<br>
     - [https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d](https://blog.bitsrc.io/javascript-exception-handling-patterns-best-practices-f7d6fcab735d)<br>
     - [https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9](https://javascript.plainenglish.io/debug-faster-in-javascript-26d2ad3942d9)<br>
