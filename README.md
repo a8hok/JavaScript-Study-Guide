@@ -1,4 +1,4 @@
-# Javascript Interview preparation
+# Javascript Study Guide
 
 Table of Contents
 =================
