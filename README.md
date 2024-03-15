@@ -648,6 +648,7 @@ Table of Contents
 - [https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7](https://medium.com/before-semicolon/50-javascript-best-practice-rules-to-write-better-code-86ce731311d7)<br>
 - [https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/](https://www.freecodecamp.org/news/javascript-tips-for-better-web-dev-projects/)<br>
 - [https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8](https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8)<br>
+- [https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript?ref=dailydev](https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
