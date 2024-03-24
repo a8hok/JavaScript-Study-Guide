@@ -910,3 +910,7 @@ Table of Contents
 
 ## JS Unit test
 - [https://www.syncfusion.com/blogs/post/javascript-unit-test-frameworks.aspx?ref=dailydev](https://www.syncfusion.com/blogs/post/javascript-unit-test-frameworks.aspx?ref=dailydev)<br>
+
+## JS Algorithm
+- [https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/?ref=dailydev](https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/?ref=dailydev)<br>
+
