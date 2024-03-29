@@ -662,6 +662,7 @@ Table of Contents
 - [https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2](https://dev.to/abhirajb/the-ultimate-javascript-cheatsheet-55j2)<br>
 - [https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021](https://blog.suhailkakar.com/javascript-cheat-sheet-for-beginners-2021)<br>
 - [https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665](https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665)<br>
+- [https://htmlcheatsheet.com/js/?ref=dailydev](https://htmlcheatsheet.com/js/?ref=dailydev)<br>
 
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
