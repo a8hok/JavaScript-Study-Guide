@@ -3,7 +3,7 @@
 Table of Contents
 =================
 
-- [Variable, Scope, Hoisting](#variable--scope--hoisting)
+- [Variable Scope Hoisting](#variable-scope-hoisting)
 - [this](#this)
 - [Patterns](#patterns)
 - [Prototype](#prototype)
