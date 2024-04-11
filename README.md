@@ -93,6 +93,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev](https://www.freecodecamp.org/news/scope-in-javascript-global-vs-local-vs-block-scope/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/](https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev](https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/javascript-ternary-operator-explained/?ref=dailydev](https://www.freecodecamp.org/news/javascript-ternary-operator-explained/?ref=dailydev)<br>
 
 
 - ## this
