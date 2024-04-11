@@ -400,6 +400,7 @@ Table of Contents
     - [https://claritydev.net/blog/removing-duplicates-with-map-in-javascript](https://claritydev.net/blog/removing-duplicates-with-map-in-javascript)<br>
     - [https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss](https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss)<br>
     - [https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev)<br>
 
 
 - ## Event Loop
