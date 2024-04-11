@@ -198,6 +198,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/](https://www.freecodecamp.org/news/the-difference-between-arrow-functions-and-normal-functions/)<br>
     - [https://www.freecodecamp.org/news/javascript-functions-and-scope/](https://www.freecodecamp.org/news/javascript-functions-and-scope/)<br>
     - [https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/)<br>
+    - [https://claritydev.net/blog/javascript-higher-order-functions-explained?ref=dailydev#google_vignette](https://claritydev.net/blog/javascript-higher-order-functions-explained?ref=dailydev#google_vignette)<br>
    
 
 - ## Closure
