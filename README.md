@@ -551,6 +551,7 @@ Table of Contents
 - [https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8](https://designtechworld.medium.com/memoization-in-javascript-282d5fad29c8)<br>
 - [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
 - [https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)<br>
+- [https://www.telerik.com/blogs/measuring-performance-javascript-performance-api?ref=dailydev](https://www.telerik.com/blogs/measuring-performance-javascript-performance-api?ref=dailydev)<br>
 
 
 ## `Javascript Interview Questions`
