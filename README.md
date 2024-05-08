@@ -354,6 +354,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/](https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/)<br>
     - [https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev)<br>
     - [https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev](https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev)<br>
+    - [https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev](https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev)<br>
 
 
 - ## Array
