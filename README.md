@@ -218,6 +218,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-closures-explained-with-example/](https://www.freecodecamp.org/news/javascript-closures-explained-with-example/)<br>
     - [https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually](https://webdriphashnode.hashnode.dev/hoisting-in-javascript-explained-visually)<br>
     - [https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1](https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1)<br>
+    - [https://www.freecodecamp.org/news/understand-javascript-closures/?ref=dailydev](https://www.freecodecamp.org/news/understand-javascript-closures/?ref=dailydev)<br>
 
 - ## Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
