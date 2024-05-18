@@ -356,6 +356,7 @@ Table of Contents
     - [https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev](https://dev.to/codingcrafts/javascript-es6-features-every-developer-should-know-12ak?ref=dailydev)<br>
     - [https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev](https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev)<br>
     - [https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev](https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev)<br>
+    - [https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?ref=dailydev](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?ref=dailydev)<br>
 
 
 - ## Array
