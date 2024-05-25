@@ -835,6 +835,7 @@ Table of Contents
 - [https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005](https://blog.bitsrc.io/best-practices-for-managing-dependencies-in-javascript-projects-af37e02f4005)<br>
 - [https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/](https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/)<br>
 - [https://jscodechallenges.vercel.app/challenges/primitives](https://jscodechallenges.vercel.app/challenges/primitives)<br>
+- [https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii?ref=dailydev](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii?ref=dailydev)<br>
 
 
 ## `Javascript Projects`
