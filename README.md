@@ -357,6 +357,7 @@ Table of Contents
     - [https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev](https://freecodecamp.org/news/destructuring-in-javascript/?ref=dailydev)<br>
     - [https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev](https://dev.to/gloriasilver/essential-es6-javascript-features-every-javascript-developer-should-know-ehj?ref=dailydev)<br>
     - [https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?ref=dailydev](https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j?ref=dailydev)<br>
+    - [https://dev.to/mursalfk/write-minimal-es6-code-1o81?ref=dailydev](https://dev.to/mursalfk/write-minimal-es6-code-1o81?ref=dailydev)<br>
 
 
 - ## Array
