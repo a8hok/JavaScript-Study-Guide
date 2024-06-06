@@ -477,6 +477,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/?ref=dailydev](https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/?ref=dailydev)<br>
     - [https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj?ref=dailydev](https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj?ref=dailydev)<br>
     - [https://swapnoneel.hashnode.dev/javascript-objects-vs-json?ref=dailydev](https://swapnoneel.hashnode.dev/javascript-objects-vs-json?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/javascript-prototypal-inheritance/?ref=dailydev](https://www.freecodecamp.org/news/javascript-prototypal-inheritance/?ref=dailydev)<br>
 
 - ## String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
