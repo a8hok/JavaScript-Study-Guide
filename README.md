@@ -431,6 +431,7 @@ Table of Contents
     - [https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss](https://hackernoon.com/understanding-the-javascript-event-loop-everything-you-need-to-know?source=rss)<br>
     - [https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev](https://www.freecodecamp.org/news/event-bubbling-and-event-capturing-in-javascript/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)<br>
+    - [https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30?ref=dailydev](https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30?ref=dailydev)<br>
 
 
 - ## Objects
