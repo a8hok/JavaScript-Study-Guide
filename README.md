@@ -141,6 +141,7 @@ Table of Contents
     - [https://frontendmasters.com/blog/vanilla-javascript-reactivity/](https://frontendmasters.com/blog/vanilla-javascript-reactivity/)<br>
     - [https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64?ref=dailydev](https://dev.to/vivekalhat/observer-pattern-for-beginners-5h64?ref=dailydev)<br>
     - [https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)<br>
+    - [https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-iterator-2og1?ref=dailydev](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-iterator-2og1?ref=dailydev)<br>
     
 
 - ## Prototype
