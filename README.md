@@ -408,6 +408,7 @@ Table of Contents
     - [https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss](https://hackernoon.com/a-deep-dive-into-the-javascript-some-method?source=rss)<br>
     - [https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev)<br>
+    - [https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev](https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev)<br>
 
 
 - ## Event Loop
