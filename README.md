@@ -143,6 +143,7 @@ Table of Contents
     - [https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev](https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m?ref=dailydev)<br>
     - [https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-iterator-2og1?ref=dailydev](https://dev.to/nhannguyendevjs/javascript-design-patterns-behavioral-iterator-2og1?ref=dailydev)<br>
     - [https://blog.stackademic.com/introduction-to-design-patterns-design-patterns-part-1-6a691c4503c0](https://blog.stackademic.com/introduction-to-design-patterns-design-patterns-part-1-6a691c4503c0)<br>
+    - [https://blog.stackademic.com/behavioural-design-patterns-part-1-design-patterns-in-js-part-5-1bedb7a0aa19](https://blog.stackademic.com/behavioural-design-patterns-part-1-design-patterns-in-js-part-5-1bedb7a0aa19)<br>
     
 
 - ## Prototype
