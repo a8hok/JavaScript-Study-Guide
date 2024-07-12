@@ -309,6 +309,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-promise-object-explained/?ref=dailydev](https://www.freecodecamp.org/news/javascript-promise-object-explained/?ref=dailydev)<br>
     - [https://dev.to/matinmollapur0101/mastering-asynchronous-programming-in-javascript-2ioo?ref=dailydev](https://dev.to/matinmollapur0101/mastering-asynchronous-programming-in-javascript-2ioo?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/learn-asynchronous-javascript/?ref=dailydev](https://www.freecodecamp.org/news/learn-asynchronous-javascript/?ref=dailydev)<br>
 
 
 - ## Es6+
