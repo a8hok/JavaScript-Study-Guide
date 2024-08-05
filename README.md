@@ -145,6 +145,7 @@ Table of Contents
     - [https://blog.stackademic.com/introduction-to-design-patterns-design-patterns-part-1-6a691c4503c0](https://blog.stackademic.com/introduction-to-design-patterns-design-patterns-part-1-6a691c4503c0)<br>
     - [https://blog.stackademic.com/behavioural-design-patterns-part-1-design-patterns-in-js-part-5-1bedb7a0aa19](https://blog.stackademic.com/behavioural-design-patterns-part-1-design-patterns-in-js-part-5-1bedb7a0aa19)<br>
     - [https://blog.stackademic.com/creational-design-patterns-design-patterns-in-js-part-2-6fdbfbd61018](https://blog.stackademic.com/creational-design-patterns-design-patterns-in-js-part-2-6fdbfbd61018)<br>
+    - [https://blog.logrocket.com/javascript-design-patterns-guide/?ref=dailydev](https://blog.logrocket.com/javascript-design-patterns-guide/?ref=dailydev)<br>
     
     
 
