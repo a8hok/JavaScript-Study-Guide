@@ -443,6 +443,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)<br>
     - [https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30?ref=dailydev](https://dev.to/dipakahirav/understanding-debouncing-in-javascript-5g30?ref=dailydev)<br>
     - [https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289?ref=dailydev](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289?ref=dailydev)<br>
+    - [https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?ref=dailydev](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?ref=dailydev)<br>
 
 
 - ## Objects
