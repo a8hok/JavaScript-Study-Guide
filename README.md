@@ -680,6 +680,7 @@ Table of Contents
 - [https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript?ref=dailydev](https://swapnoneel.hashnode.dev/the-3-most-powerful-functions-in-javascript?ref=dailydev)<br>
 - [https://www.javacodegeeks.com/2024/04/javascript-efficiency-hacks-one-line-wonders.html?ref=dailydev](https://www.javacodegeeks.com/2024/04/javascript-efficiency-hacks-one-line-wonders.html?ref=dailydev)<br>
 - [https://www.codu.co/articles/how-to-encode-a-url-in-javascript-kn-wk49b?ref=dailydev](https://www.codu.co/articles/how-to-encode-a-url-in-javascript-kn-wk49b?ref=dailydev)<br>
+- [https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev](https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
