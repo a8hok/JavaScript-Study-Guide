@@ -931,6 +931,7 @@ Table of Contents
 ## JS tools
 - [https://www.robinwieruch.de/vite-eslint/](https://www.robinwieruch.de/vite-eslint/)<br>
 - [https://medium.com/tinyso/react-hero-setup-eslint-for-typescript-react-application-d171df2bb408](https://medium.com/tinyso/react-hero-setup-eslint-for-typescript-react-application-d171df2bb408)<br>
+- [https://blog.logrocket.com/eslint-adoption-guide/?ref=dailydev](https://blog.logrocket.com/eslint-adoption-guide/?ref=dailydev)<br>
 
 ## JS api
 - [https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc](https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc)<br>
