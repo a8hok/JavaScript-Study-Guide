@@ -418,6 +418,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev](https://www.freecodecamp.org/news/javascript-reduce-method-code-examples/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev)<br>
     - [https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev](https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev)<br>
+    - [https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev](https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev)<br>
 
 
 - ## Event Loop
