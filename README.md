@@ -922,6 +922,7 @@ Table of Contents
 - [https://www.youtube.com/watch?v=q7rnaVD_Wjc](https://www.youtube.com/watch?v=q7rnaVD_Wjc)<br>
 - [https://www.youtube.com/watch?v=XIOLqoPHCJ4](https://www.youtube.com/watch?v=XIOLqoPHCJ4)<br>
 - [https://www.youtube.com/playlist?list=PLjVLYmrlmjGcZJ0oMwKkgwJ8XkCDAb9aG](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcZJ0oMwKkgwJ8XkCDAb9aG)<br>
+- [https://www.youtube.com/watch?v=6Ixyltr8_R0](https://www.youtube.com/watch?v=6Ixyltr8_R0)<br>
 
 ## `Javascipt vs Typescript`
 - [https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5](https://enlear.academy/typescript-vs-javascript-bdd1eca2f7b5)<br>
