@@ -419,6 +419,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev](https://www.freecodecamp.org/news/how-to-add-and-remove-js-array-elements/?ref=dailydev)<br>
     - [https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev](https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev)<br>
     - [https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev](https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev)<br>
+    - [https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0](https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0)<br>
 
 
 - ## Event Loop
