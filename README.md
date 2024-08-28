@@ -227,6 +227,7 @@ Table of Contents
     - [https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1](https://levelup.gitconnected.com/5-advanced-javascript-concepts-that-will-make-you-a-better-developer-5d04292107a1)<br>
     - [https://www.freecodecamp.org/news/understand-javascript-closures/?ref=dailydev](https://www.freecodecamp.org/news/understand-javascript-closures/?ref=dailydev)<br>
     - [https://medium.com/@devishraq/mastering-javascript-closures-an-in-depth-guide-0930184aff0f](https://medium.com/@devishraq/mastering-javascript-closures-an-in-depth-guide-0930184aff0f)<br>
+    - [https://medium.com/@shahbishwa21/understanding-lexical-scope-and-closures-in-javascript-ae16b050f47c](https://medium.com/@shahbishwa21/understanding-lexical-scope-and-closures-in-javascript-ae16b050f47c)<br>
 
 - ## Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
