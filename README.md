@@ -317,6 +317,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev](https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/learn-asynchronous-javascript/?ref=dailydev](https://www.freecodecamp.org/news/learn-asynchronous-javascript/?ref=dailydev)<br>
     - [https://dev.to/devishraq/understanding-javascript-proxies-harnessing-the-power-of-metaprogramming-1l4d](https://dev.to/devishraq/understanding-javascript-proxies-harnessing-the-power-of-metaprogramming-1l4d)<br>
+    - [https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c](https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c)<br>
 
 
 - ## Es6+
