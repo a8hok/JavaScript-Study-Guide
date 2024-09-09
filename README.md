@@ -422,6 +422,7 @@ Table of Contents
     - [https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev](https://community.appsmith.com/content/guide/javascript-array-methods-demonstrated-emojis?ref=dailydev)<br>
     - [https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev](https://www.telerik.com/blogs/array-grouping-javascript?ref=dailydev)<br>
     - [https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0](https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0)<br>
+    - [https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev)<br>
 
 
 - ## Event Loop
