@@ -947,6 +947,7 @@ Table of Contents
 - [https://javascript.plainenglish.io/must-know-javascript-api-performance-api-85f7b8306b90](https://javascript.plainenglish.io/must-know-javascript-api-performance-api-85f7b8306b90)<br>
 - [https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/](https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/)<br>
 - [https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/?ref=dailydev)<br>
+- [https://priyankachaudhari.hashnode.dev/understanding-the-differences-session-storage-and-cookies-explained?ref=dailydev](https://priyankachaudhari.hashnode.dev/understanding-the-differences-session-storage-and-cookies-explained?ref=dailydev)<br>
 
 ## JS DOM
 - [https://www.freecodecamp.org/news/javascript-document-object-model-explained/](https://www.freecodecamp.org/news/javascript-document-object-model-explained/)<br>
