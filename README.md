@@ -38,6 +38,8 @@ Table of Contents
 - [JS tools](#js-tools)
 - [JS api](#js-api)
 - [JS DOM](#js-dom)
+- [JS Unit test](#js-unit-test)
+- [JS Algorithm](#js-algorithm)
 
 - ## Variable, Scope, Hoisting
     - [https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/](https://livecodestream.dev/post/understanding-variables-scope-and-hoisting-in-javascript/)<br/>
