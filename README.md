@@ -562,6 +562,7 @@ Table of Contents
     - [https://www.developer.com/languages/javascript/javascript-debugging/](https://www.developer.com/languages/javascript/javascript-debugging/)<br>
     - [https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0?ref=dailydev](https://dev.to/dionarodrigues/fetch-api-do-you-really-know-how-to-handle-errors-2gj0?ref=dailydev)<br>
     - [https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7?ref=dailydev](https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7?ref=dailydev)<br>
+    - [https://www.nullpt.rs/evading-anti-debugging-techniques?ref=dailydev](https://www.nullpt.rs/evading-anti-debugging-techniques?ref=dailydev)<br>
 
 ## `Javascript Style Guides`
 - [https://enlear.academy/5-best-javascript-style-guides-640485e7b630](https://enlear.academy/5-best-javascript-style-guides-640485e7b630)<br/>
