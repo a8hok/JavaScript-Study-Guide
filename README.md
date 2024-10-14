@@ -96,6 +96,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/](https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/)<br>
     - [https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev](https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/javascript-ternary-operator-explained/?ref=dailydev](https://www.freecodecamp.org/news/javascript-ternary-operator-explained/?ref=dailydev)<br>
+    - [https://medium.com/@madanhegde/lesser-known-javascript-features-part-1-fcfbac86588](https://medium.com/@madanhegde/lesser-known-javascript-features-part-1-fcfbac86588)<br>
 
 
 - ## this
