@@ -628,6 +628,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/](https://www.freecodecamp.org/news/prepare-for-your-javascript-interview/)<br>
 - [https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master](https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master)<br>
 - [https://dev.to/prnvbirajdar/5-javasript-github-repositories-for-interview-prep-306h?ref=dailydev](https://dev.to/prnvbirajdar/5-javasript-github-repositories-for-interview-prep-306h?ref=dailydev)<br>
+- [https://javascript.plainenglish.io/3-advance-level-javascript-questions-part-4-de04414c1b40](https://javascript.plainenglish.io/3-advance-level-javascript-questions-part-4-de04414c1b40)<br>
 
 ## `Tips and Tricks`
 - [https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2](https://javascript.plainenglish.io/13-javascript-anomalies-331833001bd2)<br/>
