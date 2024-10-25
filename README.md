@@ -154,7 +154,7 @@ Table of Contents
     - [https://dev.to/superviz/top-design-patterns-for-frontend-1bk5?ref=dailydev](https://dev.to/superviz/top-design-patterns-for-frontend-1bk5?ref=dailydev)<br>
     - [https://dev.to/claranet/solid-principles-3kld?ref=dailydev](https://dev.to/claranet/solid-principles-3kld?ref=dailydev)<br>
     - [https://blogs.thnkandgrow.com/mastering-javascript-top-5-design-patterns/?ref=dailydev](https://blogs.thnkandgrow.com/mastering-javascript-top-5-design-patterns/?ref=dailydev)<br>
-    
+    - [https://medium.com/@hoainho.work/master-the-top-5-essential-javascript-design-patterns-every-developer-should-know-a0bc1e92847f](https://medium.com/@hoainho.work/master-the-top-5-essential-javascript-design-patterns-every-developer-should-know-a0bc1e92847f)<br>
     
 
 - ## Prototype
