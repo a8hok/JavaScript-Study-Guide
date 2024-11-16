@@ -326,6 +326,7 @@ Table of Contents
     - [https://dev.to/devishraq/understanding-javascript-proxies-harnessing-the-power-of-metaprogramming-1l4d](https://dev.to/devishraq/understanding-javascript-proxies-harnessing-the-power-of-metaprogramming-1l4d)<br>
     - [https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c](https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c)<br>
     - [https://www.codu.co/articles/asynchronous-javascript-b5kz3e2m?ref=dailydev](https://www.codu.co/articles/asynchronous-javascript-b5kz3e2m?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/javascript-promise-object-explained/](https://www.freecodecamp.org/news/javascript-promise-object-explained/)<br>
 
 
 - ## Es6+
