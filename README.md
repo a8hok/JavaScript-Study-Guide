@@ -932,6 +932,7 @@ Table of Contents
 - [https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo?ref=dailydev](https://dev.to/shantanu_jana/100-javascript-projects-with-source-code-59lo?ref=dailydev)<br>
 - [https://github.com/sanchit0496/50days50projects/tree/main/github-profile](https://github.com/sanchit0496/50days50projects/tree/main/github-profile)<br>
 - [https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/](https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/)<br>
+- [https://www.deepdev.org/blog/javascript-project-ideas?ref=dailydev](https://www.deepdev.org/blog/javascript-project-ideas?ref=dailydev)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
