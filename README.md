@@ -977,3 +977,6 @@ Table of Contents
 ## JS Algorithm
 - [https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/?ref=dailydev](https://www.freecodecamp.org/news/top-10-javascript-algorithms-for-coding-challenges/?ref=dailydev)<br>
 
+## State of JS
+- [https://tsh.io/state-of-frontend/?ref=dailydev#typescript](https://tsh.io/state-of-frontend/?ref=dailydev#typescript)<br>
+
