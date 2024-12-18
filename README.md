@@ -936,6 +936,7 @@ Table of Contents
 - [https://github.com/sanchit0496/50days50projects/tree/main/github-profile](https://github.com/sanchit0496/50days50projects/tree/main/github-profile)<br>
 - [https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/](https://www.freecodecamp.org/news/learn-javascript-by-building-a-project/)<br>
 - [https://www.deepdev.org/blog/javascript-project-ideas?ref=dailydev](https://www.deepdev.org/blog/javascript-project-ideas?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/javascript-projects-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/javascript-projects-for-beginners/?ref=dailydev)<br>
 
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
