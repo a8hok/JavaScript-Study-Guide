@@ -99,6 +99,7 @@ Table of Contents
     - [https://medium.com/@madanhegde/lesser-known-javascript-features-part-1-fcfbac86588](https://medium.com/@madanhegde/lesser-known-javascript-features-part-1-fcfbac86588)<br>
     - [https://blog.stackademic.com/comprehensive-guide-to-programming-naming-conventions-ec179a89d4b7](https://blog.stackademic.com/comprehensive-guide-to-programming-naming-conventions-ec179a89d4b7)<br>
     - [https://www.freecodecamp.org/news/javascript-advanced-operators/](https://www.freecodecamp.org/news/javascript-advanced-operators/)<br>
+    - [https://javascript.plainenglish.io/day-10-how-does-this-javascript-scope-work-f6f894cc2e42](https://javascript.plainenglish.io/day-10-how-does-this-javascript-scope-work-f6f894cc2e42)<br>
 
 
 - ## this
