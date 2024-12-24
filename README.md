@@ -328,6 +328,7 @@ Table of Contents
     - [https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c](https://towardsdev.com/javascript-tricky-questions-promises-12c1ebeff20c)<br>
     - [https://www.codu.co/articles/asynchronous-javascript-b5kz3e2m?ref=dailydev](https://www.codu.co/articles/asynchronous-javascript-b5kz3e2m?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/javascript-promise-object-explained/](https://www.freecodecamp.org/news/javascript-promise-object-explained/)<br>
+    - [https://blog.stackademic.com/9-must-know-advanced-uses-of-promises-a6d1ab195dfc](https://blog.stackademic.com/9-must-know-advanced-uses-of-promises-a6d1ab195dfc)<br>
 
 
 - ## Es6+
