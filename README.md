@@ -596,6 +596,7 @@ Table of Contents
 - [https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html](https://www.javacodegeeks.com/2023/05/20-best-javascript-snippets.html)<br>
 - [https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-3/)<br>
 - [https://www.telerik.com/blogs/measuring-performance-javascript-performance-api?ref=dailydev](https://www.telerik.com/blogs/measuring-performance-javascript-performance-api?ref=dailydev)<br>
+- [https://dev.to/abdoseadaa/stop-rendering-conditions-like-this-imo?ref=dailydev](https://dev.to/abdoseadaa/stop-rendering-conditions-like-this-imo?ref=dailydev)<br>
 
 
 ## `Javascript Interview Questions`
