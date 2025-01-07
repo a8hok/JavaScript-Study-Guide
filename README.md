@@ -989,3 +989,6 @@ Table of Contents
 ## State of JS
 - [https://tsh.io/state-of-frontend/?ref=dailydev#typescript](https://tsh.io/state-of-frontend/?ref=dailydev#typescript)<br>
 
+## Mastering JS
+- [https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k?ref=dailydev](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k?ref=dailydev)<br>
+
