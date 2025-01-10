@@ -723,6 +723,7 @@ Table of Contents
 - [https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665](https://dev.to/thisurathenuka/closures-javascript-concepts-simplified-4665)<br>
 - [https://htmlcheatsheet.com/js/?ref=dailydev](https://htmlcheatsheet.com/js/?ref=dailydev)<br>
 - [https://github.com/jenniferfu0811](https://github.com/jenniferfu0811)<br>
+- [https://quickref.me/javascript?ref=dailydev](https://quickref.me/javascript?ref=dailydev)<br>
 
 ## `Javascript News Letters`
 - [https://javascriptkicks.com/@JavaScriptKicks](https://javascriptkicks.com/@JavaScriptKicks)<br/>
