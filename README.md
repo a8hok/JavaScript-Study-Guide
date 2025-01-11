@@ -813,6 +813,7 @@ Table of Contents
  - [https://www.javacodegeeks.com/2023/10/javascript-fundamentals-2023-a-complete-learning-journey.html?ref=dailydev#google_vignette](https://www.javacodegeeks.com/2023/10/javascript-fundamentals-2023-a-complete-learning-journey.html?ref=dailydev#google_vignette)<br>
  - [https://blog.openreplay.com/all-about-cookies-and-javascript/?ref=dailydev](https://blog.openreplay.com/all-about-cookies-and-javascript/?ref=dailydev)<br>
  - [https://dev.to/dhirajaryaa/javascript-learning-roadmap-4nc3?ref=dailydev](https://dev.to/dhirajaryaa/javascript-learning-roadmap-4nc3?ref=dailydev)<br>
+ - [https://www.learn-js.org/?ref=dailydev#google_vignette](https://www.learn-js.org/?ref=dailydev#google_vignette)<br>
 
 ## `Javascript Books`
 - [https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf](https://matfuvit.github.io/UVIT/predavanja/literatura/TutorialsPoint%20JavaScript.pdf)<br>
