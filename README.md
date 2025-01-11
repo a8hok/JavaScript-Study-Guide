@@ -711,6 +711,7 @@ Table of Contents
 - [https://www.codu.co/articles/how-to-encode-a-url-in-javascript-kn-wk49b?ref=dailydev](https://www.codu.co/articles/how-to-encode-a-url-in-javascript-kn-wk49b?ref=dailydev)<br>
 - [https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev](https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev)<br>
 - [https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev)<br>
+- [https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
