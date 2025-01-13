@@ -101,6 +101,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/javascript-advanced-operators/](https://www.freecodecamp.org/news/javascript-advanced-operators/)<br>
     - [https://javascript.plainenglish.io/day-10-how-does-this-javascript-scope-work-f6f894cc2e42](https://javascript.plainenglish.io/day-10-how-does-this-javascript-scope-work-f6f894cc2e42)<br>
     - [https://jsdevspace.substack.com/p/why-axios-outperforms-fetch-for-downloading?ref=dailydev](https://jsdevspace.substack.com/p/why-axios-outperforms-fetch-for-downloading?ref=dailydev)<br>
+    - [https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev)<br>
 
 
 - ## this
