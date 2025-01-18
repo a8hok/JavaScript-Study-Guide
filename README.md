@@ -103,6 +103,7 @@ Table of Contents
     - [https://jsdevspace.substack.com/p/why-axios-outperforms-fetch-for-downloading?ref=dailydev](https://jsdevspace.substack.com/p/why-axios-outperforms-fetch-for-downloading?ref=dailydev)<br>
     - [https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev)<br>
     - [https://javascript.plainenglish.io/mastering-javascript-loops-d0f0599ac02c](https://javascript.plainenglish.io/mastering-javascript-loops-d0f0599ac02c)<br>
+    - [https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm?ref=dailydev](https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm?ref=dailydev)<br>
 
 
 - ## this
