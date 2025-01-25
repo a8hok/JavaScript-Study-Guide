@@ -715,6 +715,7 @@ Table of Contents
 - [https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev](https://dev.to/dipakahirav/top-10-javascript-best-practices-for-writing-clean-code-3fie?ref=dailydev)<br>
 - [https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev)<br>
 - [https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev)<br>
+- [https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627](https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627)<br>
 
 
 ## `Javascript Cheatsheet`
