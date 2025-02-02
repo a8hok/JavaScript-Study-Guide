@@ -716,6 +716,7 @@ Table of Contents
 - [https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev](https://blog.jetbrains.com/webstorm/2024/10/javascript-best-practices-2024/?ref=dailydev)<br>
 - [https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev](https://dev.to/themeselection/the-ultimate-javascript-cheatsheet-collection-2k1l?ref=dailydev)<br>
 - [https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627](https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627)<br>
+- [https://dev.to/shafayeat/series/29121?ref=dailydev](https://dev.to/shafayeat/series/29121?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
