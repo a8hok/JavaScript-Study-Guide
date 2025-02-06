@@ -520,6 +520,7 @@ Table of Contents
     - [https://divysblog.hashnode.dev/object-oriented-programming-in-javascript?ref=dailydev](https://divysblog.hashnode.dev/object-oriented-programming-in-javascript?ref=dailydev)<br>
     - [https://jsdev.space/inheritance-js/?ref=dailydev](https://jsdev.space/inheritance-js/?ref=dailydev)<br>
     - [https://www.syncfusion.com/blogs/post/prevent-javascript-memory-leaks-guide?ref=dailydev](https://www.syncfusion.com/blogs/post/prevent-javascript-memory-leaks-guide?ref=dailydev)<br>
+    - [https://medium.com/@jackpritomsoren/mastering-higher-order-functions-in-javascript-0c03795f3a50](https://medium.com/@jackpritomsoren/mastering-higher-order-functions-in-javascript-0c03795f3a50)<br>
 
 - ## String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
