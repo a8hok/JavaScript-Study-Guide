@@ -441,6 +441,7 @@ Table of Contents
     - [https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0](https://blog.stackademic.com/understanding-the-differences-between-for-of-foreach-and-map-in-javascript-44b4a1c48ff0)<br>
     - [https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev)<br>
     - [https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev)<br>
+    - [https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769?ref=dailydev](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769?ref=dailydev)<br>
 
 
 - ## Event Loop
