@@ -721,6 +721,8 @@ Table of Contents
 - [https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627](https://blog.devgenius.io/10-advanced-javascript-tricks-for-experienced-developers-7dd8ca1e2627)<br>
 - [https://dev.to/shafayeat/series/29121?ref=dailydev](https://dev.to/shafayeat/series/29121?ref=dailydev)<br>
 - [https://github.com/leonardomso/33-js-concepts?ref=dailydev](https://github.com/leonardomso/33-js-concepts?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev)<br>
+
 
 
 ## `Javascript Cheatsheet`
