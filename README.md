@@ -522,6 +522,7 @@ Table of Contents
     - [https://jsdev.space/inheritance-js/?ref=dailydev](https://jsdev.space/inheritance-js/?ref=dailydev)<br>
     - [https://www.syncfusion.com/blogs/post/prevent-javascript-memory-leaks-guide?ref=dailydev](https://www.syncfusion.com/blogs/post/prevent-javascript-memory-leaks-guide?ref=dailydev)<br>
     - [https://medium.com/@jackpritomsoren/mastering-higher-order-functions-in-javascript-0c03795f3a50](https://medium.com/@jackpritomsoren/mastering-higher-order-functions-in-javascript-0c03795f3a50)<br>
+    - [https://medium.com/@jackpritomsoren/understanding-javascript-prototypes-a-key-to-mastering-oop-7ddbe54a8ec5](https://medium.com/@jackpritomsoren/understanding-javascript-prototypes-a-key-to-mastering-oop-7ddbe54a8ec5)<br>
 
 - ## String
     - [https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb](https://dev.to/satishnaikawadi2001/15-very-important-javascript-string-methods-every-developer-should-know-1apb)<br>
