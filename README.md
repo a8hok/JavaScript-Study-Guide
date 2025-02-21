@@ -220,6 +220,7 @@ Table of Contents
     - [https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/)<br>
     - [https://claritydev.net/blog/javascript-higher-order-functions-explained?ref=dailydev#google_vignette](https://claritydev.net/blog/javascript-higher-order-functions-explained?ref=dailydev#google_vignette)<br>
     - [https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/)<br>
+    - [https://leapcell.io/blog/mastering-functional-programming-zero-to-hero?ref=dailydev](https://leapcell.io/blog/mastering-functional-programming-zero-to-hero?ref=dailydev)<br>
    
 
 - ## Closure
