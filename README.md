@@ -443,6 +443,7 @@ Table of Contents
     - [https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev)<br>
     - [https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev](https://dev.to/engrsakib/mastering-javascript-arrays-techniques-best-practices-and-advanced-uses-42mb?ref=dailydev)<br>
     - [https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769?ref=dailydev](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769?ref=dailydev)<br>
+    - [https://itnext.io/the-hidden-cost-of-js-arrays-ae39b5356e52](https://itnext.io/the-hidden-cost-of-js-arrays-ae39b5356e52)<br>
 
 
 - ## Event Loop
