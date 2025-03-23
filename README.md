@@ -104,6 +104,7 @@ Table of Contents
     - [https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev](https://dev.to/gurjeetsinghvirdee/javascript-deep-dive-understanding-data-types-2mma?ref=dailydev)<br>
     - [https://javascript.plainenglish.io/mastering-javascript-loops-d0f0599ac02c](https://javascript.plainenglish.io/mastering-javascript-loops-d0f0599ac02c)<br>
     - [https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm?ref=dailydev](https://dev.to/thesanjeevsharma/cookies-local-storage-and-session-storage-1hkm?ref=dailydev)<br>
+    - [https://uvaiscodes.blogspot.com/2024/06/7-awesome-free-javascript-courses-with.html?ref=dailydev](https://uvaiscodes.blogspot.com/2024/06/7-awesome-free-javascript-courses-with.html?ref=dailydev)<br>
 
 
 - ## this
