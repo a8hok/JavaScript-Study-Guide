@@ -888,6 +888,7 @@ Table of Contents
 - [https://www.kirupa.com/html5/stacks_in_javascript.htm](https://www.kirupa.com/html5/stacks_in_javascript.htm)<br>
 - [https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a?ref=dailydev](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a?ref=dailydev)<br>
 - [https://jsdev.space/js-frameworks-libs/?ref=dailydev](https://jsdev.space/js-frameworks-libs/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/?ref=dailydev#heading-alova](https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/?ref=dailydev#heading-alova)<br>
 
 
 ## `Best Practices`
