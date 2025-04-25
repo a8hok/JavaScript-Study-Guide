@@ -475,6 +475,7 @@ Table of Contents
     - [https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289?ref=dailydev](https://dev.to/mdhassanpatwary/javascript-event-loop-a-deep-dive-2289?ref=dailydev)<br>
     - [https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?ref=dailydev](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif?ref=dailydev)<br>
     - [https://dev.to/tanishparashar/how-js-works-behind-the-scenes-1knn?ref=dailydev](https://dev.to/tanishparashar/how-js-works-behind-the-scenes-1knn?ref=dailydev)<br>
+    - [https://hromium.com/javascript-visualized-event-loop?ref=dailydev](https://hromium.com/javascript-visualized-event-loop?ref=dailydev)<br>
 
 
 - ## Objects
