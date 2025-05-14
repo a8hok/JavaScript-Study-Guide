@@ -733,6 +733,7 @@ Table of Contents
 - [https://dev.to/shafayeat/series/29121?ref=dailydev](https://dev.to/shafayeat/series/29121?ref=dailydev)<br>
 - [https://github.com/leonardomso/33-js-concepts?ref=dailydev](https://github.com/leonardomso/33-js-concepts?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev)<br>
+- [https://www.infoworld.com/article/3977605/8-ways-to-do-more-with-modern-javascript.html?ref=dailydev](https://www.infoworld.com/article/3977605/8-ways-to-do-more-with-modern-javascript.html?ref=dailydev)<br>
 
 
 
