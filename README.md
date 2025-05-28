@@ -735,6 +735,7 @@ Table of Contents
 - [https://github.com/leonardomso/33-js-concepts?ref=dailydev](https://github.com/leonardomso/33-js-concepts?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-clean-code-handbook/?ref=dailydev)<br>
 - [https://www.infoworld.com/article/3977605/8-ways-to-do-more-with-modern-javascript.html?ref=dailydev](https://www.infoworld.com/article/3977605/8-ways-to-do-more-with-modern-javascript.html?ref=dailydev)<br>
+- [https://dev.to/code_2/40-javascript-shortcuts-every-developer-should-know-in-2025-28cl?ref=dailydev](https://dev.to/code_2/40-javascript-shortcuts-every-developer-should-know-in-2025-28cl?ref=dailydev)<br>
 
 
 
