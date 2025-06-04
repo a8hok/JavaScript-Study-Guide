@@ -243,6 +243,7 @@ Table of Contents
     - [https://medium.com/@devishraq/mastering-javascript-closures-an-in-depth-guide-0930184aff0f](https://medium.com/@devishraq/mastering-javascript-closures-an-in-depth-guide-0930184aff0f)<br>
     - [https://medium.com/@shahbishwa21/understanding-lexical-scope-and-closures-in-javascript-ae16b050f47c](https://medium.com/@shahbishwa21/understanding-lexical-scope-and-closures-in-javascript-ae16b050f47c)<br>
     - [https://tigerabrodi.blog/debounce-and-throttle?ref=dailydev](https://tigerabrodi.blog/debounce-and-throttle?ref=dailydev)<br>
+    - [https://dev.to/matheusjulidori/do-you-know-how-it-works-js-closures-1pj4?ref=dailydev](https://dev.to/matheusjulidori/do-you-know-how-it-works-js-closures-1pj4?ref=dailydev)<br>
 
 - ## Iterators
     - [https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e](https://madasamy.medium.com/explanation-about-iterators-and-generators-in-javascript-es6-f7e669cbe96e)<br>
