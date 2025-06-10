@@ -919,6 +919,7 @@ Table of Contents
 - [https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/](https://www.lambdatest.com/blog/how-to-reduce-page-load-time-javascript/)<br>
 - [https://jscodechallenges.vercel.app/challenges/primitives](https://jscodechallenges.vercel.app/challenges/primitives)<br>
 - [https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii?ref=dailydev](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii?ref=dailydev)<br>
+- [https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025?ref=dailydev](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025?ref=dailydev)<br>
 
 
 ## `Javascript Projects`
