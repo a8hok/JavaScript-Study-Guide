@@ -161,6 +161,7 @@ Table of Contents
     - [https://dev.to/claranet/solid-principles-3kld?ref=dailydev](https://dev.to/claranet/solid-principles-3kld?ref=dailydev)<br>
     - [https://blogs.thnkandgrow.com/mastering-javascript-top-5-design-patterns/?ref=dailydev](https://blogs.thnkandgrow.com/mastering-javascript-top-5-design-patterns/?ref=dailydev)<br>
     - [https://medium.com/@hoainho.work/master-the-top-5-essential-javascript-design-patterns-every-developer-should-know-a0bc1e92847f](https://medium.com/@hoainho.work/master-the-top-5-essential-javascript-design-patterns-every-developer-should-know-a0bc1e92847f)<br>
+    - [https://jsdev.space/creational-design-patterns/?ref=dailydev](https://jsdev.space/creational-design-patterns/?ref=dailydev)<br>
     
 
 - ## Prototype
