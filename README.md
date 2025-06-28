@@ -393,6 +393,7 @@ Table of Contents
     - [https://dev.to/mursalfk/write-minimal-es6-code-1o81?ref=dailydev](https://dev.to/mursalfk/write-minimal-es6-code-1o81?ref=dailydev)<br>
     - [https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9?ref=dailydev](https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9?ref=dailydev)<br>
     - [https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/](https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/)<br>
+    - [https://deno.com/blog/updates-from-tc39](https://deno.com/blog/updates-from-tc39)<br>
 
 
 - ## Array
