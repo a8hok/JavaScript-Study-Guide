@@ -743,6 +743,7 @@ Table of Contents
 - [https://dev.to/code_2/40-javascript-shortcuts-every-developer-should-know-in-2025-28cl?ref=dailydev](https://dev.to/code_2/40-javascript-shortcuts-every-developer-should-know-in-2025-28cl?ref=dailydev)<br>
 - [https://jsdev.space/solid-design-principles/?ref=dailydev](https://jsdev.space/solid-design-principles/?ref=dailydev)<br>
 - [https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest](https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest)<br>
+- [https://jsdate.wtf/?ref=dailydev](https://jsdate.wtf/?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
