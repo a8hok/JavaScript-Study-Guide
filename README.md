@@ -394,6 +394,7 @@ Table of Contents
     - [https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9?ref=dailydev](https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9?ref=dailydev)<br>
     - [https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/](https://www.inkoop.io/blog/new-javascript-features-for-ecmascript-2022/)<br>
     - [https://deno.com/blog/updates-from-tc39](https://deno.com/blog/updates-from-tc39)<br>
+    - [https://medium.com/@alexdev82/whats-new-in-javascript-es2025-f9e99d04f45c](https://medium.com/@alexdev82/whats-new-in-javascript-es2025-f9e99d04f45c)<br>
 
 
 - ## Array
