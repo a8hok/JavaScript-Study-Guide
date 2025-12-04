@@ -555,6 +555,7 @@ Table of Contents
     - [https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates](https://claritydev.net/blog/javascript-advanced-string-manipulation-tagged-templates)<br>
     - [https://blog.openreplay.com/what-is-better--datefns-or-moment/](https://blog.openreplay.com/what-is-better--datefns-or-moment/)<br>
     - [https://neon.tech/blog/fixing-javascript-timezone-issues?ref=dailydev](https://neon.tech/blog/fixing-javascript-timezone-issues?ref=dailydev)<br>
+    - [https://pikaday.dbushell.com/?ref=dailydev](https://pikaday.dbushell.com/?ref=dailydev)<br>
 
 - ## Regex
     - [https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript](https://yuricodesbot.hashnode.dev/ultimate-guide-to-regular-expressions-regex-on-javascript)<br/>
