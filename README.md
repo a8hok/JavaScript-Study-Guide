@@ -396,6 +396,7 @@ Table of Contents
     - [https://deno.com/blog/updates-from-tc39](https://deno.com/blog/updates-from-tc39)<br>
     - [https://medium.com/@alexdev82/whats-new-in-javascript-es2025-f9e99d04f45c](https://medium.com/@alexdev82/whats-new-in-javascript-es2025-f9e99d04f45c)<br>
     - [https://thenewstack.io/es2026-solves-javascript-headaches-with-dates-math-and-modules/?ref=dailydev](https://thenewstack.io/es2026-solves-javascript-headaches-with-dates-math-and-modules/?ref=dailydev)<br>
+    - [https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e?context=digest](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e?context=digest)<br>
 
 
 - ## Array
