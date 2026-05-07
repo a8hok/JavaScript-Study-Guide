@@ -485,6 +485,7 @@ Table of Contents
     - [https://dev.to/tanishparashar/how-js-works-behind-the-scenes-1knn?ref=dailydev](https://dev.to/tanishparashar/how-js-works-behind-the-scenes-1knn?ref=dailydev)<br>
     - [https://hromium.com/javascript-visualized-event-loop?ref=dailydev](https://hromium.com/javascript-visualized-event-loop?ref=dailydev)<br>
     - [https://www.lydiahallie.com/blog/event-loop?ref=dailydev](https://www.lydiahallie.com/blog/event-loop?ref=dailydev)<br>
+    - [https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/](https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/)<br>
 
 
 - ## Objects
