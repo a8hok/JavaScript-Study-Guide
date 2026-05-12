@@ -750,6 +750,7 @@ Table of Contents
 - [https://jsdev.space/solid-design-principles/?ref=dailydev](https://jsdev.space/solid-design-principles/?ref=dailydev)<br>
 - [https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest](https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest)<br>
 - [https://jsdate.wtf/?ref=dailydev](https://jsdate.wtf/?ref=dailydev)<br>
+- [https://thetshaped.dev/p/20-mistakes-that-quietly-destroy-javascript-typescript-codebases-common-code-smell-patterns-async-performance-testing?ref=dailydev](https://thetshaped.dev/p/20-mistakes-that-quietly-destroy-javascript-typescript-codebases-common-code-smell-patterns-async-performance-testing?ref=dailydev)<br>
 
 
 ## `Javascript Cheatsheet`
