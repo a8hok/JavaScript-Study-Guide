@@ -911,6 +911,7 @@ Table of Contents
 - [https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a?ref=dailydev](https://dev.to/shafayeat/javascript-memory-management-and-optimization-techniques-for-large-scale-applications-5e4a?ref=dailydev)<br>
 - [https://jsdev.space/js-frameworks-libs/?ref=dailydev](https://jsdev.space/js-frameworks-libs/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/?ref=dailydev#heading-alova](https://www.freecodecamp.org/news/fetch-api-vs-axios-vs-alova/?ref=dailydev#heading-alova)<br>
+- [https://neciudan.dev/7-cool-javascript-libraries-you-might-want-to-use?ref=dailydev](https://neciudan.dev/7-cool-javascript-libraries-you-might-want-to-use?ref=dailydev)<br>
 
 
 ## `Best Practices`
