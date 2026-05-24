@@ -1044,3 +1044,6 @@ Table of Contents
 - [https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k?ref=dailydev](https://dev.to/shafayeat/mastering-javascript-event-delegation-3k2k?ref=dailydev)<br>
 - [https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d?ref=dailydev](https://dev.to/web_dev-usman/20-must-know-javascript-libraries-for-data-visualization-508d?ref=dailydev)<br>
 
+## JWT
+- [https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/](https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/)<br>
+
