@@ -994,6 +994,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/javascript-projects-for-beginners/?ref=dailydev](https://www.freecodecamp.org/news/javascript-projects-for-beginners/?ref=dailydev)<br>
 - [https://github.com/Ayushparikh-code/Web-dev-mini-projects](https://github.com/Ayushparikh-code/Web-dev-mini-projects)<br>
 
+
 ## `Youtube channels`
 - [https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s](https://dzone.com/articles/22-youtube-channels-to-level-up-your-programming-s)<br>
 - [https://www.codewall.co.uk/best-javascript-youtube-channels/](https://www.codewall.co.uk/best-javascript-youtube-channels/)<br>
@@ -1027,6 +1028,7 @@ Table of Contents
 - [https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/](https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/)<br>
 - [https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-the-javascript-geolocation-api/?ref=dailydev)<br>
 - [https://priyankachaudhari.hashnode.dev/understanding-the-differences-session-storage-and-cookies-explained?ref=dailydev](https://priyankachaudhari.hashnode.dev/understanding-the-differences-session-storage-and-cookies-explained?ref=dailydev)<br>
+- [https://artclick-inc.medium.com/how-the-javascript-runtime-schedules-callbacks-a-look-at-the-event-loop-14e17b9ef7c0](https://artclick-inc.medium.com/how-the-javascript-runtime-schedules-callbacks-a-look-at-the-event-loop-14e17b9ef7c0)<br>
 
 ## JS DOM
 - [https://www.freecodecamp.org/news/javascript-document-object-model-explained/](https://www.freecodecamp.org/news/javascript-document-object-model-explained/)<br>
