@@ -752,6 +752,7 @@ Table of Contents
 - [https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest](https://dev.to/mene_demogul/10-mind-blowing-javascript-tricks-every-developer-should-know-506a?context=digest)<br>
 - [https://jsdate.wtf/?ref=dailydev](https://jsdate.wtf/?ref=dailydev)<br>
 - [https://thetshaped.dev/p/20-mistakes-that-quietly-destroy-javascript-typescript-codebases-common-code-smell-patterns-async-performance-testing?ref=dailydev](https://thetshaped.dev/p/20-mistakes-that-quietly-destroy-javascript-typescript-codebases-common-code-smell-patterns-async-performance-testing?ref=dailydev)<br>
+- [https://jsdevspace.substack.com/p/20-modern-javascript-tricks-for-cleaner](https://jsdevspace.substack.com/p/20-modern-javascript-tricks-for-cleaner)<br>
 
 
 ## `Javascript Cheatsheet`
