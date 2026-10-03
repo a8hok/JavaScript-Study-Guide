@@ -399,6 +399,7 @@ Table of Contents
     - [https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e?context=digest](https://dev.to/sylwia-lask/16-modern-javascript-features-that-might-blow-your-mind-4h5e?context=digest)<br>
     - [https://neciudan.dev/whats-new-in-javascript?ref=dailydev](https://neciudan.dev/whats-new-in-javascript?ref=dailydev)<br>
     - [https://pawelgrzybek.com/whats-new-in-ecmascript-2026/?ref=dailydev](https://pawelgrzybek.com/whats-new-in-ecmascript-2026/?ref=dailydev)<br>
+    - [https://jsdev.space/ecmascript-2026-features/?via=dailydev](https://jsdev.space/ecmascript-2026-features/?via=dailydev)<br>
 
 
 - ## Array
