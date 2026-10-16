@@ -489,6 +489,7 @@ Table of Contents
     - [https://hromium.com/javascript-visualized-event-loop?ref=dailydev](https://hromium.com/javascript-visualized-event-loop?ref=dailydev)<br>
     - [https://www.lydiahallie.com/blog/event-loop?ref=dailydev](https://www.lydiahallie.com/blog/event-loop?ref=dailydev)<br>
     - [https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/](https://www.freecodecamp.org/news/mastering-the-javascript-event-loop/)<br>
+    - [https://www.sitepoint.com/javascript-event-loop-explained-debugging-guide/?via=dailydev](https://www.sitepoint.com/javascript-event-loop-explained-debugging-guide/?via=dailydev)<br>
 
 
 - ## Objects
